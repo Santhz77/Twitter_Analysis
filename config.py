@@ -18,5 +18,9 @@ MAX_ROW_SIZE = 1897
 #Provide the details on person as to whom the data must be fetched
 PERSON = "BA3 (Obschonka)"
 
+#To convert from json_to csv
+json_read_folder = 'data/'
+csv_write_folder = 'data_csv/'
+
 #GEOBOX_WORLD = [-180,-90,180,90]
 #GEOBOX_GERMANY = [5.0770049095, 47.2982950435, 15.0403900146, 54.9039819757]
