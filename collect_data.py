@@ -14,6 +14,7 @@ import time
 import string
 import config
 import json
+import os
 
 from openpyxl import load_workbook
 
@@ -41,11 +42,8 @@ def convert_valid(one_char):
         return '_'
 
 
-
-def read_timeline(screen_name):
-    # to get the time line of the user
-    query_username = format_filename(screen_name)
-    outfile = "%s/stream_%s.json" % (config.DATA_DIR, query_username)
+# to get the time line of the user
+def read_timeline(screen_name,outfile):
 
     # Twitter API Authentication
     auth = OAuthHandler(config.consumer_key, config.consumer_secret)
@@ -55,7 +53,6 @@ def read_timeline(screen_name):
     print("Initialising the Connection to Twitter API")
     time.sleep(2)
     print("Connection established... :)")
-
 
     print(" ")
     print("Extracting the tweets from user : %s" %screen_name)
@@ -74,7 +71,8 @@ def read_timeline(screen_name):
         oldest = alltweets[-1].id - 1
 
         #User display of status
-        print("Tweets downloaded....%s" % (len(alltweets)),end="", flush=True)
+        print(" ")
+        print("Tweets downloaded....%s" %len(alltweets) , end=' ',flush=True)
 
         # keep grabbing tweets until there are no tweets left to grab
         while len(new_tweets) > 0:
@@ -87,11 +85,10 @@ def read_timeline(screen_name):
             alltweets.extend(new_tweets)
 
             # update the id of the oldest tweet less one
+            #if len(alltweets) > 1:
             oldest = alltweets[-1].id - 1
 
-            print("...%s" % (len(alltweets)), end="", flush=True)
-
-            # When maximum tweets are downloaded, sleep for 4 minutes to avoid the rate Limit Error
+            print("...%s" %len(alltweets), end=' ',flush=True)
 
 
         print("")
@@ -105,9 +102,16 @@ def read_timeline(screen_name):
             with open(outfile, 'a') as f:
                 f.write(json_str + "\n")
         return 1
-    except:  # catch *all* exceptions
-        e = sys.exc_info()[0]
-        print(e.message)
+    except tweepy.TweepError as e:
+        print("Error Response :" + str(e.response))
+        print("Tweepy Error Code :" + str(e.api_code))
+        print("tweepy error occured for user %s" %screen_name)
+        return 2
+    except (ValueError, IndexError):
+        print("Index error occured ")
+        return 2
+    except Exception:# pass:  # catch *all* exceptions
+        print("Unkwown exception occured")
         return 2
 
 #Method to get the data from the XLS file given in config file.
@@ -122,7 +126,7 @@ def extract_data_from_excel():
 
     #row_count = 1897  #worksheet.get_highest_row() - 1
 
-    print("fetching the username for %s from the Xls sheet" % config.PERSON)
+    print("Fetching the username for %s from the Excel sheet" % config.PERSON)
     print("Please wait, this may take some time.")
     index = 0
     for row in range(config.MIX_ROW_SIZE,config.MAX_ROW_SIZE):
@@ -161,26 +165,80 @@ if __name__ == '__main__':
     #To fetch the data from the Excel Sheet
     username_list = extract_data_from_excel()
 
+    if os.path.isfile(config.USERNAME_LIST_TXT):
+        print("Old execution file found.Extracting information on already downloaded data.")
+        f = open(config.USERNAME_LIST_TXT, 'r')
+        read_userlist = f.readlines()
+        #del read_userlist[-1]
+        #f = open(config.USERNAME_LIST_TXT, 'w')
+        #f.writelines(read_userlist)
+
+
+    #print(read_userlist[(len(read_userlist) - 1)])
+
+    temp_list = list(username_list)
+
+    for user in username_list:
+        for saved_user in read_userlist:
+            saved_user = saved_user[:-1]
+            if saved_user == user:
+                temp_list.remove(saved_user)
+                break
+    print("Updated the file to remove redundant data")
+
+    print("Number of people remaining to be extracted :" + str(len(temp_list)))
+    print("Total number of people to be extracted :" + str(len(username_list)))
+
 
     #get the timeline of the user
-    #for user in username_list:
+    for user in temp_list:
 
-        # save the user_list in a file
-        #with open("data/users_list.txt", 'a') as f:
-         #   f.write(user + "\n")
 
-    status = read_timeline("robertjweber")   #user)
+        #include the data to the output json file
+        query_username = format_filename(user)
+        outfile = "%s/stream_%s.json" % (config.DATA_DIR, query_username)
 
-        #if status == 1:
-        #    print("Successfully written into the file for user : %s" %user)
-         #   time.sleep(240)  # Arbitarary sleep time of 4 minutes to avoid the rate limit error
-        #else:
-         #   print("Some Error happened!")
+        #with open(outfile, 'a') as f:
+        #  f.write("{\"alltweets\":[")
+
+        status = read_timeline(user,outfile)
+
+        if status == 1:
+            with open(config.USERNAME_LIST_TXT, 'a') as f:
+                f.write(user + "\n")
+                print("Updated the file %s" %config.USERNAME_LIST_TXT)
+            print("Successfully written into the file for user : %s" %user)
+            print("User %s data downloaded and written at Executed at : " % user + str(time.ctime()))
+            print("system sleeps.. 5 minutes.")
+            time.sleep(300)  # Arbitrary sleep time of 5 minutes to avoid the rate limit error
+            print("system wakes")
+            print("=======================================================")
+            print("")
+
+            #with open(outfile, 'a') as f:
+            #   f.write("]}")
+            # save the user_list in a file
+
+
+        else:
+            with open("data/error_list.txt", 'a') as f:
+                f.write(user + "\n")
+            print("Some Error happened when writing for user : %s!" % user)
+            print("Error occurred at : " + str(time.ctime()))
+            print("system sleeps.. 5 minutes.")
+            time.sleep(300)  # Arbitrary sleep time of 5 minutes to avoid the rate limit error
+            print("system wakes")
+            print("=======================================================")
+            print("")
+
+
+
 
     print("Program Completed")
 
     print("")
     print("****************************************************************")
     print("Program Developed by Santhosh Nayak (santhoshnayak0903@gmail.com)")
+    print("****************************************************************")
 
 # -------------------Program Ends here -------------------
