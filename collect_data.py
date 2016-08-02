@@ -64,6 +64,10 @@ def read_timeline(screen_name,outfile):
         # make initial request for most recent tweets (200 is the maximum allowed count)
         new_tweets = api.user_timeline(screen_name=screen_name, count=200)
 
+        if len(new_tweets) == 0:
+            print("The user has not tweeted anything. Zero tweets found")
+            return 3
+
         # save most recent tweets
         alltweets.extend(new_tweets)
 
@@ -72,11 +76,10 @@ def read_timeline(screen_name,outfile):
 
         #User display of status
         print(" ")
-        print("Tweets downloaded....%s" %len(alltweets) , end=' ',flush=True)
+        print("Tweets downloaded....%s" %len(alltweets), end=' ',flush=True)
 
         # keep grabbing tweets until there are no tweets left to grab
         while len(new_tweets) > 0:
-            #print("getting tweets before %s" % (oldest))
 
             # all subsiquent requests use the max_id param to prevent duplicates
             new_tweets = api.user_timeline(screen_name=screen_name, count=200, max_id=oldest)
@@ -85,7 +88,6 @@ def read_timeline(screen_name,outfile):
             alltweets.extend(new_tweets)
 
             # update the id of the oldest tweet less one
-            #if len(alltweets) > 1:
             oldest = alltweets[-1].id - 1
 
             print("...%s" %len(alltweets), end=' ',flush=True)
@@ -99,16 +101,19 @@ def read_timeline(screen_name,outfile):
         print("Writing the downloaded tweets into the file : %s" %outfile)
         for tweet in alltweets:
             json_str = json.dumps(tweet._json)
-            with open(outfile, 'a') as f:
+            with open(outfile, 'a', encoding="utf-8") as f:
                 f.write(json_str + "\n")
         return 1
     except tweepy.TweepError as e:
+        z = e
+        print(z)
         print("Error Response :" + str(e.response))
         print("Tweepy Error Code :" + str(e.api_code))
         print("tweepy error occured for user %s" %screen_name)
         return 2
-    except (ValueError, IndexError):
-        print("Index error occured ")
+    except (ValueError, IndexError) as e1:
+        z = e1
+        print(z)
         return 2
     except Exception:# pass:  # catch *all* exceptions
         print("Unkwown exception occured")
@@ -131,7 +136,7 @@ def extract_data_from_excel():
     index = 0
     for row in range(config.MIX_ROW_SIZE,config.MAX_ROW_SIZE):
 
-        for column in "G":
+        '''for column in "G":
             cell_name = "{}{}".format(column, row)
 
             if worksheet[cell_name].value == config.PERSON:
@@ -143,7 +148,15 @@ def extract_data_from_excel():
                     if screen_name[:5] == "https":
                         business_angels_list.append(screen_name[20:])
                     else:
-                        business_angels_list.append(screen_name[19:])
+                        business_angels_list.append(screen_name[19:])'''
+        for column in "D":
+            cell_name = "{}{}".format(column, row)
+            screen_name = worksheet[cell_name].value
+
+            if screen_name[:5] == "https":
+                business_angels_list.append(screen_name[20:])
+            else:
+                business_angels_list.append(screen_name[19:])
 
         index = index+1
 
@@ -169,12 +182,6 @@ if __name__ == '__main__':
         print("Old execution file found.Extracting information on already downloaded data.")
         f = open(config.USERNAME_LIST_TXT, 'r')
         read_userlist = f.readlines()
-        #del read_userlist[-1]
-        #f = open(config.USERNAME_LIST_TXT, 'w')
-        #f.writelines(read_userlist)
-
-
-    #print(read_userlist[(len(read_userlist) - 1)])
 
     temp_list = list(username_list)
 
@@ -185,21 +192,18 @@ if __name__ == '__main__':
                 temp_list.remove(saved_user)
                 break
     print("Updated the file to remove redundant data")
-
+    print("")
     print("Number of people remaining to be extracted :" + str(len(temp_list)))
     print("Total number of people to be extracted :" + str(len(username_list)))
+    print("")
 
 
     #get the timeline of the user
     for user in temp_list:
 
-
         #include the data to the output json file
         query_username = format_filename(user)
         outfile = "%s/stream_%s.json" % (config.DATA_DIR, query_username)
-
-        #with open(outfile, 'a') as f:
-        #  f.write("{\"alltweets\":[")
 
         status = read_timeline(user,outfile)
 
@@ -214,14 +218,17 @@ if __name__ == '__main__':
             print("system wakes")
             print("=======================================================")
             print("")
-
-            #with open(outfile, 'a') as f:
-            #   f.write("]}")
-            # save the user_list in a file
-
-
+        elif status == 3:
+            with open(config.WRITE_ERROR_LIST, 'a') as f:
+                f.write(user + ": No Tweets found \n")
+            print("No json file saved.Updated the error list with text : \'No Tweets found\'")
+            print("")
+            print("system sleeps.. 5 minutes.")
+            time.sleep(300)  # Arbitrary sleep time of 5 minutes to avoid the rate limit error
+            print("system wakes")
+            print("=======================================================")
         else:
-            with open("data/error_list.txt", 'a') as f:
+            with open(config.WRITE_ERROR_LIST, 'a') as f:
                 f.write(user + "\n")
             print("Some Error happened when writing for user : %s!" % user)
             print("Error occurred at : " + str(time.ctime()))
@@ -231,11 +238,7 @@ if __name__ == '__main__':
             print("=======================================================")
             print("")
 
-
-
-
     print("Program Completed")
-
     print("")
     print("****************************************************************")
     print("Program Developed by Santhosh Nayak (santhoshnayak0903@gmail.com)")
