@@ -1,0 +1,695 @@
+Text,Created Date,Language,Retweet Count,Retweeted,Favorite Count,Favorited,co-ordinates,Tweeted By,Screen Name
+RT @docker: .@Docker on #Windows Server 2016 Technical Preview 5! Read more in this blog post by @friism https://t.co/UWQeJ4wDMN https://t.…,Wed Apr 27 17:39:52 +0000 2016,en,88,False,0,False,,Ben Golub,golubbe
+"RT @ManoMarks: I'm really happy to feature this great group of #DockerCaptains, &amp; so happy for the @docker community support https://t.co/L…",Wed Apr 27 17:38:55 +0000 2016,en,4,False,0,False,,Ben Golub,golubbe
+Amazing progress in @docker security over the past year. https://t.co/TNr98j0Bbr,Thu Apr 21 12:58:34 +0000 2016,en,14,False,14,False,,Ben Golub,golubbe
+"RT @AanandPrasad: We’re now seeing about 1,000 docker-compose.yml files created on GitHub per week! My goodness.",Fri Apr 15 00:00:28 +0000 2016,en,5,False,0,False,,Ben Golub,golubbe
+"Announcing @docker 1.11. OCI compliance, orch'n &amp; comp'n enhancemnt, &amp; usual emphasis on stability and quality. https://t.co/qvwRp1eenr",Wed Apr 13 23:45:38 +0000 2016,en,7,False,12,False,,Ben Golub,golubbe
+Excellent ed by @aspenjfm  https://t.co/48s8mtKZhf,Mon Apr 11 23:09:54 +0000 2016,en,1,False,2,False,,Ben Golub,golubbe
+RT @docker: Awesome 13 yrs old @aditya_g introducing #mobycraft @Minecraft client side mod to manage @docker containers https://t.co/pCJKN3…,Sat Apr 09 05:26:02 +0000 2016,en,48,False,0,False,,Ben Golub,golubbe
+RT @DockerCon: Major thank you to Platinum Sponsor @IBMcloud  for supporting @DockerCon 2016! https://t.co/tctRN6LrYf #dockercon https://t.…,Wed Apr 06 17:42:23 +0000 2016,en,4,False,0,False,,Ben Golub,golubbe
+"1 of best aspects of @Docker is huge, vibrant meetup community. 100K members,  245 cities,  72 countries! https://t.co/S5WjwJPYxk",Wed Apr 06 16:59:26 +0000 2016,en,20,False,21,False,,Ben Golub,golubbe
+Great article on the value of @Docker Data Center in banking. https://t.co/yqPyYqHWmU,Wed Apr 06 16:33:30 +0000 2016,en,2,False,3,False,,Ben Golub,golubbe
+RT @docker: 0 to HA: @mariadb &amp; #DockerSwarm in &lt;15 min on #IBM @SoftLayer (or anywhere) by @dayreiner: https://t.co/9XFiNpR7vo https://t.c…,Mon Apr 04 17:07:08 +0000 2016,en,28,False,0,False,,Ben Golub,golubbe
+"RT @docker: #Docker #Datacenter-In-A-Box: single script command to start VM containing Engine, UCP &amp; DTR https://t.co/f8i9V695vR https://t.…",Mon Apr 04 16:27:33 +0000 2016,en,93,False,0,False,,Ben Golub,golubbe
+"RT @docker: Announcing @Docker Hub Classic, an alternative way to pull images from #Docker Hub: https://t.co/OdHSUYiCzV https://t.co/e4Xj3o…",Fri Apr 01 15:41:41 +0000 2016,en,111,False,0,False,,Ben Golub,golubbe
+Docker at /Build https://t.co/QXSZyn70vZ,Wed Mar 30 19:03:57 +0000 2016,en,3,False,3,False,,Ben Golub,golubbe
+"RT @icecrime: Docker Engine 1.11-RC2 (codename ""mouse killer"") is out! Test it while it's hot, it packs a bunch of changes ;-) https://t.co…",Tue Mar 29 15:24:56 +0000 2016,en,46,False,0,False,,Ben Golub,golubbe
+"RT @SteveLasker: We've updated @docker tools for @VisualStudio to support #Docker for WIndows Beta: https://t.co/IO7KIbqIh7, including bett…",Tue Mar 29 15:24:38 +0000 2016,en,14,False,0,False,,Ben Golub,golubbe
+RT @docker: Join the @Docker for Mac and Windows Beta: the simplest way to use #Docker on your laptop! https://t.co/IA4nk2Eg7Z,Thu Mar 24 16:02:43 +0000 2016,en,236,False,0,False,,Ben Golub,golubbe
+RT @DockerCon: Sifting through some amazing @dockercon CFPs and there are so many proposals from Kids using @docker! Exciting to see- the f…,Fri Mar 18 18:49:36 +0000 2016,en,12,False,0,False,,Ben Golub,golubbe
+RT @docker: .@Docker Turns 3: What A Ride It Has Been by @madgreek65:  https://t.co/M27C5YL3Qy via @Forbes https://t.co/4Q8hYGwgzR,Fri Mar 18 16:06:46 +0000 2016,en,53,False,0,False,,Ben Golub,golubbe
+RT @docker: Welcome @verstaen! Looking forward to more awesome products from the #Docker team: https://t.co/yPY1eORdEs https://t.co/xPW85E7…,Wed Mar 16 22:45:59 +0000 2016,en,10,False,0,False,,Ben Golub,golubbe
+RT @BettyJunod: the day that launched a thousand ships...or containers...or whales?  #dockerbday coming up soon! @docker  https://t.co/ipRP…,Tue Mar 15 23:51:07 +0000 2016,en,3,False,0,False,,Ben Golub,golubbe
+"Awesome #SwarmWeek over. Now, looking forward to amazing #Dockercon! CFP  at https://t.co/KDGOmsemOd https://t.co/8536tWv2ly",Sun Mar 13 17:56:09 +0000 2016,en,4,False,1,False,,Ben Golub,golubbe
+"Awesome #SwarmWeek exposed @docker native orchestration thru use cases, benchmark studies, tutorials, &amp; more!   https://t.co/W2hhsWGTGQ",Sun Mar 13 17:16:44 +0000 2016,en,12,False,19,False,,Ben Golub,golubbe
+RT @docker: Only a few days left to submit your awesome @docker talks for @dockercon ! https://t.co/w45MvpLNvS #dockercon #docker,Fri Mar 11 20:56:16 +0000 2016,en,14,False,0,False,,Ben Golub,golubbe
+"RT @AhmetAlpBalkan: Finally Microsoft has a @Docker core maintainer. Nicely done John!
+https://t.co/RA5N6b6HZk",Fri Mar 11 20:56:09 +0000 2016,en,16,False,0,False,,Ben Golub,golubbe
+"@dberlind   Quite the opposite. We've got a 5 person recruiting org, &amp; have brought on ~25 folks since Jan 1. 
+https://t.co/kAkDz5GqPe",Fri Mar 11 19:10:04 +0000 2016,en,1,False,3,False,,Ben Golub,golubbe
+"RT @solomonstre: So how does Docker stack up against Kubernetes at large scale? https://t.co/eUca9zVgBx . Nice work, load testing is hard! …",Thu Mar 10 00:07:05 +0000 2016,en,66,False,0,False,,Ben Golub,golubbe
+RT @docker: #SwarmWeek: Evaluating #Container Platforms at Scale by @allingeek: https://t.co/KrqxoqFPVE #DockerSwarm https://t.co/hWFF20PkOS,Wed Mar 09 16:52:45 +0000 2016,en,45,False,0,False,,Ben Golub,golubbe
+RT @docker: #SwarmWeek How @healthdirectAU uses #DockerSwarm for Blue Green Deployments by @scottcoulton https://t.co/YVRhFnGq0y https://t.…,Tue Mar 08 18:03:18 +0000 2016,en,8,False,0,False,,Ben Golub,golubbe
+Want to learn how to orchestrate the #Docker native way? Try these #DockerSwarm tutorials. https://t.co/Q5jPYE9Q1x,Tue Mar 08 17:23:01 +0000 2016,en,4,False,4,False,,Ben Golub,golubbe
+#SwarmWeek: Introduction to container orchestration with Docker Swarm https://t.co/K6GHDkktFY via @docker,Mon Mar 07 20:17:09 +0000 2016,en,13,False,9,False,,Ben Golub,golubbe
+"RT @NextGenBackup: It's #SwarmWeek, I'll run #DockerSwarm on my @Raspberry_Pi grid  https://t.co/wPYPEAaq6C https://t.co/bBQ54DmJvB",Mon Mar 07 20:16:04 +0000 2016,en,73,False,0,False,,Ben Golub,golubbe
+RT @docker: Dawn of #Orchestration-for-All Era: @Docker welcomes @ApacheAurora creators by @solomonstre  https://t.co/sbhD0dlyVu https://t.…,Thu Mar 03 23:54:52 +0000 2016,en,63,False,0,False,,Ben Golub,golubbe
+RT @ryguyrg: It's quite stunning how much a good UX helps with developer experience.  @Docker Cloud is a joy to use because interactions ar…,Wed Mar 02 21:51:24 +0000 2016,en,5,False,0,False,,Ben Golub,golubbe
+RT @mariuskarma: docker: Configuring Load Balancing and Service Discovery with Docker UCP by nicolakabar: https://t.co/YLKrPq2JSC https://t…,Wed Mar 02 20:31:38 +0000 2016,en,4,False,0,False,,Ben Golub,golubbe
+"Three great blog posts today on #Docker  Service Discovery/ load balancing, Networking, and Swarm/Orchestration https://t.co/u0tauezxLm",Wed Mar 02 20:25:03 +0000 2016,en,7,False,4,False,,Ben Golub,golubbe
+Announcing Docker Cloud https://t.co/GovpiwKQ3F via @docker,Tue Mar 01 23:21:45 +0000 2016,en,18,False,20,False,,Ben Golub,golubbe
+"Today, @Docker launches on-prem CaaS (Container as a Service) offering: Docker DataCenter. https://t.co/sveCSNALZB",Tue Feb 23 14:25:51 +0000 2016,en,71,False,62,False,,Ben Golub,golubbe
+"Today we GA our prem CaaS service: "" New Docker Data Center Should Bring Order To Containerization"" https://t.co/6IuSG41JM5",Tue Feb 23 14:18:08 +0000 2016,en,10,False,7,False,,Ben Golub,golubbe
+So happy for the team at honor for winning best new startup #crunchies,Tue Feb 09 04:51:16 +0000 2016,en,2,False,8,False,,Ben Golub,golubbe
+Backstage at the #crunchies with @solomonstre https://t.co/lL9qBNRNKI,Tue Feb 09 04:09:08 +0000 2016,en,1,False,15,False,,Ben Golub,golubbe
+"RT @docker: Just released @Docker 1.10: New Compose file, improved security, networking and much more! https://t.co/ArFfkyfNEZ https://t.co…",Fri Feb 05 01:18:27 +0000 2016,en,427,False,0,False,,Ben Golub,golubbe
+Recap: Docker at SCALE 14x - Docker https://t.co/kORVASBU3X via @nuzzel,Wed Jan 27 19:54:59 +0000 2016,en,2,False,4,False,,Ben Golub,golubbe
+Scaling GlusterFS at Facebook | Gluster Community Website https://t.co/SKoJ1MIMis,Wed Jan 27 19:54:16 +0000 2016,en,1,False,6,False,,Ben Golub,golubbe
+Get Small To Get Big Through Microservices - TechCrunch https://t.co/6NruoRIqHU via @nuzzel,Sun Jan 24 16:23:29 +0000 2016,en,5,False,5,False,,Ben Golub,golubbe
+Even more good news! https://t.co/eN8bPNLRsV,Thu Jan 21 15:57:59 +0000 2016,en,1,False,4,False,,Ben Golub,golubbe
+So excited that the talented team at #Unikernel systems are joining us @docker. https://t.co/KL7hqVL3lg,Thu Jan 21 14:33:05 +0000 2016,en,6,False,15,False,,Ben Golub,golubbe
+RT @avsm: I'm ridiculously excited to be joining the @docker family with the rest of Unikernel Systems; https://t.co/2BGGV4bQ0j,Thu Jan 21 14:31:47 +0000 2016,en,68,False,0,False,,Ben Golub,golubbe
+"RT @alexzeitler_: After trying it, I can truly recommend it
+https://t.co/OSR4oVppCB",Fri Jan 15 23:40:23 +0000 2016,en,8,False,0,False,,Ben Golub,golubbe
+RT @docker: WAHOO! @Docker passed 100K followers on @twitter! Thanks #Docker community for all of the &lt;3 https://t.co/s9ARbidFfV https://t.…,Tue Dec 08 01:02:43 +0000 2015,en,49,False,0,False,,Ben Golub,golubbe
+RT @docker: Just posted: photos from @DockerCon EU 2015 &amp; slide decks from all of the #DockerCon talks - https://t.co/6ieXfb8rQU https://t.…,Thu Dec 03 18:20:05 +0000 2015,en,54,False,0,False,,Ben Golub,golubbe
+"RT @docker: Slides from Casper's talk on ""Placing a #container on a train at 200mph"" at @DockerCon EU 2015 - https://t.co/BDwwejXGiI #Docke…",Thu Dec 03 17:11:14 +0000 2015,en,11,False,0,False,,Ben Golub,golubbe
+RT @docker: Using @Docker and SDN for telco-grade apps - @NicoJanssens and @FlorianOtel's @DockerCon EU 2015 slides: https://t.co/Lq1Jxa226…,Thu Dec 03 17:11:06 +0000 2015,en,12,False,0,False,,Ben Golub,golubbe
+RT @scottcoulton: Just deployed the Docker trusted registry. Seamless upgrade from the registry v2. I was super impressed !! @docker,Tue Nov 24 20:52:57 +0000 2015,en,3,False,0,False,,Ben Golub,golubbe
+"RT @Wilson_Craig: . @Docker, Maturity and DockerCon – Charting Stacks https://t.co/YA3SVVZs59",Fri Nov 20 00:42:52 +0000 2015,en,3,False,0,False,,Ben Golub,golubbe
+RT @docker: Marianna Tessel SVP engineering at @docker on stage with @DavidLinthicum at #structureconf. https://t.co/MkwR9gmLiv,Thu Nov 19 23:14:33 +0000 2015,en,10,False,0,False,,Ben Golub,golubbe
+@cosmic_mar My pleasure! I heard your breakout session was incredible @DockerCon,Thu Nov 19 19:48:09 +0000 2015,en,0,False,1,False,,Ben Golub,golubbe
+RT @BettyJunod: ICMY Ian Murdock joined the @docker team... https://t.co/E0SbcxVXRd,Wed Nov 18 08:28:27 +0000 2015,en,5,False,0,False,,Ben Golub,golubbe
+RT @frazelledazzell: Front row for unikernel demo with unikernel gods @avsm @justincormack \o/ #dockercon https://t.co/7opduJLt0o,Wed Nov 18 08:06:39 +0000 2015,en,8,False,0,False,,Ben Golub,golubbe
+RT @normalfaults: Meta-#docker oculus vlc stream to container to minecraft managing itself!!! Wat!?! #dockercon https://t.co/dsC7dU91ip,Wed Nov 18 08:06:07 +0000 2015,en,33,False,0,False,,Ben Golub,golubbe
+RT @solomonstre: Dockercraft: manage your containers from Minecraft. A RIDICULOUS hack by @aduermael and @gaetan_dv #dockercon https://t.co…,Wed Nov 18 08:04:05 +0000 2015,en,245,False,0,False,,Ben Golub,golubbe
+RT @nigelpoulton: OK.... I'm gonna have to lie down and do some breathing exercises if this Docker Universal Control Plan demo gets any bet…,Tue Nov 17 11:55:45 +0000 2015,en,12,False,0,False,,Ben Golub,golubbe
+"RT @mariuskarma: docker: RT mikegcoleman: As a former IT guy this is EXACTLY what I would have wanted to manage containers. 
+
+#dock… https:…",Tue Nov 17 11:49:45 +0000 2015,en,2,False,0,False,,Ben Golub,golubbe
+RT @icecrime: The awesome @Docker maintainers crew! #DockerCon https://t.co/IrvaJ8QAKS,Tue Nov 17 11:46:28 +0000 2015,en,10,False,0,False,,Ben Golub,golubbe
+RT @DockerCon: .@Docker Trusted Registry 1.4: https://t.co/wrtsCBcYKz &amp; Universal Control Plane: https://t.co/XhFgFPTUQl #DockerCon https:/…,Tue Nov 17 10:35:48 +0000 2015,en,23,False,0,False,,Ben Golub,golubbe
+RT @DockerCon: More than 1600 people voted Dev vs Ops during the #DockerCon demo! https://t.co/NWy8jt9eoE,Tue Nov 17 09:44:41 +0000 2015,en,4,False,0,False,,Ben Golub,golubbe
+RT @volkerw: @docker on its way to becoming the Maersk of software containerization. #dockercon https://t.co/Zg6s9l4rye,Tue Nov 17 09:11:05 +0000 2015,en,8,False,0,False,,Ben Golub,golubbe
+RT @RoryAHunter: #DockerCon live demo - let's take down a data centre and watch our app keep rolling! *mind blown*,Tue Nov 17 08:41:46 +0000 2015,en,22,False,0,False,,Ben Golub,golubbe
+@weaveworks @chanezon Really sorry about that. we'll get it fixed.,Mon Nov 16 10:50:40 +0000 2015,en,0,False,2,False,,Ben Golub,golubbe
+RT @huslage: 1000 node swarm cluster starting 50000 containers. 100ms/container start @aluzzardi #dockercon https://t.co/HKtY4VlDhG,Mon Nov 16 10:21:52 +0000 2015,en,18,False,0,False,,Ben Golub,golubbe
+RT @chanezon: #dockercon @AanandPrasad gets from a blank Windows machine to developing &amp; running an app in 3 minutes https://t.co/2gPWQ2SsGc,Mon Nov 16 10:08:48 +0000 2015,en,8,False,0,False,,Ben Golub,golubbe
+"RT @f_soppelsa: Security must be usable. Please, operators, make this your mantra. #dockercon https://t.co/EBTtqB1BZ1",Mon Nov 16 10:07:29 +0000 2015,en,10,False,0,False,,Ben Golub,golubbe
+RT @adrianmouat: The @diogomonica and @AanandPrasad double act is the highlight of #dockercon so far! https://t.co/CRPxXVcuq3,Mon Nov 16 10:04:39 +0000 2015,en,6,False,0,False,,Ben Golub,golubbe
+RT @zehicle: Nice way to help security.  Seeding yubikeys at #dockercon https://t.co/Klhf4K6mjq,Mon Nov 16 10:04:05 +0000 2015,en,3,False,0,False,,Ben Golub,golubbe
+"RT @DockerCon: In an attempt to please the demo gods, @borja_burgos explains Las doce uvas to @golubbe #DockerCon https://t.co/rooicWLwg8",Mon Nov 16 09:19:41 +0000 2015,en,10,False,0,False,,Ben Golub,golubbe
+RT @DockerCon: The internet is pretty cool - could we make the Internet programmable? - @solomonstre at #DockerCon EU 2015 https://t.co/weR…,Mon Nov 16 09:19:07 +0000 2015,en,9,False,0,False,,Ben Golub,golubbe
+"RT @alexwilliams: Last night, we had a champagne podcast. This morning, a pancake breakfast and a podcast. #dockercon is getting off to the…",Mon Nov 16 06:07:13 +0000 2015,en,2,False,0,False,,Ben Golub,golubbe
+Two hours until @DockerCon starts! I can't wait! Check out live broadcast at https://t.co/fyYKaBS2XB,Mon Nov 16 06:06:33 +0000 2015,en,8,False,5,False,,Ben Golub,golubbe
+RT @DockerCon: Cant make @DockerCon EU 2015? We'll miss you! Make sure to checkout the live feed: https://t.co/9TedoKZnWq #dockercon,Sun Nov 15 09:58:55 +0000 2015,en,45,False,0,False,,Ben Golub,golubbe
+RT @outlearn_stream: 11 Weird And Wonderful Uses For Docker https://t.co/PHfUCDhKCM #docker #skype #malware #containers,Sat Nov 14 18:24:02 +0000 2015,en,7,False,0,False,,Ben Golub,golubbe
+"RT @docker: Announcing @Docker Trusted Registry 1.4: New UI, Integrated Content Trust &amp; Support for #Docker Engine 1.9: https://t.co/7ZF2tD…",Fri Nov 13 19:38:45 +0000 2015,en,81,False,0,False,,Ben Golub,golubbe
+"Cool story on how energy efficient @Docker workloads are vs. trad. virtualiz'n.
+https://t.co/6yUomHP3LX https://t.co/ASHbxRNaI8",Mon Nov 09 04:07:55 +0000 2015,en,8,False,9,False,,Ben Golub,golubbe
+"...and new volume management/ Persistent Storage, Registry 2.2 &amp; @docker Compose 1.5 for multiple environments https://t.co/SOD4qFPnZD",Wed Nov 04 00:03:31 +0000 2015,en,5,False,5,False,,Ben Golub,golubbe
+"RT @AanandPrasad: Compose 1.5 is huge: experimental networking support, environment variable substitution and it runs on Windows. https://t…",Wed Nov 04 00:00:40 +0000 2015,en,22,False,0,False,,Ben Golub,golubbe
+"So pumped for @docker 1.9 release! production-ready Swarm,  Multi-host Networking ++ https://t.co/XZXgbkKx2w https://t.co/ehbGUqDiPm",Tue Nov 03 23:56:32 +0000 2015,en,51,False,41,False,,Ben Golub,golubbe
+"Great post by @borja_burgos @tutumcloud on joining @docker to build, run, manage #Docker apps at scale in prod. https://t.co/GPGmVtRvPd",Wed Oct 21 15:30:56 +0000 2015,en,4,False,6,False,,Ben Golub,golubbe
+"RT @infoworld: #Docker grabs cross-cloud container manager Tutum, by @syegulalp  - https://t.co/osYIywqDak",Wed Oct 21 13:08:55 +0000 2015,en,4,False,0,False,,Ben Golub,golubbe
+RT @businessinsider: Superhot $1 billion startup Docker is solving a big challenge with a new acquisition https://t.co/t0qL0PrHDj https://t…,Wed Oct 21 13:07:52 +0000 2015,en,28,False,0,False,,Ben Golub,golubbe
+"Awesome @tutumcloud team is joining @docker to build, ship, run, orchestrate at scale in production https://t.co/8QHlGZxZBo",Wed Oct 21 13:03:35 +0000 2015,en,33,False,24,False,,Ben Golub,golubbe
+&gt; 2500 web servers running on a Raspberry Pi using @docker. Congrats to #Rpidocker winners!  https://t.co/MBcnr6fpiT,Tue Oct 20 22:53:59 +0000 2015,en,7,False,9,False,,Ben Golub,golubbe
+"RT @docker: Tomorrow, see how @couchbase automates CI with Docker Hub and Jenkins during our live webinar http://t.co/Ms2GgFbb7i http://t.c…",Mon Oct 19 18:11:33 +0000 2015,en,19,False,0,False,,Ben Golub,golubbe
+"RT @docker: Final round of speakers for @DockerCon EU 2015 include @useidel, @nicojanssens and @francesc - read more: http://t.co/dcrX2QTf2…",Thu Oct 15 18:07:30 +0000 2015,en,13,False,0,False,,Ben Golub,golubbe
+RT @docker: Congrats to @estesp on his PR introducing support for user namespaces in @Docker! http://t.co/UROcfhxphq #Docker,Wed Oct 14 19:37:25 +0000 2015,en,41,False,0,False,,Ben Golub,golubbe
+"RT @docker: Save the date: @DockerCon 2016 will be in Seattle, WA on June 20-21! More info on #DockerCon 2016 here: http://t.co/T0S5dHqpv7 …",Wed Oct 14 19:37:14 +0000 2015,en,71,False,0,False,,Ben Golub,golubbe
+RT @docker: Interesting read from @WSJ on rise of #microservices and #Docker leading the charge http://t.co/HxxeXNXas0,Tue Oct 06 16:26:57 +0000 2015,en,76,False,0,False,,Ben Golub,golubbe
+RT @aluzzardi: Load testing @docker #Swarm on a thousand nodes cluster /cc @vieux @abronan http://t.co/yNvoOFWjwu http://t.co/ZfbK1cLHtT,Mon Oct 05 17:09:21 +0000 2015,en,73,False,0,False,,Ben Golub,golubbe
+"RT @docker: Just announced new site &amp; first speakers for @DockerCon EU 2015 including @kobolog, @johnfiedler &amp; @frazelledazzell! http://t.c…",Mon Sep 21 22:02:23 +0000 2015,en,37,False,0,False,,Ben Golub,golubbe
+RT @rgardler: Searching for a Cure for Cancer with Docker and Azure http://t.co/nxaSRph5Vy #docker #azure,Fri Sep 18 22:35:12 +0000 2015,en,15,False,0,False,,Ben Golub,golubbe
+"Congrats to team for making @docker on demand available on @awscloud 
+http://t.co/WkVmlmsUb4",Wed Sep 16 18:27:09 +0000 2015,en,11,False,16,False,,Ben Golub,golubbe
+RT @BillMurphyJr: Former Twitter CFO Mike Gupta on Why He Joined the Startup Docker http://t.co/5vjJt0Eei4 @wsj,Tue Sep 08 16:34:40 +0000 2015,en,6,False,0,False,,Ben Golub,golubbe
+"Thrilled to welcome @mgupta as the new CFO of @docker   https://t.co/zANYbyFmHF
+http://t.co/RDQbc3JqSA",Tue Sep 08 16:33:15 +0000 2015,en,6,False,20,False,,Ben Golub,golubbe
+RT @spanoplos: Don't miss the @Docker Call for Papers!  Submit now for a chance to present at @dockercon EU http://t.co/sCijfxK6Vz,Tue Aug 25 20:41:49 +0000 2015,en,1,False,0,False,,Ben Golub,golubbe
+"RT @frazelledazzell: If you want to see what I have been playing with for the last week or so, checkout Windows tp3 w @docker containers! h…",Wed Aug 19 16:54:17 +0000 2015,en,10,False,0,False,,Ben Golub,golubbe
+So excited! @Microsoft and @docker make #docker for  @windowsserver available  w/Tech Preview 3: http://t.co/pDNyMl2BsA,Wed Aug 19 16:52:50 +0000 2015,en,25,False,20,False,,Ben Golub,golubbe
+"@lwwarren I wish I could be there, but @solomonstre, @crosbymichael , Marianna Tessel and many others are at #ContainerCon !",Tue Aug 18 01:33:57 +0000 2015,en,0,False,1,False,,Ben Golub,golubbe
+"RT @docker: Marianna: every org, team, #app &amp; #developer deserves ability to innovate a lot &amp; quickly #linuxcon @linuxfoundation http://t.c…",Mon Aug 17 22:52:30 +0000 2015,en,12,False,0,False,,Ben Golub,golubbe
+RT @vieux: scalable financial trading: #docker containers  managed by #docker #compose running on #docker #swarm 🐳🐳🐳 #LinuxCon http://t.co/…,Mon Aug 17 22:14:40 +0000 2015,en,14,False,0,False,,Ben Golub,golubbe
+@Docker related skills are now the #2 most common requirement in UK IT job listings. http://t.co/60rfRll931,Thu Aug 06 17:32:19 +0000 2015,en,36,False,26,False,,Ben Golub,golubbe
+@docker @google and many others driving open innovation. #cncf  http://t.co/5UVDoB7U09,Tue Jul 21 15:19:33 +0000 2015,en,6,False,5,False,,Ben Golub,golubbe
+Open Governance and Collaboration in the Ecosystem is #Trending http://t.co/JXZzs8j6ra via @docker,Tue Jul 21 15:17:21 +0000 2015,en,6,False,4,False,,Ben Golub,golubbe
+RT @docker: How @solomonstre &amp; @golubbe chose #containers to help @Docker turn things around http://t.co/lLI3WrHxu5 by @alexrkonrad via @Fo…,Thu Jul 02 22:58:32 +0000 2015,en,10,False,0,False,,Ben Golub,golubbe
+RT @HypriotTweets: @docker Let Docker Swarm all over your @Raspberry_Pi's: http://t.co/z5WYSXUeYz http://t.co/761q8RXy85,Thu Jul 02 22:58:10 +0000 2015,en,140,False,0,False,,Ben Golub,golubbe
+"RT @codeship: The @nytimes use #Docker for CI and CD: Learn how in our summary of @ericbuth's talk.
+
+http://t.co/3juu62P9fF http://t.co/yxY…",Wed Jul 01 16:00:43 +0000 2015,en,5,False,0,False,,Ben Golub,golubbe
+. @Quintus23M Thank you for the retweet and for the *amazing* @docker on @Raspberry_Pi demo at #dockercon.,Thu Jun 25 18:15:39 +0000 2015,en,1,False,2,False,,Ben Golub,golubbe
+So proud of @docker team &amp; community! Can't wait for  #dockercon Europe in Nov! http://t.co/X1X9nQa8m7 http://t.co/nqLsFzZC4D,Thu Jun 25 16:35:45 +0000 2015,en,19,False,22,False,,Ben Golub,golubbe
+RT @AliciaVRuiz: IBMcloud: IBM delivers Docker-based container services for enterprise #cloud application developers: http://t.co/gJJ6dUPPIp,Wed Jun 24 17:05:02 +0000 2015,en,2,False,0,False,,Ben Golub,golubbe
+. @satyanadella We're thrilled too!  see @markrussinovich #dockercon demo  http://t.co/J451FxxDjC  https://t.co/BaJ5OTrMA4,Wed Jun 24 17:02:13 +0000 2015,en,24,False,23,False,,Ben Golub,golubbe
+RT @kevinSuttle: The sheer volume of  #DockerCon tweets just about @frazelledazzell's work just reinforces that she's the most badass hacke…,Tue Jun 23 22:47:57 +0000 2015,en,28,False,0,False,,Ben Golub,golubbe
+"@ehazlett wows #dockercon w/proj orca preview~~ mange docker In prod w/swarm, dtr, logging, official repos ++ http://t.co/X3dj5hrZsY",Tue Jun 23 17:37:46 +0000 2015,en,5,False,7,False,,Ben Golub,golubbe
+"@markrussinovich  awesome demo  combining #linux #windows, #docker, compose, swarm, &amp; more #dockercon http://t.co/3LvEa8JIrn",Tue Jun 23 17:22:02 +0000 2015,en,7,False,4,False,,Ben Golub,golubbe
+Great go to market partners for @docker : @awscloud @Azure @IBMcloud #dockercon http://t.co/mZ9F0Po0B6,Tue Jun 23 16:52:28 +0000 2015,en,8,False,9,False,,Ben Golub,golubbe
+RT @docker: .@scottcjohnston just announced the U.S. gov't GSA is first #DTR customer! @docker trusted registry #dockercon 2015 http://t.co…,Tue Jun 23 16:37:43 +0000 2015,en,27,False,0,False,,Ben Golub,golubbe
+RT @thaJeztah: public beta of the new docker hub #dockercon http://t.co/pbdzDd6d0u,Tue Jun 23 16:30:40 +0000 2015,en,2,False,0,False,,Ben Golub,golubbe
+RT @huslage: Engineering VP @mtessel12 on stage talking about #dockerhub at #dockercon http://t.co/3zy90Na0Dl,Tue Jun 23 16:20:18 +0000 2015,en,2,False,0,False,,Ben Golub,golubbe
+"RT @jerrychen: Congrats to the entire team at @docker on @dockercon 2015. Incredible progress in partnerships, products, people, and produc…",Tue Jun 23 16:18:07 +0000 2015,en,8,False,0,False,,Ben Golub,golubbe
+RT @cra: huge news from the @linuxfoundation  https://t.co/NijreGDUS2,Tue Jun 23 16:17:49 +0000 2015,en,8,False,0,False,,Ben Golub,golubbe
+Announcing open container project at #dockercon http://t.co/I9fe7aY8xG,Mon Jun 22 17:55:29 +0000 2015,en,17,False,10,False,,Ben Golub,golubbe
+Big news. Spinning out the @docker runtime as runC. #dockercon http://t.co/8NPH2OZ8VS,Mon Jun 22 17:45:11 +0000 2015,en,35,False,20,False,,Ben Golub,golubbe
+@awscloud announced plans for native @docker swarm and compose support for ECS at #dockercon !,Mon Jun 22 17:20:20 +0000 2015,en,68,False,54,False,,Ben Golub,golubbe
+@solomonstre absolutely killing it at #dockercon ! http://t.co/qDdn1wg8Bl,Mon Jun 22 16:38:52 +0000 2015,en,7,False,11,False,,Ben Golub,golubbe
+Putting the final touches on #dockercon . T minus 1.5 hours! http://t.co/fvs7MsG6Q9,Mon Jun 22 14:35:21 +0000 2015,en,4,False,6,False,,Ben Golub,golubbe
+10 hours until #dockercon starts. You can see the container ships from the conference hotel. Can't wait! http://t.co/atEmVqzODV,Mon Jun 22 05:33:53 +0000 2015,en,12,False,22,False,,Ben Golub,golubbe
+"Congrats to @abperiasamy , former @gluster founder, on funding @minio_io  https://t.co/lGaKJSiuNL",Wed Jun 17 22:02:47 +0000 2015,en,4,False,6,False,,Ben Golub,golubbe
+RT @drumulonimbus: congrats @Rancher_Labs on your Series-A funding! knew from the start you guys were onto something cool… http://t.co/Tzes…,Tue Jun 09 20:20:33 +0000 2015,en,2,False,0,False,,Ben Golub,golubbe
+RT @b_jishnu: Great to see @Rancher_Labs @gluster @docker working together ! Cc @shengliang @abperiasamy @minio_io @golubbe https://t.co/y4…,Sun May 10 03:26:55 +0000 2015,en,5,False,0,False,,Ben Golub,golubbe
+Thank you @markrussinovich @scottgu @satyanadella Amazing demo &amp; amazing collabor'n  @docker &amp; @Microsoft  https://t.co/gfysJ5jOcJ,Wed Apr 29 17:13:27 +0000 2015,en,9,False,13,False,,Ben Golub,golubbe
+RT @jcorioland: Omg ! You can even debug aspnet code that runs in a #Docker container on #Linux from #VisualStudio ! Best debug experience …,Wed Apr 29 16:12:51 +0000 2015,en,41,False,0,False,,Ben Golub,golubbe
+"RT @rprouse: Cool, publish http://t.co/W2bFwV6Adq app in a @docker container to Linux from #visualstudio and debug it. #Build2015 http://t.…",Wed Apr 29 16:12:34 +0000 2015,en,4,False,0,False,,Ben Golub,golubbe
+RT @docker: .@Docker Scores the Best Ever NET Score in ETR History https://t.co/wQUpj5wTG1 by @tdelvecchio http://t.co/xTm8CnwGcZ,Fri Apr 17 21:34:21 +0000 2015,en,37,False,0,False,,Ben Golub,golubbe
+RT @rsayar: Check out the new sumo support for Docker https://t.co/KrxqIHCuOJ,Fri Apr 17 20:01:11 +0000 2015,en,9,False,0,False,,Ben Golub,golubbe
+Exciting) @docker release. Congrats to team &amp; community. https://t.co/MByCzf0wZR,Thu Apr 16 22:41:48 +0000 2015,en,26,False,33,False,,Ben Golub,golubbe
+RT @garthk: Docker 1.6 incoming! I'm most enthused by Windows support and container logging improvements.  https://t.co/nN6TH55O1X,Thu Apr 16 22:20:48 +0000 2015,en,6,False,0,False,,Ben Golub,golubbe
+. @kydoh Thrilled to be working with you and the team at Coatue! https://t.co/vgV9srHaeQ,Tue Apr 14 16:19:16 +0000 2015,en,0,False,4,False,,Ben Golub,golubbe
+Huge thanks to the  @docker team and broader @docker ecosystem for helping reach this milestone. #opensource rules! https://t.co/h8VScAfXGg,Tue Apr 14 16:17:44 +0000 2015,en,25,False,22,False,,Ben Golub,golubbe
+Thanks to @aspenjfm and @insightpartners for their faith in @docker and their leadership in this round! https://t.co/1eFloZct3l,Tue Apr 14 16:15:49 +0000 2015,en,6,False,14,False,,Ben Golub,golubbe
+RT @jerrychen: Congrats @solomonstre @golubbe &amp; the @docker ecosystem pioneering #DDI Developer Defined Infrastructure! https://t.co/3ZXNKl…,Tue Apr 14 15:59:32 +0000 2015,en,21,False,0,False,,Ben Golub,golubbe
+RT @satyanadella: Working together @Microsoft #containers + @docker + Nano Server usher in the next generation of cloud: http://t.co/uW6CWf…,Thu Apr 09 20:05:41 +0000 2015,en,358,False,0,False,,Ben Golub,golubbe
+"RT @Pro_Ject1: On May 5 @etr_d &amp; Pro-Ject will feature @docker &amp; speak with CEO @golubbe 
+The #influence of disruption ~&gt;
+#ETRData http://t…",Thu Apr 09 20:03:07 +0000 2015,en,10,False,0,False,,Ben Golub,golubbe
+"Nice article by @jerrychen on Developer Defined Infrastructure.
+http://t.co/oL8MSWnX8T",Wed Apr 01 23:27:01 +0000 2015,en,2,False,4,False,,Ben Golub,golubbe
+RT @docker: Friendly reminder: http://t.co/lD9EuI5Hap all the contributions to @docker made before Apr 19th count toward our donation to @O…,Wed Apr 01 23:26:33 +0000 2015,en,6,False,0,False,,Ben Golub,golubbe
+"@nmpallas @docker Yes, a big trust &amp; distribution effort is underway.",Thu Mar 12 22:08:21 +0000 2015,en,0,False,0,False,,Ben Golub,golubbe
+Excited security gurus @diogomonica &amp; @nathanmccauley from @square  joining @docker https://t.co/obANvkExfA http://t.co/pXaDYFgsm4,Thu Mar 05 19:14:21 +0000 2015,en,1,False,8,False,,Ben Golub,golubbe
+RT @weaveworks: The @docker platform is APIs. Success depends on customer ability to use APIs to extend and adapt to exact need -,Wed Mar 04 17:15:50 +0000 2015,en,3,False,4,False,,Ben Golub,golubbe
+Excited @socketplane joining @docker to build APIs &amp; collaborate w/ networking ecosystem http://t.co/f3saQx2zHT http://t.co/mdHUFZY0FS,Wed Mar 04 17:11:09 +0000 2015,en,29,False,23,False,,Ben Golub,golubbe
+"Nice post from @mtrifiro from @mesosphere on @Docker #Swarm and ""Batteries Swappable""  http://t.co/bIofq3AY1f",Thu Feb 26 22:50:31 +0000 2015,en,9,False,11,False,,Ben Golub,golubbe
+. @docker orchestration tools /APIs launch; integrat'n w/ @awscloud @azure @IBMcloud @joyent k8s @mesosphere ++ http://t.co/ywedMEPqYw,Thu Feb 26 19:03:46 +0000 2015,en,19,False,20,False,,Ben Golub,golubbe
+RancherOS: minimalist (20 MB) Linux distro designed from ground up to run #Docker containers by @Rancher_Labs http://t.co/rxYsPWoHEg,Wed Feb 25 17:09:24 +0000 2015,en,9,False,7,False,,Ben Golub,golubbe
+More cool ecosystem innovation from @Rancher_Labs: RancherOS: An OS for @Docker Containers http://t.co/G8OvJlkT4m #docker,Wed Feb 25 17:06:40 +0000 2015,en,25,False,28,False,,Ben Golub,golubbe
+"@Docker 1.5 is out! #ipv6, read-only containers, stats, “named #Dockerfiles”... 783 commits, 86 contributors. http://t.co/Hwn8vS9BMj",Tue Feb 10 22:33:18 +0000 2015,en,113,False,43,False,,Ben Golub,golubbe
+"RT @docker: .@Docker 1.5 is out: #ipv6, read-only containers, stats, “named #Dockerfiles”... http://t.co/KLT6msn9nz by @crosbymichael @icec…",Tue Feb 10 22:30:59 +0000 2015,en,354,False,0,False,,Ben Golub,golubbe
+Congrats to @CloudFlare on best enterprise #Crunchies win &amp; to @eastdakota for v. gracious acceptance speech.,Fri Feb 06 17:03:01 +0000 2015,en,1,False,2,False,,Ben Golub,golubbe
+RT @docker: Celebrating our #crunchies award nomination with fellow nominees @opendns. Open source ftw! http://t.co/MPnq536j1g,Fri Feb 06 05:11:37 +0000 2015,en,10,False,0,False,,Ben Golub,golubbe
+RT @docker: The @dockercon 2015 tickets are now available for sale: https://t.co/IO6WEOTlez Get your early bird ticket before it's too late…,Tue Feb 03 22:44:46 +0000 2015,en,39,False,0,False,,Ben Golub,golubbe
+RT @docker: .@Docker Project 2014: A Whirlwind Year in Review http://t.co/SZkzNnCIpO ! Huge thanks to the #docker contributors and communit…,Mon Jan 19 17:34:12 +0000 2015,en,33,False,0,False,,Ben Golub,golubbe
+RT @nytimesbusiness: A Small Software Company Sees a Future in Containers of Code http://t.co/m6K1oBdELp,Tue Jan 13 16:06:25 +0000 2015,en,16,False,0,False,,Ben Golub,golubbe
+".@NetApp CTO Jay Kidd: ""@Docker will Replace Hypervisors as the Container of Choice ""-http://t.co/5VBeTk67F4  @SiliconANGLE",Tue Jan 13 16:05:17 +0000 2015,en,1,False,2,False,,Ben Golub,golubbe
+"RT @docker: In case you missed it, all the #dockercon EU videos are now available on this @docker youtube playlist https://t.co/SxSr379fGu",Fri Jan 09 19:51:50 +0000 2015,en,70,False,0,False,,Ben Golub,golubbe
+"RT @frazelledazzell: ipv6 was just merged into @docker, woohoo awesome patch @malteaero https://t.co/cmglU1Zn2a, you can test it w http://t…",Fri Jan 09 00:33:17 +0000 2015,en,64,False,0,False,,Ben Golub,golubbe
+"RT @rhatdan: ""Why I love Open Source? Fixing things that aggravate you."" I love it b/c people like him make fixes! http://t.co/fJxMyg19DW",Thu Jan 08 20:58:31 +0000 2015,en,1,False,1,False,,Ben Golub,golubbe
+RT @docker: First @docker image available in the @Azure Marketplace ! http://t.co/Sx0kBHbR6u by @CoreySandersWA,Thu Jan 08 20:33:41 +0000 2015,en,38,False,0,False,,Ben Golub,golubbe
+RT @docker: We are excited to be a @TechCrunch Crunchies Nominee! Vote @Docker for the Best Enterprise Startup Crunchie here &gt; http://t.co/…,Wed Jan 07 19:52:03 +0000 2015,en,23,False,0,False,,Ben Golub,golubbe
+RT @docker: All the breakout session videos from #dockercon Day 1 are now live! http://t.co/igkSCW3LNo by @bioinformatics @rafecolton @Adri…,Wed Jan 07 19:51:37 +0000 2015,en,29,False,0,False,,Ben Golub,golubbe
+"RT @johnolilly: Things MSFT has done lately: bought Minecraft, open sourced their dev framework, focused on productivity, free iOS apps, su…",Wed Dec 10 19:43:49 +0000 2014,en,335,False,0,False,,Ben Golub,golubbe
+Slides of my keynote at #dockercon  Video coming soon. Thanks to @docker community. http://t.co/DHdLOhnwE2 http://t.co/PfnI8p5rm8,Wed Dec 10 18:37:23 +0000 2014,en,33,False,39,False,,Ben Golub,golubbe
+RT @botchagalupe: @gasolinr  @solomonstre I am building a startup on top of #docker and I feel 100% comfortable with  their openness and in…,Mon Dec 08 16:23:46 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+RT @docker: Congratulations to @advanderveer for winning the #dockercon EU 2014 hackathon! http://t.co/PcQGOaiSLX,Sat Dec 06 22:16:12 +0000 2014,en,15,False,0,False,,Ben Golub,golubbe
+"RT @chanezon: @golubbe @docker thanks, #DockerCon is the best conference I've been at this year! Vibrant community!",Sat Dec 06 21:08:20 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+@AngelLuisDiaz thank you for the nice article!  http://t.co/WFeLxTY33N http://t.co/MR3znHr32f,Sat Dec 06 15:35:33 +0000 2014,en,2,False,3,False,,Ben Golub,golubbe
+"@lgswitter Thanks for feedback. We plan to add more community-driven content/sessions next time. Btw, today's hackathon is still going on.",Sat Dec 06 15:32:24 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+The @Docker team in Amsterdam after amazing--and exhausting--#Dockercon. Thanks  to all attendees &amp; the community! http://t.co/lZH958hTnX,Sat Dec 06 10:10:39 +0000 2014,en,26,False,23,False,,Ben Golub,golubbe
+"RT @solomonstre: Oh, you know, just reading this morning's DOCKER MAGAZINE! #wat #dockercon http://t.co/VIiTBMCZS4",Sat Dec 06 09:05:18 +0000 2014,en,8,False,0,False,,Ben Golub,golubbe
+RT @capotribu: Future Docker Swarm API support in Mesos #DockerCon http://t.co/cIY55ahjET,Fri Dec 05 14:48:35 +0000 2014,en,29,False,0,False,,Ben Golub,golubbe
+Chain reaction at #dockercon . One of many cool things team boom &amp; @vcoisne  @julienbarbier42 arranged ! http://t.co/emnNOmmOp4,Fri Dec 05 14:34:13 +0000 2014,en,3,False,4,False,,Ben Golub,golubbe
+First @dockhub enterprise commercial partnership with  @IBMcloud:  to help enterprises http://t.co/CCoLabqmed http://t.co/unUR8KrcLz,Thu Dec 04 17:20:54 +0000 2014,en,8,False,6,False,,Ben Golub,golubbe
+RT @sachi_79: #IBM &amp; @Docker Announce Partnership to Deliver #EnterpriseApplications in the #Cloud &amp; On Prem:http://t.co/vPHTKhEvGL,Thu Dec 04 17:15:19 +0000 2014,en,3,False,0,False,,Ben Golub,golubbe
+"So proud of Swarm, Compose, Machine, @Docker Hub and Docker Hub Enterprise teams. Awesome demos &amp; products @ #Dockercon",Thu Dec 04 17:14:27 +0000 2014,en,4,False,7,False,,Ben Golub,golubbe
+RT @angelluisdiaz: 3 reasons for using Docker in your open cloud architecture http://t.co/togQr5uCHz,Thu Dec 04 16:37:17 +0000 2014,en,10,False,0,False,,Ben Golub,golubbe
+RT @docker: Alex Rukletsov tells us what batteries included but removable means with @mesosphere #dockercon #dockerswarm,Thu Dec 04 16:19:29 +0000 2014,en,12,False,0,False,,Ben Golub,golubbe
+RT @docker: Thoughts at the Start of #dockercon EU https://t.co/MNueKrd7PJ by @golubbe,Thu Dec 04 16:14:20 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+Want to see batteries included but removable in action? @docker swarm deming working with @mesos #dockercon,Thu Dec 04 16:13:27 +0000 2014,en,3,False,4,False,,Ben Golub,golubbe
+RT @docker: @solomonstre talking about the #docker way at #DockerCon http://t.co/WWj8ODb73v,Thu Dec 04 15:44:13 +0000 2014,en,2,False,0,False,,Ben Golub,golubbe
+RT @docker: @solomonstre joins the stage for big afternoon keynote #dockercon,Thu Dec 04 15:39:20 +0000 2014,en,3,False,0,False,,Ben Golub,golubbe
+RT @adrianco: My presentation from #dockercon - State of the Art in Microservices http://t.co/neBZWc4KwR,Thu Dec 04 11:06:43 +0000 2014,en,109,False,0,False,,Ben Golub,golubbe
+"@adrianco, former cloud architect @netflix on #microservices &amp; ""developing @ the speed of @docker"" #dockercon http://t.co/AjF3f49zbd",Thu Dec 04 09:31:56 +0000 2014,en,3,False,4,False,,Ben Golub,golubbe
+"Henk Kolk, chief architect @ingnl on use of @docker &amp; #microservices at the bank. #dockercon http://t.co/cEgXzg4SrY",Thu Dec 04 09:22:06 +0000 2014,en,11,False,3,False,,Ben Golub,golubbe
+"@solomonstre @docker I can't sleep either, and I keynote in a couple of hours. :-) Jet lag, magic, nerves.. all of above?",Thu Dec 04 01:26:50 +0000 2014,en,0,False,3,False,,Ben Golub,golubbe
+"&lt; 24 hours 'til #dockercon in Amsterdam. Check out the cool, ship-shaped venue (science museum NEMO). #docker http://t.co/CZBt1zh5iM",Wed Dec 03 13:33:54 +0000 2014,en,29,False,21,False,,Ben Golub,golubbe
+"Great  post by our new @docker SVP engineering, Marianna Tessel.: Perspective from the inside: a couple weeks in http://t.co/Sv8SCWYBP8",Wed Dec 03 10:18:49 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+RT @docker: Perspective from the inside: a couple weeks in http://t.co/6h6cAzgWNM by Marianna Tessel,Wed Dec 03 10:18:04 +0000 2014,en,8,False,0,False,,Ben Golub,golubbe
+"RT @solomonstre: Only 1 day left before #dockercon ! The theme for me is making Docker more pluggable, and its ecosystem more awesome.",Wed Dec 03 10:15:15 +0000 2014,en,22,False,0,False,,Ben Golub,golubbe
+Congrats to @abperiasamy former @gluster founder on the launch of http://t.co/eX7wGx9E4G #opensource,Wed Dec 03 07:20:38 +0000 2014,en,1,False,3,False,,Ben Golub,golubbe
+"RT @joyent: Docker's Killer Feature: http://t.co/wfKPHhoZSf. Why @Docker's robust, open API is a great strength. By @bcantrill.",Wed Dec 03 07:18:51 +0000 2014,en,53,False,0,False,,Ben Golub,golubbe
+Excited to arrive in Amsterdam with @solomonstre and the rest of the @docker team for #dockercon http://t.co/H24vcOLYCZ,Tue Dec 02 13:43:32 +0000 2014,en,1,False,6,False,,Ben Golub,golubbe
+"Initial thoughts on the Rocket announcement:
+http://t.co/7WmouJ8tIX",Mon Dec 01 19:52:52 +0000 2014,en,26,False,16,False,,Ben Golub,golubbe
+RT @docker: #dockercon EU is next week! Amsterdam are you rdy? /w @jpetazzo @vieux @bfirsh @KenCochrane @golubbe @solomonstre http://t.co/z…,Thu Nov 27 01:25:58 +0000 2014,en,18,False,0,False,,Ben Golub,golubbe
+"@gregd @davemuni @docker Thanks! Cam, Todd, and I worked together many years ago @Plaxo",Mon Nov 24 01:15:48 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+"@theCUBE @gigabarb Until we get the @docker turtle (Gordon) on #theCUBE, here he is next to your tweets. http://t.co/197iWR0O4J",Thu Nov 20 20:25:36 +0000 2014,en,2,False,4,False,,Ben Golub,golubbe
+"@gigabarb @bryanrbeal we do receive lots of great resumes, and are always looking for talented folks. (But...turtle position is filled.)",Tue Nov 18 03:46:47 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+"#AWSreInvent EC2 cntnr svc &amp; @docker presos. See http://t.co/shk76w2tvL starting at 35:00. Pristine.io at 38, demo at 48, me at 55.",Mon Nov 17 02:51:05 +0000 2014,tl,12,False,24,False,,Ben Golub,golubbe
+"RT @VolkerGlaeser: Forrester's 2015 cloud predictions: Docker rises, storage pri... http://t.co/mURrA4qIrx | https://t.co/dQcRz19M0i http:/…",Thu Nov 13 20:53:05 +0000 2014,en,3,False,0,False,,Ben Golub,golubbe
+"RT @VolkerGlaeser: Forrester's 2015 cloud predictions: Docker will rise, storage... http://t.co/9Aawcg7Ypg | https://t.co/dQcRz19M0i http:/…",Thu Nov 13 20:21:41 +0000 2014,en,1,False,0,False,,Ben Golub,golubbe
+RT @docker: .@docker based multi-container apps run on @awscloud with intro of #EC2 #container service https://t.co/ZZ11cxQfM9 by @golubbe …,Thu Nov 13 19:39:00 +0000 2014,en,65,False,0,False,,Ben Golub,golubbe
+"@RyanK Thanks, but I'm not the creator. That's @solomonstre and the 700+ contributors to @docker",Thu Nov 13 18:22:54 +0000 2014,en,0,False,2,False,,Ben Golub,golubbe
+http://t.co/sqLb2v2Rfr,Thu Nov 13 17:08:05 +0000 2014,und,0,False,2,False,,Ben Golub,golubbe
+"Check out the cool #netflix OSS tool, ZerotoDocker  @docker http://t.co/WKNla4WINj congrats @aspyker",Wed Nov 12 23:58:14 +0000 2014,en,6,False,7,False,,Ben Golub,golubbe
+RT @upthecyberpunks: this is way more fun than it should be... testing out our new VP Engineering's first contribution to docker images :) …,Wed Nov 12 16:48:16 +0000 2014,en,19,False,0,False,,Ben Golub,golubbe
+"Congrats to @todsacerdoti and the team @BrightRoll 
+http://t.co/xH6jtQ6qR5",Wed Nov 12 00:05:44 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+"@TechJournalist also has good article explaining relationship between Ubuntu LXD and Docker.
+http://t.co/tsedZsjPJo",Thu Nov 06 21:55:15 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+"Current meme gets it wrong. Ubuntu lxd is complementary, not @docker replacement. Joyent brings Docker to SmartOS. http://t.co/np6R48P7r7",Thu Nov 06 21:43:18 +0000 2014,en,40,False,22,False,,Ben Golub,golubbe
+"Great blog post by our new SVP Engineering @docker,  Marianna Tessel http://t.co/c95DIymPAJ #dockerized",Thu Nov 06 17:54:35 +0000 2014,en,3,False,2,False,,Ben Golub,golubbe
+Thrilled to have superstar Marianna Tessel join @docker as VP of Engineering http://t.co/A7gytpIGIn,Thu Nov 06 17:35:04 +0000 2014,en,15,False,12,False,,Ben Golub,golubbe
+"RT @WSJ_FT: Software Firms Scramble to Jump Into Containers: Docker, a company that’s a leader... http://t.co/Xpyn38xaYH",Wed Nov 05 01:57:28 +0000 2014,en,2,False,1,False,,Ben Golub,golubbe
+"RT @WSJ_FT: Software Firms Scramble to Jump Into Containers: Docker, a company that’s a leader in container ... http://t.co/dCLwsNzYI7",Wed Nov 05 01:52:17 +0000 2014,en,1,False,0,False,,Ben Golub,golubbe
+In a continued effort to keep @docker radically open/transparent: output from governance advisory board: http://t.co/dAsYb1yTpk,Wed Nov 05 01:31:44 +0000 2014,en,6,False,9,False,,Ben Golub,golubbe
+"Great guest post by @durdn of @Atlassian on the first @Docker Governance Advisory Board. http://t.co/5p4IBpUyS3
+#opensource",Wed Nov 05 00:58:51 +0000 2014,en,1,False,3,False,,Ben Golub,golubbe
+"Truly global @docker hackday. Local events in 30 cities; 64 countries livestream.
+http://t.co/kAxyQCK7ET http://t.co/g0rLEcufsZ",Fri Oct 31 22:28:51 +0000 2014,en,10,False,7,False,,Ben Golub,golubbe
+Walked 1.5 blocks from @docker office to see Bumgarner &amp; Sandoval go by. Almost as epic as  #dockerhackday http://t.co/bJUfNGacDF,Fri Oct 31 20:53:48 +0000 2014,en,1,False,2,False,,Ben Golub,golubbe
+"Global hackday @docker, 2500 people in 30 cities took part. Incl. great clustering POC. video recording: https://t.co/wwwb39sRmq #docker",Fri Oct 31 00:15:16 +0000 2014,en,11,False,5,False,,Ben Golub,golubbe
+RT @sonicflare: Demonstrating the @docker hosts management feature being worked on by @bfirsh and others. https://t.co/FsSM8HxA5L,Fri Oct 31 00:03:28 +0000 2014,en,2,False,0,False,,Ben Golub,golubbe
+RT @mauriyouth: #dockerHackDay docker clustering can blow your mind https://t.co/s8rwzOexsy open for discussion,Fri Oct 31 00:02:35 +0000 2014,en,8,False,0,False,,Ben Golub,golubbe
+@scottgu discussing @docker and @Microsoft bringing Docker &amp; DockerHub to @Windows @Azure http://t.co/pSp2j8zFBP,Mon Oct 20 18:40:41 +0000 2014,en,44,False,18,False,,Ben Golub,golubbe
+"@om @docker Not only @Azure. As announced last week, we're working with @Microsoft to bring Docker to @windows! http://t.co/aqFn8gxXjt",Mon Oct 20 18:09:48 +0000 2014,en,13,False,7,False,,Ben Golub,golubbe
+RT @sequoia: Doubling the universe of developers that can participate in the @docker ecosystem. Docker partners with Microsoft: https://t.c…,Thu Oct 16 16:03:41 +0000 2014,en,14,False,0,False,,Ben Golub,golubbe
+"RT @peterfenton: 15 yrs+ in venture has numbed me to ""partnerships"",  until spectacular happens @docker and @Microsoft : http://t.co/x0SQZG…",Thu Oct 16 16:02:56 +0000 2014,en,19,False,0,False,,Ben Golub,golubbe
+"Article by @benkepes of @Forbes really gets today's @docker on Windows news right.
+http://t.co/wLTb4MDr30",Thu Oct 16 00:55:50 +0000 2014,en,10,False,11,False,,Ben Golub,golubbe
+Great story by @TechJournalist on today's news: Docker Docks with WindowsServer http://t.co/bz92hyJhzi,Wed Oct 15 16:04:50 +0000 2014,en,1,False,2,False,,Ben Golub,golubbe
+RT @scottgu: Microsoft + Docker just announced plans to enable Docker containers w/ Windows Server and deep integration w/ Azure: http://t.…,Wed Oct 15 15:50:35 +0000 2014,en,289,False,0,False,,Ben Golub,golubbe
+"We @docker are excited to work w/ @Microsoft to bring power of Docker ecosystem &amp; containeriz'n to #Windows !
+http://t.co/aqFn8gxXjt …",Wed Oct 15 13:16:21 +0000 2014,en,6,False,5,False,,Ben Golub,golubbe
+"We @docker are excited to work w/ @Microsoft to bring power of Docker ecosystem &amp; containeriz'n to #Windows !
+http://t.co/aqFn8gxXjt",Wed Oct 15 13:00:42 +0000 2014,en,111,False,44,False,,Ben Golub,golubbe
+. @JerryCuomo demos tie that tracks biometric data  &amp; twttr sentiment  #cooltech  #opencloud  @docker  @IBMcloud http://t.co/VgwOsjy44o,Thu Sep 18 20:39:40 +0000 2014,en,2,False,2,False,,Ben Golub,golubbe
+"RT @stu: Invention vs Innovation
+Ford didn't invent cars, or Apple MP3/phones, or Docker containers. Innovators brought these to masses 
+#B…",Thu Sep 18 20:28:26 +0000 2014,en,9,False,0,False,,Ben Golub,golubbe
+"Thanks to our community,  @docker closed $40M Series C led by @sequoia. Will help us reach full potential http://t.co/sWHDoS7zJv…",Tue Sep 16 11:44:19 +0000 2014,en,40,False,23,False,,Ben Golub,golubbe
+@cswolf Thanks! Great post by @vmware on@docker announcement as well! http://t.co/GrIxB57CE9 http://t.co/o4ZvgVwoll… #vmworld,Mon Aug 25 16:58:25 +0000 2014,en,0,False,0,False,,Ben Golub,golubbe
+RT @jerrychen: @vmware ❤️ @docker http://t.co/m8QSmVeCV4,Mon Aug 25 16:54:16 +0000 2014,und,25,False,0,False,,Ben Golub,golubbe
+RT @cswolf: Great post by @docker CEO @golubbe DOCKER &amp; VMWARE: 1 + 1 = 3 http://t.co/U7AOyLV6r6 #vmworld,Mon Aug 25 16:53:32 +0000 2014,en,34,False,0,False,,Ben Golub,golubbe
+"Our blog post on @docker + @vmware announcement today. http://t.co/L4kG0ZVX5H
+ #VMWorld2014",Mon Aug 25 16:53:25 +0000 2014,en,16,False,7,False,,Ben Golub,golubbe
+Lots of exciting news for @docker  @VMworld 2014: https://t.co/odmWYfQWuH  - @Docker booth is #230 #vmworld,Mon Aug 25 16:51:27 +0000 2014,en,0,False,2,False,,Ben Golub,golubbe
+"RT @Tintamarre: ""In general, #Docker equals or exceeds #KVM performance in every case we tested."" http://t.co/ZA160zUOKx",Thu Aug 07 18:11:12 +0000 2014,en,10,False,0,False,,Ben Golub,golubbe
+RT @DockerRaleigh: Getting started with orchestration using Fig @ http://t.co/kWUt8HShYY,Thu Aug 07 18:11:04 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+"Congrats @kartar for new @Docker Book: Containeriz'n is the new virtualiz'n 
+http://t.co/bFGJN1kh5C http://t.co/SiX4ds8ubz",Mon Jul 28 23:14:02 +0000 2014,en,2,False,5,False,,Ben Golub,golubbe
+RT @Scobleizer: Here's the link to the @Docker CEO video: https://t.co/ZXB4PrdYCl This company is changing how apps are deployed in cloud.,Mon Jul 28 23:06:17 +0000 2014,en,1,False,3,False,,Ben Golub,golubbe
+RT @upthecyberpunks: I ran demo for @docker when we went to talk to @Scobleizer (cool guy btw) :  Best part: http://t.co/JRwH4kyBOp,Fri Jul 25 18:02:10 +0000 2014,en,9,False,0,False,,Ben Golub,golubbe
+"Thrilled to have @bfirsh and @aanand, the team behind Fig joing us @docker.. https://t.co/v4WfF0YpYh and http://t.co/rBFjg16kxH #Docker",Wed Jul 23 12:24:33 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+RT @scottcjohnston: Blog: Continued Community Momentum Around Orchestration #dockerize #libswarm http://t.co/hxrpZ75guX,Thu Jul 10 14:20:28 +0000 2014,en,3,False,0,False,,Ben Golub,golubbe
+RT @KeepCalmCloudOn: Using #Docker containers in the #Rackspace public cloud #libswarm http://t.co/k0tRPhdeQh,Wed Jun 25 16:24:15 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+RT @danspraggins: @Docker with the @Rackspace Cloud. http://t.co/I32zPaU2jZ,Tue Jun 24 22:34:33 +0000 2014,en,3,False,0,False,,Ben Golub,golubbe
+RT @Sirupsen: Today 1% of all traffic to @Shopify has been served with @docker containers. Next week: 10%.,Thu Jun 19 20:54:40 +0000 2014,en,81,False,0,False,,Ben Golub,golubbe
+Awesome on so many levels. Thanks to @y4m4 @ffkiv @abperiasamy: @gluster as @docker image  #experimental http://t.co/CAQFKnOu3F,Thu Jun 19 20:53:50 +0000 2014,en,11,False,5,False,,Ben Golub,golubbe
+Congrats to @redhat @addvin &amp; @eNovance. Great #openstack teams  http://t.co/nTJMQp6IMz,Wed Jun 18 16:10:50 +0000 2014,en,3,False,3,False,,Ben Golub,golubbe
+RT @docker: Check out the first set of #dockercon videos ! Keynotes from day 1: @golubbe @addvin @jengates  http://t.co/pOYTKBfkkl,Tue Jun 17 23:08:30 +0000 2014,en,57,False,0,False,,Ben Golub,golubbe
+RT @docker: Here are most of the keynote and breakout session slides from #dockercon 14 http://t.co/d9RUbOOzCW Stay tuned for the @dockerco…,Mon Jun 16 16:00:45 +0000 2014,en,87,False,0,False,,Ben Golub,golubbe
+RT @AKhedair: Docker and Gluster w00t! RT @gluster: Check out this new project on the Gluster Forge for Dockerized GlusterFS - https://t.co…,Mon Jun 16 15:59:01 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+@satyanadella I'm the @docker CEO--thank you for the tweet and for Azure support! Ben,Wed Jun 11 17:31:30 +0000 2014,en,0,False,2,False,,Ben Golub,golubbe
+Thanks @eric_brewer @JerryCuomo @sethlochen @solomonstre amazing   #dockercon keynotes #ibm #google #groupon http://t.co/5Ov49ZlfNZ,Tue Jun 10 18:41:38 +0000 2014,en,2,False,5,False,,Ben Golub,golubbe
+". @eric_brewer of Google taking at #dockercon ""We are standardizing around the @docker container image.""",Tue Jun 10 18:36:52 +0000 2014,en,3,False,3,False,,Ben Golub,golubbe
+.@eric_brewer of@google at #dockercon “I wish we’d done @docker images like Docker has … but well now they’ve done it.” :),Tue Jun 10 17:18:30 +0000 2014,en,2,False,4,False,,Ben Golub,golubbe
+RT @kartar: .@eric_brewer “I wish we’d done Docker images like Docker has … but well now they’ve done it.” :) #docker #dockercon,Tue Jun 10 17:17:50 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+RT @solomonstre: Here are the slides for my #dockercon presentation. Thanks again @laurelcomics for your amazing illustrations. http://t.co…,Tue Jun 10 17:10:27 +0000 2014,en,90,False,0,False,,Ben Golub,golubbe
+RT @tmmoore_1: @angelluisdiaz @golubbe  IBM And Docker Open Tech to Foster Cloud Adoption - http://t.co/nqwThrccmU #bluemix #IBMCloud #clou…,Tue Jun 10 17:09:51 +0000 2014,en,6,False,0,False,,Ben Golub,golubbe
+"RT @eWEEKNews: Red Hat Releases RHEL 7 With New Filesystem, Docker Support: After three and a half years in development, a ma... http://t.c…",Tue Jun 10 17:09:04 +0000 2014,en,11,False,0,False,,Ben Golub,golubbe
+RT @rberger: RT @vieux: Links to the projects we just announced at #dockercon: http://t.co/ZjZiiHvI8W http://t.co/bobMS4SRSg http://t.co/v2…,Tue Jun 10 17:02:13 +0000 2014,en,2,False,0,False,,Ben Golub,golubbe
+"RT @davelester: #OSSDigest
+Docker announces libswarm, libchan, and libcontainer
+Peter Levine: ""Future of Datacenter is Aggregation (not Vir…",Tue Jun 10 17:02:03 +0000 2014,en,1,False,0,False,,Ben Golub,golubbe
+"RT @docker: .@JerryCuomo ""the open way is the only way"" #dockercon http://t.co/AxlaYAfYY8",Tue Jun 10 17:01:54 +0000 2014,en,12,False,0,False,,Ben Golub,golubbe
+RT @jonathan_thorpe: .docker ecosystem was looking as fragmented as android!  Libswarm to the rescue. Very impressed with the libraries ann…,Tue Jun 10 16:29:40 +0000 2014,en,1,False,0,False,,Ben Golub,golubbe
+RT @mappingbabel: The future of open source distributed systems is now Docker's to f*** up.,Tue Jun 10 16:28:59 +0000 2014,en,9,False,0,False,,Ben Golub,golubbe
+RT @HoReaL: yes. yes. &amp; yes -&gt; Real value of Docker isn't technology. It's bringing the people together to agree on something. - @solomonst…,Tue Jun 10 16:13:33 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+"RT @philwhln: ""My body has none of the cells I had when I was a baby, but I don't think I was rebooted for maintenance"" @solomonstre at #do…",Tue Jun 10 16:09:07 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+"RT @satyanadella: Developer goodness, Docker &amp; Azure ..http://t.co/ta2cU9K6kY &amp; http://t.co/NVc8tjm0hh",Tue Jun 10 13:27:06 +0000 2014,en,187,False,0,False,,Ben Golub,golubbe
+"RT @RealGeneKim: Awesome. +100 RT @philwhln: ""I run Netflix's Chaos Gorilla on my laptop"" &lt; Andrew Spyker from IBM has my respect. #dockerc…",Tue Jun 10 00:45:20 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+Seeing @aspyker unleash the simian army on a @docker based environment #dockercon #netflixoss #ibmstory #devops http://t.co/3Wyqy9foBC,Tue Jun 10 00:45:06 +0000 2014,en,2,False,5,False,,Ben Golub,golubbe
+"RT @pczarkowski: 15,000 engineers working on 4000 projects.  all code checked into one source tree at google - @RealGeneKim #dockercon",Mon Jun 09 23:46:53 +0000 2014,en,6,False,0,False,,Ben Golub,golubbe
+". @mbryzek of Gilt: ""We went to prod on @docker at v. 0.6, because going on v. 0.5 would have been too early!"" #dockercon",Mon Jun 09 23:42:16 +0000 2014,en,2,False,6,False,,Ben Golub,golubbe
+Excited for @mbryzek of Gilt talking about @docker and immutable infrastructure at #dockercon http://t.co/cBSAzOmDc1,Mon Jun 09 23:26:39 +0000 2014,en,1,False,2,False,,Ben Golub,golubbe
+@scurb_se @docker Yes. We will post videos of all #dockercon sessions and slideshare presos as well.,Mon Jun 09 21:13:36 +0000 2014,en,1,False,2,False,,Ben Golub,golubbe
+RT @docker: Announcing @docker hub and official repositories http://t.co/YCyy5DEeqB #dockercon,Mon Jun 09 21:11:00 +0000 2014,en,31,False,0,False,,Ben Golub,golubbe
+Huge thanks to @jengates and @addvin for  incredible @docker keynotes today at #dockercon. @Rackspace &amp; @RedHatNews get #opensource,Mon Jun 09 21:05:58 +0000 2014,en,0,False,0,False,,Ben Golub,golubbe
+RT @docker: Let's have fun /w @golubbe @jengates #dockercon http://t.co/NSuiUYg8mv,Mon Jun 09 21:04:07 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+RT @devopsdotcom: Sold out Dockercon highlights Dockers coming of age  http://t.co/XtDmsTREZ6 http://t.co/Ooeic2DZQK by @ashimmy #Devops #d…,Mon Jun 09 21:03:58 +0000 2014,en,3,False,0,False,,Ben Golub,golubbe
+"RT @RealGeneKim: Ebay: ""why are we running docker-in-docker; ie, why do we build docker images inside Jenkins: reduces dependency problems …",Mon Jun 09 21:03:47 +0000 2014,en,2,False,0,False,,Ben Golub,golubbe
+RT @rberger: Docker now has a github like Docker Hub to allow for collaboration and automation of docker containers #dockercon,Mon Jun 09 21:03:34 +0000 2014,en,6,False,0,False,,Ben Golub,golubbe
+RT @michaelneale: Docker 1.0 is out. As is http://t.co/L3l1z2lSuj (now works with bitbucket too) http://t.co/k3DHkisMrm,Mon Jun 09 21:03:12 +0000 2014,en,25,False,0,False,,Ben Golub,golubbe
+RT @benkepes: New on Forbes from me.... - Docker Launches A 1.0 Product And Gains An Opportunity To Monetize http://t.co/x3lmrgQDOG,Mon Jun 09 21:03:03 +0000 2014,en,7,False,0,False,,Ben Golub,golubbe
+"RT @MoloneyKing: Google Embraces Docker, the Next Big Thing in Cloud Computing | Enterprise | WIRED http://t.co/n786D2g9YY",Mon Jun 09 21:02:53 +0000 2014,en,1,False,0,False,,Ben Golub,golubbe
+RT @bitbucket: Announcing @docker Automated Builds on @bitbucket http://t.co/rYTBhhnF7f,Mon Jun 09 21:02:39 +0000 2014,en,58,False,0,False,,Ben Golub,golubbe
+RT @Rackspace: Contribution and collaboration – the magic behind the Docker community. @jengates recounts his experience http://t.co/YifyKU…,Mon Jun 09 21:02:29 +0000 2014,en,47,False,0,False,,Ben Golub,golubbe
+Less than 1.5 hour until #dockercon starts! Huge thanks to everyone @docker and the broader community for bringing us to this milestone!,Mon Jun 09 14:06:38 +0000 2014,en,6,False,3,False,,Ben Golub,golubbe
+"RT @WIRED: Google is embracing open-source Docker, the next big thing in cloud computing http://t.co/LCoZLEyDEq",Mon Jun 09 14:02:18 +0000 2014,en,180,False,0,False,,Ben Golub,golubbe
+"Morning breaks in the @docker jungle. #hackathon teams who worked all night, + folks finalizing #dockeron demos. http://t.co/NpGBOgozu7",Sun Jun 08 16:37:09 +0000 2014,en,3,False,3,False,,Ben Golub,golubbe
+@aspyker @docker Awesome! Can't wait for your #docker + #netflixOSS talk at #dockercon #IBM,Sat Jun 07 23:08:19 +0000 2014,en,0,False,0,False,,Ben Golub,golubbe
+"100 person @docker hackathon is starting, &lt;36 hours before #dockercon. Are we crazy or what!? http://t.co/s6ZNLACSH5",Sat Jun 07 22:36:39 +0000 2014,en,14,False,13,False,,Ben Golub,golubbe
+RT @docker: Reminder: All nominations for/comments on @Docker Governance Advisory Board are due by noon PST on June 9. https://t.co/X4TkDjG…,Fri Jun 06 19:52:15 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+"RT @sdtimes: Next up, give it up for Docker! You’ve been recognized as a DevOps &amp; SCM leader by the 2014 #SDTimes100! @Docker",Fri May 30 19:05:14 +0000 2014,en,8,False,0,False,,Ben Golub,golubbe
+Congrats to @openshift on the launch of their marketplace! http://t.co/5XTNMTfRfb,Fri May 30 16:18:52 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+.@Linuxjournal just published an interesting intro write-up.on @docker http://t.co/CVdFjTmXXF http://t.co/FHxQp5Ek93,Tue May 20 16:02:12 +0000 2014,en,28,False,30,False,,Ben Golub,golubbe
+@robynbergeron @docker either dgab@docker.com or governance@docker.com work for comments,Fri May 16 00:55:40 +0000 2014,en,0,False,0,False,,Ben Golub,golubbe
+RT @duncanjw: Sell out session #docker #openstacksummit /cc @bodenru @mjdblue http://t.co/MIvXN92xZl,Wed May 14 13:48:10 +0000 2014,en,3,False,0,False,,Ben Golub,golubbe
+excited for @bodenru of #IBM talk on Containers and @docker today at #openstacksummit http://t.co/6X2gTTwUKy #openstack #docker #lxc,Wed May 14 13:47:33 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+Please submit nominations for  @docker governance advisory board. Comments on proposal welcome too. http://t.co/FElGBzMpyr,Mon May 12 18:02:50 +0000 2014,en,4,False,4,False,,Ben Golub,golubbe
+Check out amazing @dockercon speaker lineup! Thanks to &gt;150 who submitted #docker talks.  http://t.co/0JVcCR4nbw http://t.co/jmpIsZ4NB9,Thu May 08 18:33:06 +0000 2014,en,14,False,2,False,,Ben Golub,golubbe
+RT @docker: .@docker 0.11 is out and is the RC for 1.0 http://t.co/OcpeR9k9Nc,Wed May 07 21:54:32 +0000 2014,en,183,False,0,False,,Ben Golub,golubbe
+".@mappingbabel I wish I could favorite your subhead: ""Unholy union of open source tech will spawn speedy gonzalez virtualization"" :-)",Sat May 03 00:33:54 +0000 2014,en,0,False,2,False,,Ben Golub,golubbe
+.@docker ported into @hadoop as benchmarks show SCREAMING FAST performance http://t.co/cTsBXbaZHb by @mappingbabel from @TheRegister,Sat May 03 00:23:18 +0000 2014,en,20,False,29,False,,Ben Golub,golubbe
+In-depth performance comparison by #IBM @bodenru of @Docker vs. VM. Eg 26x less CPU growth. http://t.co/ow7LJHJFPz http://t.co/U7iFXzSWMv,Thu May 01 16:11:51 +0000 2014,en,6,False,3,False,,Ben Golub,golubbe
+@thaljef We're always looking to hire great people!   Our favorites are active @docker contributors. See http://t.co/crljHPY2MK,Wed Apr 30 22:17:20 +0000 2014,en,0,False,0,False,,Ben Golub,golubbe
+Great talk by @aspyker on @docker + #netflixoss Functional environment &amp; surviving the simian chaos army. http://t.co/modxcDzYwb,Wed Apr 30 19:15:43 +0000 2014,en,6,False,11,False,,Ben Golub,golubbe
+@addvin thanks for the @docker governance tweet and CONGRATS on @Ceph announcement.#opensource #redhat,Wed Apr 30 18:54:39 +0000 2014,en,0,False,0,False,,Ben Golub,golubbe
+RT @addvin: In other news ... working with the @docker community to define open governance. They get it. http://t.co/36XPBUkuKY,Wed Apr 30 18:52:54 +0000 2014,en,10,False,0,False,,Ben Golub,golubbe
+. @angelluisdiaz from #IBM has an insightful take on @docker launching Open Governance Advisory Board: http://t.co/anZj4Mihb9,Wed Apr 30 16:09:09 +0000 2014,en,7,False,4,False,,Ben Golub,golubbe
+Great #opensource news as @Red Hat Acquires #Inktank -#Ceph Should complement @gluster http://t.co/msOKcJQxp9,Wed Apr 30 14:05:03 +0000 2014,en,3,False,2,False,,Ben Golub,golubbe
+Important step for @docker as we form  Open Governance Advisory Board  http://t.co/bAbMRmont8,Wed Apr 30 14:02:04 +0000 2014,en,12,False,4,False,,Ben Golub,golubbe
+RT @golubbe: Important step for @docker as we form  Open Governance Advisory Board  http://t.co/bAbMRmont8,Wed Apr 30 14:01:29 +0000 2014,en,1,False,1,False,,Ben Golub,golubbe
+Importnat step for @docker as we form  Open Governance Advisory Board  http://t.co/bAbMRmont8 by,Wed Apr 30 14:00:22 +0000 2014,en,2,False,1,False,,Ben Golub,golubbe
+". @werner vogel's take on #AWS &amp; @docker ""Expanding the Cloud"" #AllThingsDistributed http://t.co/WkGIQ8lyqZ",Thu Apr 24 04:16:25 +0000 2014,en,7,False,7,False,,Ben Golub,golubbe
+RT @docker: More than 400 contributors to the @docker project on @github https://t.co/fATzkYtrfe Thank you all for your awesome work!,Thu Apr 24 00:53:06 +0000 2014,en,16,False,0,False,,Ben Golub,golubbe
+"In past week, RHEL, Ubuntu, &amp; now #aws Elastic Beanstalk have announced support for @docker http://t.co/u2tpCzYyXP, http://t.co/kFUpVEdKvA",Wed Apr 23 21:31:51 +0000 2014,en,3,False,4,False,,Ben Golub,golubbe
+"In the past week, RHEL, Ubuntu, and now #aws Elastic Beanstalk have announced support for @docker http://t.co/u2tpCzYyXP",Wed Apr 23 21:29:49 +0000 2014,en,5,False,5,False,,Ben Golub,golubbe
+"RT @ZDNet: Red Hat, Ubuntu, and Docker: Container virtualization goes mainstream http://t.co/6A0borTb1Z",Mon Apr 21 20:02:32 +0000 2014,en,6,False,0,False,,Ben Golub,golubbe
+. @zehicle  I'd stick my tongue out at you if I didn't like the reference :-),Sat Apr 19 23:08:35 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+"In depth article by @ashimmy ""Docker becomes de facto Linux standard"" http://t.co/2w5scZa4pJ",Fri Apr 18 02:15:37 +0000 2014,en,5,False,7,False,,Ben Golub,golubbe
+RT @michaellessard: Full house at the Linux Containers in #rhel 7 session #RHSummit #lxc #docker http://t.co/xNPiYD2kLu,Wed Apr 16 18:16:37 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+"RT @RedHatStorage: #rhsummit Dell CTO, Sam Greenblatt, ""Docker is the next great thing in virtualization"" http://t.co/P498qAlJoC",Wed Apr 16 18:04:57 +0000 2014,en,11,False,0,False,,Ben Golub,golubbe
+Loving @addvin talk at #rhsummit and how @RedHat fully embraces Docker and containers http://t.co/LXs4hfMRYn,Wed Apr 16 16:24:52 +0000 2014,en,9,False,6,False,,Ben Golub,golubbe
+RT @andreleibovici: RedHat fully embracing Docker and Linux containers. #rhsummit http://t.co/BR4FBDSXxQ,Wed Apr 16 16:22:48 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+RT @benkepes: New on Forbes from me.... - Red Hat Deepens Its Container Commitment - Docker Front And Center http://t.co/rx9jFZSOyl,Tue Apr 15 19:07:21 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+"RT @RealGeneKim: Stevens: ""Docker is now 2nd most active project on github, w/400+ active, contributing developers"" #rhsummit",Tue Apr 15 18:34:17 +0000 2014,en,41,False,0,False,,Ben Golub,golubbe
+RT @docker: Red Hat To Bring @docker Support To Enterprise #Linux and @openshift http://t.co/XRkQoOMIoh by @fredericl from @TechCrunch /cc …,Tue Apr 15 18:14:39 +0000 2014,en,57,False,0,False,,Ben Golub,golubbe
+"RT @bketelsen: You should be following #docker core developer @crosbymichael.  He makes Docker dock, and writes awesome tooling around it t…",Fri Apr 11 18:36:12 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+"RT @HNTweets: Move fast and don’t break things Testing with Jenkins, Ansible and Docker: http://t.co/EDdgFoxm75 Comments: https://t.co/MS8P…",Fri Apr 11 18:35:42 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+Excited to celebrate my one year anniversary @docker with @solomonstre and the rest of the talented team. What a year!,Thu Apr 10 16:03:36 +0000 2014,en,2,False,5,False,,Ben Golub,golubbe
+"RT @docker: .@docker 0.10 is out! Quality, Stop behavior, Signal handling, TLS auth, Systemd slices, and more! http://t.co/W5cQFp8ux8",Tue Apr 08 23:20:36 +0000 2014,en,197,False,0,False,,Ben Golub,golubbe
+RT @docker: Very cool @docker use case in Education: http://t.co/rELWBhDRHl from VMs to #docker containers!,Fri Apr 04 23:01:46 +0000 2014,en,17,False,0,False,,Ben Golub,golubbe
+"@cswolf #ccevent Two good resources on security &amp; isolation for containers &amp; @docker,  http://t.co/QdLDEZBO5g &amp; http://t.co/4q0QGfKIHr",Mon Mar 31 22:16:17 +0000 2014,en,4,False,4,False,,Ben Golub,golubbe
+"Cloud Connect @Interop has great lineup: @benkepes @krishnan @jaredwray @SandyKurtzig My Topic:""Are VMs Passe?"" http://t.co/gcEKe1vIy6",Sun Mar 30 23:50:06 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+"RT @alanwill: ""Amazon Linux AMI 2014.03 is Now Available"" &lt; and Docker baked in  http://t.co/FQcI3FOy9f",Fri Mar 28 02:39:29 +0000 2014,en,1,False,0,False,,Ben Golub,golubbe
+RT @infoworld: It's no easy trick to pack up and move applications where you need them -- at least it wasn't until Docker http://t.co/IYN1B…,Mon Mar 24 16:15:12 +0000 2014,en,7,False,0,False,,Ben Golub,golubbe
+RT @DavidPapp: Docker 's red-hot application portability solution  http://t.co/dVT2PjVzgo,Mon Mar 24 16:14:24 +0000 2014,en,8,False,0,False,,Ben Golub,golubbe
+Engaging article on @docker and future of #virtualization by @TechJournalist http://t.co/gC6l6lbqMy,Fri Mar 21 23:38:27 +0000 2014,en,8,False,7,False,,Ben Golub,golubbe
+Big thanks to our amazing board for helping @Docker reach this milestone! @peterfenton @dschol @jerrychen @AMECloudVC @verstaen,Fri Mar 21 17:53:54 +0000 2014,en,4,False,4,False,,Ben Golub,golubbe
+"I'll be talking  @cloud_connect summit at #interop. ""Are VMs Passé?""  @benkepes &amp; @krishnan will be there http://t.co/HEhAwHrVFs
+#docker",Thu Mar 20 23:41:26 +0000 2014,en,11,False,3,False,,Ben Golub,golubbe
+RT @mikeharnish: Happy bday @Docker! My gift to you is this step-by-step guide on how to deploy Docker on Eucalyptus: http://t.co/0DYowKLQQG,Thu Mar 20 21:50:08 +0000 2014,en,2,False,0,False,,Ben Golub,golubbe
+RT @jerrychen: Celebrating Year One of @docker! cc @GreylockVC @solomonstre @golubbe https://t.co/GOpyuxnlIt,Thu Mar 20 15:59:27 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+Happy First Birthday to @Docker! A lot has happened in a year!@solomonstre http://t.co/AvmltnKq17,Thu Mar 20 15:57:47 +0000 2014,en,0,False,4,False,,Ben Golub,golubbe
+"RT @docker: Introducing @docker private repos, webhooks, and more http://t.co/g4ExytrHqQ by @scottcjohnston and @KenCochrane",Wed Mar 19 16:58:30 +0000 2014,en,48,False,0,False,,Ben Golub,golubbe
+Insightful piece by KC Berg at http://t.co/SWAqnkh2r3: Docker as a framework for your DevOps culture:  http://t.co/E9QCT4fBlx,Tue Mar 18 17:38:10 +0000 2014,en,3,False,4,False,,Ben Golub,golubbe
+RT @RealGeneKim: Do you love @Docker? @DockerCon is looking exciting! June 9-10 — see you there! http://t.co/kFQOgNvsXQ,Mon Mar 17 22:25:12 +0000 2014,en,10,False,0,False,,Ben Golub,golubbe
+RT @krishnan: Docker Ecosystem Mapped out http://t.co/UpRvghK5cx,Mon Mar 17 18:16:49 +0000 2014,en,28,False,0,False,,Ben Golub,golubbe
+"RT @krishnan: Standards can be through committees or market driven. If you believe in the second paradigm, Docker is the standard for app p…",Tue Mar 11 16:44:39 +0000 2014,en,2,False,0,False,,Ben Golub,golubbe
+"#dockercon is on! : 2 days of wrkshps, tracks, hackathons, &amp; talks by @addvin @RealGeneKim @jengates Jun9-10 in SF. http://t.co/TghbPnzdmv",Tue Mar 11 16:44:01 +0000 2014,en,5,False,8,False,,Ben Golub,golubbe
+RT @docker: Registration and call for papers are now officially open for @DockerCon 2014! http://t.co/o8S3OQ7dy2,Tue Mar 11 16:09:24 +0000 2014,en,47,False,0,False,,Ben Golub,golubbe
+RT @pythondj: Red Hat fast-tracks Docker apps for Enterprise Linux http://t.co/sGjFsAxjEe via @infoworld,Tue Mar 11 16:07:49 +0000 2014,en,5,False,0,False,,Ben Golub,golubbe
+RT @fossteiwest: docker is nearing it's 1.0 release. Meanwhile read about 0.9! http://t.co/HibMrmGrYD,Mon Mar 10 20:31:30 +0000 2014,en,3,False,0,False,,Ben Golub,golubbe
+RT @BioinfoBloggers: New post: Improving reproducibility and installation of genomic analysis pipelines with Docker http://t.co/30SDqPrvI3,Thu Mar 06 18:37:54 +0000 2014,en,1,False,0,False,,Ben Golub,golubbe
+"Thanks to you, too @malekzadeh. @Blake_Yeager @killianm it was great being on the panel with you.",Thu Mar 06 02:22:53 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+RT @loribudin: #awesome #newjob @docker Thanks for the opportunity! Helping build a great partner community! Here we come folks!http://t.co…,Tue Mar 04 22:34:30 +0000 2014,en,2,False,0,False,,Ben Golub,golubbe
+There are @docker meetups in &gt;55 cities. Is yours on the map? http://t.co/zafG2RPn1x to find/ establish a meetup. http://t.co/fIKO90ze9G,Tue Mar 04 18:25:09 +0000 2014,en,8,False,5,False,,Ben Golub,golubbe
+. @philwhln Thank you for the great and insightful write up on @docker http://t.co/67Is7AiwNe,Fri Feb 28 18:08:15 +0000 2014,en,5,False,8,False,,Ben Golub,golubbe
+"RT @DockerCon: Save the date for @DockerCon! The official @Docker conference will take place in SF on June 9-10, 2014: http://t.co/8Qhkn9AZ…",Fri Feb 28 17:50:44 +0000 2014,en,41,False,0,False,,Ben Golub,golubbe
+"RT @sdtimes: We don't often see the clear future of software. #Git was one, #Hadoop another. This year we're betting on @Docker http://t.co…",Fri Feb 28 17:50:37 +0000 2014,en,19,False,0,False,,Ben Golub,golubbe
+Supper excited that @scottjohnston is joining us @docker as SVP product http://t.co/PM7vCzmVpr,Tue Feb 25 17:31:55 +0000 2014,en,0,False,0,False,,Ben Golub,golubbe
+@Regannc @nickstinemates @julienbarbier42 @docker @golubbe #opensource means you've got nothing to hide!,Thu Feb 20 13:52:29 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+Trying to assess interest in First Ever Docker Conference (2 days) in San Francisco June 9-10. Pls take survey https://t.co/LPWjijgsdy,Wed Feb 12 23:40:49 +0000 2014,en,0,False,0,False,,Ben Golub,golubbe
+RT @julienbarbier42: Congrats to @peterfenton : best VC ot the year! #Crunchies || go @docker! http://t.co/SuvyH0fTFQ,Tue Feb 11 20:07:21 +0000 2014,en,3,False,0,False,,Ben Golub,golubbe
+RT @ElReg: Docker loads up $15m to push containerization into bit barns: Lightweight Linux-lovin approach blows the doors... http://t.co/Jd…,Wed Jan 22 18:34:36 +0000 2014,en,1,False,0,False,,Ben Golub,golubbe
+"RT @benkepes: Another Day, Another Two Funding Announcements. Adallom and Docker Score $15M Each - Forbes http://t.co/YnfU5IDhVB",Wed Jan 22 16:09:03 +0000 2014,en,8,False,0,False,,Ben Golub,golubbe
+"RT @GreylockVC: ""Docker has today captured the same kind of excitement from developers &amp; sysadmins that VMware &amp; EC2 did"" @jerrychen  http:…",Wed Jan 22 16:08:01 +0000 2014,en,7,False,0,False,,Ben Golub,golubbe
+RT @GreylockVC: Read more about why @jerrychen &amp; the Greylock team are so excited to work with @docker on our blog: http://t.co/BIQt37F4Ig,Wed Jan 22 16:04:00 +0000 2014,en,4,False,0,False,,Ben Golub,golubbe
+"Early coverage of @docker $15M round. http://t.co/huHEGQiZ9j, http://t.co/XllyEdT5Qy, http://t.co/hDXvljXQTp,  http://t.co/jckPTS3DvG",Wed Jan 22 16:03:25 +0000 2014,en,3,False,0,False,,Ben Golub,golubbe
+RT @solomonstre Great to see the combination of your vision and the whole @docker team's efforts gain momentum so quickly!,Wed Jan 22 08:12:22 +0000 2014,en,0,False,0,False,,Ben Golub,golubbe
+Excited about @Docker $15M   Series B with @GreylockVC - Puts us in great position to turbocharge growth!  http://t.co/xat2pC8AFv,Wed Jan 22 07:28:25 +0000 2014,en,6,False,8,False,,Ben Golub,golubbe
+. @aspenjfm @gigaom We're thrilled to have you and Insight on the @Docker team as well!,Wed Jan 22 07:25:23 +0000 2014,en,0,False,1,False,,Ben Golub,golubbe
+RT @jezell: Bringing up an entire cluster for tests used to take an hour. Thanks to @Docker it now takes 8 seconds.,Wed Jan 15 21:45:46 +0000 2014,en,6,False,0,False,,Ben Golub,golubbe
+RT @dschol: My first @trinityventures blog post on the devops disruption showcasing @newrelic &amp; @docker. http://t.co/AyKT9GpL4Q cc: @sweetl…,Tue Jan 07 18:31:20 +0000 2014,en,11,False,0,False,,Ben Golub,golubbe
+RT @tegansnyder: @docker used at @Spotify http://t.co/y3eIZqp0ZF slides by @rohansingh,Sun Dec 08 18:40:55 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+Today is @docker Global Hackday. 400++ folks in 8 cities simultaneously hacking! http://t.co/TyL0xLJDnB… #dockerhackday,Tue Dec 03 18:45:06 +0000 2013,en,1,False,3,False,,Ben Golub,golubbe
+". @docker 0.7 out!  All linux distros, Storage drivers, Offline xfer,Links, Container names++ Tks to 130 contribs! http://t.co/zNYZGT1UOy",Tue Nov 26 14:16:44 +0000 2013,en,30,False,7,False,,Ben Golub,golubbe
+. @Dockers Love the response! @docker containers are virtual &amp; xtra small. People who look good in @dockers shouldn't try to wear #docker,Thu Nov 14 21:56:35 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @docker: .@Docker Out in Force at @OpenStack Conference http://t.co/cuP7wXlug4 by @golubbe cc @nickstinemates @sam_alba @zehicle @adrian…,Thu Nov 14 20:30:21 +0000 2013,en,8,False,0,False,,Ben Golub,golubbe
+"RT @jessenoller: My latest post: ""Zero to Peanut Butter Docker Time in 78 Seconds"" http://t.co/KTSEBQpTPZ /cc @docker @rackspace #performan…",Mon Nov 11 18:46:32 +0000 2013,en,13,False,0,False,,Ben Golub,golubbe
+. @sam_alba about to rock the house again on @openshift @docker @Openstack #solum panel. http://t.co/NUt3OUxRwt,Fri Nov 08 07:11:04 +0000 2013,en,2,False,1,False,,Ben Golub,golubbe
+RT @sam_alba: Thanks to @russellbryant @get_offmylawn @k__raman  and other @OpenStack  Nova folks for this awesom @docker  design session #…,Fri Nov 08 05:18:57 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+"Come to @pythondj 's Panel: Putting PaaS in @OpenStack with Heat, Docker, &amp; Solum. 3:10 HKT expo rm 1  http://t.co/k7l9OZkBwg",Fri Nov 08 04:02:04 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+. @sam_alba  about to start @docker in @openstack design session http://t.co/lwfIC9wDRI,Fri Nov 08 03:03:02 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+". @sam_alba will be showing orchestration of Docker w/Heat  @openstack unconference 1:50 HKT, rm 2 at Marriott. Come get t-shirts too!",Thu Nov 07 04:07:24 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+@TechJournalist @docker Come see us tomorrow at the dell booth at 4:00. We can show you docker via Horizon UI.,Wed Nov 06 08:40:31 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+Smaller demo happening now at dell booth @openstack (tomorrow at 4 hkt also).,Wed Nov 06 08:09:03 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+Cross Cloud deployment with @OpenStack and @Docker. Talk starts in 40 mins @OpenStack  hong kong conference. (2:50 HKT ),Wed Nov 06 06:11:25 +0000 2013,en,1,False,2,False,,Ben Golub,golubbe
+@gerzic @docker  See http://t.co/KuScuXTGZx for full list of where we are at OpenStack. Presentations at 2:50 and 4:00 today.,Wed Nov 06 05:07:35 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+About to fly to hong kong with @docker for the @openstack conference. http://t.co/5U4SwB3ZoL,Sun Nov 03 19:59:37 +0000 2013,en,1,False,4,False,,Ben Golub,golubbe
+@singh_gurjeet  We're humbled to have so many awesome folks like you contributing to @docker. http://t.co/wa76flBqLR,Sat Nov 02 01:15:58 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @relateiq: We built a @docker dev environment in 24 hours. @johnfiedler explains how (and why!): http://t.co/EEr2XOYBlW,Sat Nov 02 00:09:21 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+"@a_thieriot We are committed to staying *fully* open. We'll monetize through hosted svcs/prof svcs/support, not proprietary extensions.",Thu Oct 31 01:14:16 +0000 2013,en,0,False,2,False,,Ben Golub,golubbe
+Awesome article by @benkepes: Docker And The Timely Pivot - Forbes http://t.co/6TtbjXe5CO,Tue Oct 29 17:05:51 +0000 2013,en,1,False,2,False,,Ben Golub,golubbe
+Great article by  @rseroter of InfoQ @docker Inc: dotCloud Goes All-In On Container Technology http://t.co/0qFtTdNGz5,Tue Oct 29 15:53:53 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+@alexismic @docker Thanks! We'll fix that asap.,Tue Oct 29 14:15:09 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+@a_thieriot Do you have any specific concerns I can try to address?,Tue Oct 29 14:13:58 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"Happy to announce dotCloud is now Docker, Inc. Focus squarely on building @docker and surrounding ecosystem. http://t.co/a56EUNaV28",Tue Oct 29 14:02:14 +0000 2013,en,13,False,7,False,,Ben Golub,golubbe
+RT @docker: . @Docker will be at the @OpenStack summit in HK http://t.co/n3w86k3h9L /w @golubbe @sam_alba @nickstinemates #nova #crowbar #s…,Tue Oct 29 00:07:15 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+RT @zehicle: Showcasing Havana @OpenStack on @OpenCrowbar 11/4 in HK: multi-O/S @docker @Ceph #ohmy! details http://t.co/TrziUWzWzf,Sun Oct 27 22:16:52 +0000 2013,en,6,False,0,False,,Ben Golub,golubbe
+@jilliancyork @docker Fair criticism and we're trying to change that! Please do apply. (http://t.co/fHovSiedM0 supporter/donor),Fri Oct 25 01:46:30 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+Congrats to @commagere @johnmccrea and @MediaSpike . Awesome momentum. http://t.co/PiMkUf19oV,Fri Oct 25 01:35:04 +0000 2013,en,2,False,2,False,,Ben Golub,golubbe
+"Great@docker slides by@jbarratt 
+https://t.co/gfsw67NEAa",Fri Oct 25 00:40:39 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+Awesome @docker slides by @jbarratt http://t.co/AGOXiq8K7G…,Fri Oct 25 00:15:01 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"@cloud_borat Sorry for typo. That's  @relateiq .
+We didn't write it, but we sure loved it when we saw it. :-)",Tue Oct 22 23:44:10 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+. @cloud_borat That's not a marketing sheet. It's a use case written by users @relatiq. Docker team had no hand in writing or reviewing.,Tue Oct 22 23:01:21 +0000 2013,en,1,False,2,False,,Ben Golub,golubbe
+"RT @riteshdp: Interested in running Netflix OSS on Docker? Check out how...
+http://t.co/9JjmXB2mOK
+Nirmata @NirmataCloud",Tue Oct 22 21:05:20 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+@scottbessler @MongoDB awesome preso,Fri Oct 18 00:52:14 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"RT @jontomas: @scottbessler @JohnFiedler just killed it at the @docker meet-up, talking about how we use it at @relateiq",Fri Oct 18 00:51:47 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+RT @solarce: Sweet. Yandex’s new PaaS is based on @docker http://t.co/34xlA5I74o,Thu Oct 17 16:21:33 +0000 2013,en,4,False,0,False,,Ben Golub,golubbe
+"@mike_carr There will be more time to talk, &amp; a full meetup in Nov in Santa Monica. See
+http://t.co/oVUqqX0Tu3  for more ways to get info",Thu Oct 17 16:19:54 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+@hipsterhacker Get in touch. @docker is hiring (and we're in SF Fidi).,Wed Oct 16 19:28:23 +0000 2013,en,0,False,2,False,,Ben Golub,golubbe
+"@mike_carr @docker If you don't mind a drive to LA, we're at Developer Week on Oct. 21. http://t.co/k8DmYDfuqC",Wed Oct 16 19:10:12 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"Great post by @alexwilliams "" The #CloudWashers Will Lose"" http://t.co/ZHZRi2HsEI
+@docker @coreoslinux",Wed Oct 16 19:08:56 +0000 2013,en,1,False,1,False,,Ben Golub,golubbe
+RT @aaronfeng: Playing with @docker? Join our first meeting. Atlanta Docker user group: http://t.co/yvCh3jBVg8,Wed Oct 16 00:17:12 +0000 2013,en,6,False,0,False,,Ben Golub,golubbe
+. @jchackert @docker Feel free to DM me. We'd love to find a way to make something happen at Riot Games.,Tue Oct 15 20:55:08 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+"RT @pchaussalet: Thx to @docker, our CI server deploys a version in less than 60secs incl. compilation, packaging, brand new container crea…",Tue Oct 15 19:57:12 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @pczarkowski: @mattray @docker Presentation is online here - http://t.co/z7QauZ5EIr   clone the git repo if you want to run the live dem…,Tue Oct 15 19:56:33 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @Rackspace: Want to know how you can use containers? Check out how @Mail_Gun uses @Docker and contributes back http://t.co/IlDGSbwIKI,Mon Oct 14 19:58:42 +0000 2013,en,22,False,0,False,,Ben Golub,golubbe
+"RT @jpetazzo: Where I speak (a tiny bit of) Russian, and a lot about @docker, #LXC, and all things containers: http://t.co/KGLhJvBIkB #YaC2…",Thu Oct 10 16:25:00 +0000 2013,en,11,False,0,False,,Ben Golub,golubbe
+"RT @TorstenVolk: Great convo with @Docker about replacing the ""Matrix from Hell"" with a containerization model to drastically simplify #Dev…",Mon Oct 07 19:30:01 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+"RT @brynary: . @docker unlocks the power of drop-in, package-based deployment for everyone, regardless of language (and for polyglot system…",Thu Oct 03 15:27:42 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+RT @mixman: Probably the best made tutorial I've ever gone through. https://t.co/T7yD1e4own,Thu Oct 03 15:26:36 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+RT @malditogeek: At the first @docker meetup in London. Full house.,Wed Oct 02 23:27:35 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+RT @university: Learn more about the powerful #Linux container engine @docker in this video intro with @solomonstre - http://t.co/QJLdA1762…,Wed Oct 02 23:26:39 +0000 2013,en,27,False,0,False,,Ben Golub,golubbe
+@t_sloughter @docker I'm happy to chat live re: your concerns. Please DM contact details.,Mon Sep 23 18:43:05 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+. @joelash @docker Answer here: http://t.co/dBCFwJEKCd,Mon Sep 23 16:52:56 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"RT @docker: . @docker is @infoworld's top pick in open source data center and cloud platforms, infrastructure, &amp; management tools http://t.…",Mon Sep 23 15:33:30 +0000 2013,en,12,False,0,False,,Ben Golub,golubbe
+"RT @JMGrange: We totally have customers running @docker containers on high IOPS (4, 000+ to be exact) hosts. Killer performance.",Mon Sep 23 15:33:15 +0000 2013,en,5,False,0,False,,Ben Golub,golubbe
+RT @TwitterOSS: welcome @solomonstre to the @twoffice to talk about @docker and it's growing community http://t.co/J92tpioSaf,Fri Sep 20 23:34:41 +0000 2013,en,8,False,0,False,,Ben Golub,golubbe
+RT @billjive: The Docker.io project is getting more interesting. I've never seen a project grow in importance so fast: http://t.co/zWoRTQdM…,Fri Sep 20 23:34:24 +0000 2013,en,5,False,0,False,,Ben Golub,golubbe
+"RT @krishnan: Simply put, Red Hat - Docker partnership was a beautiful engineering love affair unravelled in front of us &lt;- My take http://…",Thu Sep 19 23:02:52 +0000 2013,en,7,False,0,False,,Ben Golub,golubbe
+@JWhitehurst We're super excited to work with you @docker. Great open source collaboration w/ &gt;15 RHT folks contributing to this release.,Thu Sep 19 22:52:48 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"RT @nikiacosta: Want to play with @Docker? Check out the ""Deployments"" tab in your Rackspace Cloud Control Panel! http://t.co/HacPvCltMa",Thu Sep 19 22:50:05 +0000 2013,en,12,False,0,False,,Ben Golub,golubbe
+RT @dberkholz: Great chat with Red Hat and dotCloud about the new Docker integration.,Thu Sep 19 18:57:12 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+RT @TheSteve0: And here is the Docker take on the partnership - http://t.co/e2XNLzORRf - And we are thrilled to work with you!!!,Thu Sep 19 14:46:49 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+"@vbellur Thanks for the RT on the @docker and #redhat news. After @gluster, it's great to be working with red hat again!",Thu Sep 19 13:08:53 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+"Excited to announce @docker collaboration w/ @RedHat on Fedora, Openshift, &amp; more http://t.co/nPeJvwKqwG #paas #FOSS",Thu Sep 19 12:31:44 +0000 2013,en,8,False,0,False,,Ben Golub,golubbe
+Interesting analysis of the IBM Linux news today. http://t.co/i6Oyy7F4vd,Wed Sep 18 23:22:21 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"RT @AccentureCloud: Congrats to PaaS winners in @infoworld Bossie awards for cloud software, incl. @openshift, @cloudfoundry, and @docker. …",Wed Sep 18 19:53:07 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+"RT @docker: ""beware the matrix from hell!"" @jpetazzo on the complication of running lots of software on lots of infrastructure http://t.co/…",Mon Sep 16 18:22:10 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+RT @zehicle: sweet. @OpenStack Austin Meetup stream (@docker &amp; @canonical) posted by @johnhterpstra on https://t.co/d7cWCve35f  #OSATX /cc …,Fri Sep 13 02:41:44 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+. @nickstinemates is rocking the house at the @openstack meetup in Austin #osatx http://t.co/B0MvGBan8E,Fri Sep 13 01:23:08 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+. @ nickstinemates is rocking the house at the @openstack meetup in Austin #osatx http://t.co/B0MvGBan8E,Fri Sep 13 01:21:26 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+Exciting conversations @ dell with @zehicle and @barton808 about @openstack &amp; @dellcrowbar with @docker,Thu Sep 12 21:03:05 +0000 2013,en,1,False,1,False,,Ben Golub,golubbe
+RT @barton808: Talking to the @Docker Dudes | Barton's Blog - http://t.co/sUvfnkaQLT &lt;- Interviews w/CEO and two engineers who visited Dell…,Thu Sep 12 20:57:57 +0000 2013,en,4,False,0,False,,Ben Golub,golubbe
+"Tomorrow (9/12)  in TEXAS @docker, @OpenStack, #Containers and Canonical http://t.co/r3iweCTwSA… w  @golubbe @nickstinemates &amp; @jpetazzo",Wed Sep 11 21:56:35 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+"See at Austin Meetup tomorrow: RT@nickstinemates:  I have my blog running in a @docker container on @OpenStack, provisioned on Horizon.",Wed Sep 11 21:32:53 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"RT @micahhausler: Sweet integration of 2 awesome open-source projects, run your @SaltStackInc minions in @docker https://t.co/Iur5e79vpL",Wed Sep 11 21:21:12 +0000 2013,en,6,False,0,False,,Ben Golub,golubbe
+RT @monkchips: being embraced by *both* PaaS exponents and Ops folks. #docker #doctcloud,Tue Sep 10 16:10:28 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+"RT @monkchips: talking to @dotcloud about Docker, shaping up as one of the fastest growing open source projects ever - lightweight containe…",Tue Sep 10 16:10:21 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+Great wired magazine article on @docker and @solomonstre. http://t.co/AFjthJmy0M,Mon Sep 09 14:08:14 +0000 2013,en,5,False,2,False,,Ben Golub,golubbe
+RT @scuttlemonkey: Been geeking out over new tech lately. Hoping to finish up @Ceph on @Docker this coming week. Definitely tops my recent-…,Mon Sep 09 06:13:24 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @dozba: Docker is now officially Turtles All The Way Down: http://t.co/kqLXtYz4Gq,Fri Sep 06 15:57:58 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+Congrats to @sam_alba. @docker merged into @OpenStack http://t.co/jOATwMl2xb Thanks to @dtroyer @bcwaldon @anotherjesse,Wed Sep 04 19:34:28 +0000 2013,en,3,False,2,False,,Ben Golub,golubbe
+. @docker merged in @OpenStack for Havana release http://t.co/yUOlLiHTaj more info: http://t.co/iuMjItBN75… congrats to @sam_alba,Wed Sep 04 19:24:18 +0000 2013,en,2,False,1,False,,Ben Golub,golubbe
+New Zealand bans software patents! Trolls beware. Is it a coincidence  the commerce minister's last name is #FOSS ? http://t.co/dqIeEWB3M5,Wed Aug 28 15:57:44 +0000 2013,en,6,False,2,False,,Ben Golub,golubbe
+RT @petecheslock: @iandrossi using docker to drive our chef cookbook CI pipeline with test kitchen and Jenkins. Loving it so far.,Tue Aug 27 18:34:43 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+". @TylerBrock @KenCochrane @docker We'd love to do one (Ken is on east coast, but most of us are in SF Bay Area,) Copying @julienbarbier42",Tue Aug 27 01:41:32 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"RT @Werner: nice live feed of container events RT @docker Announcing docker 0.6: events API, build and registry improvem [...] http://t.co/…",Sat Aug 24 23:51:27 +0000 2013,en,6,False,0,False,,Ben Golub,golubbe
+The 0.6 release of @docker id out (https://t.co/CMY00FgNHA). 378 commits by 40 people (over 80% don't work at dotCloud.) #opensource,Fri Aug 23 20:52:43 +0000 2013,en,5,False,3,False,,Ben Golub,golubbe
+The 0.6 release of @docker has 378 commits by 40 people (over 80% don't work at dotCloud.) #opensource community at its finest!,Fri Aug 23 16:19:53 +0000 2013,en,29,False,10,False,,Ben Golub,golubbe
+Interesting read: http://t.co/27Lg2r8ijc,Fri Aug 23 16:11:16 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"RT @sam_alba: .@docker push/pull storing images in #OpenStack Glance server. Brace yourself, it's almost there! https://t.co/uJVYyaQE0O",Fri Aug 23 05:01:44 +0000 2013,en,8,False,0,False,,Ben Golub,golubbe
+RT @alexwilliams: Containers &amp; Docker: How Secure Are They? http://t.co/pafI9I0nLd,Wed Aug 21 22:20:27 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+Important security post @HNTweets: Containers and Docker: how secure are they: http://t.co/h44Vp0iAbH Comments: https://t.co/DKvruovN9i,Wed Aug 21 18:21:43 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+"RT @jpetazzo: So, I got @docker tests running inside @travisci .  With AUFS and everything. Yup.",Wed Aug 21 17:51:51 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+"RT @rethinkdb: @mdjanic Thanks to the hard work of @nickstinemates &amp; the magic of @docker, use http://t.co/0xWCTyxDFV for a sandbox Rethink…",Wed Aug 21 17:51:14 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+Fascinating post by @aarondelp on the future of operating systems. @docker @coreoslinux http://t.co/sFxskcYAt5,Tue Aug 20 16:57:36 +0000 2013,en,3,False,2,False,,Ben Golub,golubbe
+"RT @jpetazzo: Confirmed: just got @docker running within @docker, thanks to -privileged flag &amp; a few other tricks that I will now document)",Mon Aug 19 20:36:29 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+Please vote for 3  talks by @docker at #openstack conference. http://t.co/empNZqsbfv http://t.co/h7D8rGtnh9 &amp; http://t.co/ln3PxsL2xT,Mon Aug 19 15:51:20 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"Nice post by @triforknews: ""Next Step in Virtualization: @docker, Lightweight Containers"" - Quinten Krijger: http://t.co/NHIvvxitjE #docker",Mon Aug 19 15:48:43 +0000 2013,en,1,False,1,False,,Ben Golub,golubbe
+". @docker featured on cover of Admin Magazine, issue 16! http://t.co/qcUbTOziS7",Mon Aug 19 15:15:26 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+"PaaS:  Present and Future. @docker based PaaS like  @deis #flynn and http://t.co/H40zidsjjJ
+http://t.co/ZssWbck4pH",Fri Aug 16 22:51:48 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+@francium @MongoDB @TylerBrock Awesome. We'd love to meet up in Palo Alto or San Francisco to swap ideas.,Fri Aug 16 21:49:40 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+. @francium here's the link the @MongoDB tweet https://t.co/hoW8hJ6Hhq,Fri Aug 16 18:43:26 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+Congrats to @dhr_p on his awesome interactive @docker tutorial. http://t.co/Q35mFHf7mO,Fri Aug 16 18:26:45 +0000 2013,en,3,False,2,False,,Ben Golub,golubbe
+Woke up this morning to see tweets by @CouchDB @MongoDB and @drupal on how they are working with @docker. #opensource collaboration!,Fri Aug 16 16:06:40 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+RT @jillysciarilly: @docker is the perfect example of why open source is so badass,Fri Aug 16 16:04:34 +0000 2013,en,6,False,0,False,,Ben Golub,golubbe
+RT @MongoDB: Docker and StriderCD: Brilliant Continuous Integration in a Box http://t.co/5UXVchOgBo powered by MongoDB,Fri Aug 16 16:03:21 +0000 2013,en,7,False,0,False,,Ben Golub,golubbe
+RT @fgrehm: wooot! looks like @ricardoamaro will give a talk on vagrant-lxc + @docker to automate drupal depĺoyments https://t.co/0Oy8be9x79,Fri Aug 16 16:02:36 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @samkitonyi: Swapping Linux tips at the Nairobi @docker  meetup cc @golubbe http://t.co/2js0JYRVcp,Thu Aug 15 21:13:27 +0000 2013,en,7,False,0,False,,Ben Golub,golubbe
+"@samkitonyi Excited to hear about @docker talk in Nairobi. (I studied in Nairobi &amp; Kisumu). LMK if we can help w/materials, promo, etc.",Wed Aug 14 14:02:29 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+Docker in Kenya! RT @samkitonyi: Meetup: Docker.io: Tutorial - OpenStack Nairobi http://t.co/Svn0SUHrfb cc @nknganda @kelonye @bmutunga,Wed Aug 14 14:00:08 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+RT @zehicle: in Boston? @OpenStack meetup tonight!  http://t.co/4Z02iUZO1Y  Hot Topics!!! @ceph and @docker  !!,Wed Aug 14 13:57:47 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+"Great use of #opensource. Bionimbus is a PB scale, #openstack cloud  for managing/ analyzing genomics datasets http://t.co/WJUOAy4LoZ",Fri Aug 09 18:53:45 +0000 2013,en,3,False,1,False,,Ben Golub,golubbe
+Great CI post:  RT @FrozenRidge: .@Docker and @StriderCD: Brilliant Continuous Integration In A Box http://t.co/erCUQkyhFr,Fri Aug 09 17:26:40 +0000 2013,en,3,False,4,False,,Ben Golub,golubbe
+Important news: RT @docker: Getting to @docker 1.0 http://t.co/dBCFwJEKCd,Thu Aug 08 17:23:14 +0000 2013,en,6,False,2,False,,Ben Golub,golubbe
+Congrats to @Glusterorg team on 300% community growth. Great to see #OpenSource projects take off. #gluster http://t.co/R5kc1E6gt2,Thu Aug 08 17:18:13 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+"Congratulations to @gabrtv:on Deis-- an Open Source #PaaS based on #Chef, @docker &amp; @heroku Buildpack deis.io",Tue Aug 06 19:44:48 +0000 2013,en,2,False,4,False,,Ben Golub,golubbe
+"RT @docker: . @opendeis by @gabrtv: an Open Source #PaaS based on #Chef, @docker &amp; @heroku Buildpack http://t.co/9jzD80Nh7c",Tue Aug 06 17:16:57 +0000 2013,en,11,False,0,False,,Ben Golub,golubbe
+RT @dscape: Getting started with @getdocker for the @nodejs &amp; @couchdb programmer — https://t.co/8ZgJOJczuT,Fri Aug 02 19:51:30 +0000 2013,en,15,False,0,False,,Ben Golub,golubbe
+"RT @getdocker: Lightning talks from the @getdocker hack day #6 are up! http://t.co/BKsepVeaQt with @dozba from @eBayNow, @sebp from @CloudF…",Fri Aug 02 18:14:18 +0000 2013,en,8,False,0,False,,Ben Golub,golubbe
+RT @valb00: Containers vs VMs. Grok this and you can graduate to Cloud 201-level discussions :) https://t.co/ypjIjbAuhV via @linuxfoundation,Fri Aug 02 00:41:18 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+Nice article by @LibbyMClark @linuxnewstoday: Docker: A 'Shipping Container' for Linux Code:  http://t.co/V4zx7NETNC #linux,Thu Aug 01 17:13:37 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+RT @jmorgan: @getdocker Awesome talks last night.  My highlights: http://t.co/R4vqENNU6M,Wed Jul 31 18:13:02 +0000 2013,en,4,False,0,False,,Ben Golub,golubbe
+RT @dozba: Here are the slides from my lightning talk at yesterday's @getdocker meetup: https://t.co/dnHwddb7YG @ebaynow using #docker.io,Wed Jul 31 18:11:10 +0000 2013,en,1,False,1,False,,Ben Golub,golubbe
+. @dhyasama @getdocker Come to next meetup! We'll have #docker.io shirts and stickers. http://t.co/O1FTqtDHlR,Wed Jul 31 15:46:29 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"85+ ppl at #dockerhackday. Talks by @ebaynow, @cloudflare @Mail_Gun on use of #docker.io. so glad I work here!  http://t.co/qOKMvgTsZq",Wed Jul 31 03:02:28 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+. @dozba on Docker in prod @EBAYnow: “App container slides into CI and then slides into production.” #dockerhackday,Wed Jul 31 02:58:02 +0000 2013,en,2,False,1,False,,Ben Golub,golubbe
+"RT @jpetazzo: And now, @getdocker at @ebay. Bazinga.",Wed Jul 31 02:49:51 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+RT @HNTweets: Docker hackday lightning talks live: http://t.co/8ih9HzMRPj Comments: https://t.co/aTNcnrhW32,Wed Jul 31 02:42:27 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+"@KenCochrane Yes, my back pocket often tweets quite profound things. :-)",Wed Jul 31 02:30:09 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+L,Wed Jul 31 01:36:33 +0000 2013,und,0,False,0,False,,Ben Golub,golubbe
+@smcquay @getdocker Did you make it in? DM me and I'll come down to let you in.,Wed Jul 31 01:31:16 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"""#opensource...creating a DMZ where big players can shape the future of enterprise tech"" great article by @EricKnorr http://t.co/xGg9W6gHbA",Wed Jul 31 01:17:05 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+. @gabrtv  Congrats on the launch of #Deis !  Let us @getdocker know what we can do to help! #docker.io,Tue Jul 30 15:41:41 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+"RT @kpemmaraju: #OpenStack meetup in Boston #OSBOS on Ceph and #Docker.io on Aug 14, Microsoft NERD center, Sign up  http://t.co/8taCg7LzEb",Tue Jul 30 01:24:35 +0000 2013,en,1,False,1,False,,Ben Golub,golubbe
+. @mykola @getdocker You should look at what @ffkiv has been doing with docker and hadoop. http://t.co/Ts4IsEoOsv,Mon Jul 29 18:17:42 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @getdocker: #docker.io in techcrunch. The Matrix Of Hell And 2 Open-Source Projects  For The Emerging Agnostic Cloud http://t.co/JziOz7g…,Mon Jul 29 17:02:46 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+"RT @getdocker: Techcrunch on #docker and ""The Matrix of Hell"" http://t.co/cNJVDU5XI9 /cc @TechCrunch @alexwilliams @solomonstre @golubbe",Mon Jul 29 16:47:38 +0000 2013,en,4,False,0,False,,Ben Golub,golubbe
+RT @sparkycollier: Awesome projects from the Docker community (a couple with OpenStack).  http://t.co/rsfjXuUbVF,Mon Jul 29 15:26:14 +0000 2013,en,6,False,0,False,,Ben Golub,golubbe
+RT @bytemeorg: Slides for my #docker lightning talk at #OSCON are now online: https://t.co/dg56c5YXuU cc @getdocker @solomonstre,Fri Jul 26 17:42:07 +0000 2013,en,5,False,0,False,,Ben Golub,golubbe
+"If you missed @solomonstre #OSCON talk on #docker.io, get slides http://t.co/Ac32reCgjk or come to BOF tonight at 8:00",Fri Jul 26 00:55:56 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+RT @bytemeorg: @qh_murphy I think Docker is probably the biggest idea to come down the line since virtualization itself.,Thu Jul 25 23:55:39 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @zehicle:  @getdocker talk at #OSCON.  Cool to see very crisp analogy between shipping containers and os containers.  Yay Portability!,Thu Jul 25 21:37:02 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"Come hear @solomonstre talk about #docker.io at #oscon today at 11:30, room:  Portland 255 (bonus: free whale stickers).",Thu Jul 25 17:41:32 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+@johnmark @estherschindler @ryanpmorgan @mdrcode  John Mark--Are you at OSCON? Let's grab coffee.,Wed Jul 24 20:30:19 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+RT @johnmark: The John Mark Daily is out! http://t.co/7U1cw9qHq3 ▸ Top stories today via @estherschindler @ryanpmorgan @mdrcode,Wed Jul 24 20:29:48 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @cloudpundit: Kicking off discussion about OpenStack Core http://t.co/r11cuNykQ2 via @zehicle &lt; Series of posts worth reading from Rob H…,Wed Jul 24 20:25:47 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+". @iromli @getdocker We just pushed a new version of the #Docker.io website yesterday. with--hopefully--much clearer docs, org, tutorials.",Wed Jul 24 19:16:23 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+. @dozba @getdocker That's awesome. Looking forward to meeting/hearing you talk at the July 30th Meetup.,Wed Jul 24 19:13:31 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+". @jamesdotcuff @getdocker @Gluster @dot_cloud  Thanks, james! The #Docker.io #opensource community is amazing--one of the best I've seen.",Wed Jul 24 00:40:17 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+". @cartazio Thanks &amp; good luck w/your #opensource start-up. Here are some more thoughts:
+http://t.co/adm6AfhzWO",Wed Jul 24 00:39:41 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"@cartazio Thanks &amp; good luck w/your #opensource start-up. Here are some more thoughts:
+http://t.co/adm6AfhzWO",Tue Jul 23 23:53:10 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+Awesome! This is a much needed integration. RT @dysinger: Back working on Docker for Jenkins last 24 hours. Feels good.,Tue Jul 23 23:31:03 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+@morgs @dot_cloud @getdocker  Way cool! So much cool #OpenSource activity from the old Thawte crew. Let me know if we can help.,Tue Jul 23 19:02:47 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+Looking forward to @OSCON in Portland this week. @solomonstre talking about @getdocker http://t.co/rXzfXCKOU3,Tue Jul 23 18:05:04 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+"@jamesdotcuff @getdocker @Gluster @dot_cloud  Thanks, james! The #Docker.io #opensource community is amazing--one of the best I've seen.",Tue Jul 23 16:46:35 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+RT @pedromdias: Just realized that I kinda of built a baby PaaS on top of @getdocker using nodejs. A PaaS to test them all! :) #docker &lt;-&gt; …,Tue Jul 23 16:43:00 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+"@solomonstre @dot_cloud @getdocker Thanks, Solomon. Your vision is amazing, and I can't wait to see what we can accomplish together!",Tue Jul 23 14:27:22 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+Excited to join team @dot_cloud &amp; @getdocker as their new CEO. #docker.io #OpenSource http://t.co/15zmwmOYjy  http://t.co/4SRxG2HKIn,Tue Jul 23 14:06:09 +0000 2013,en,14,False,8,False,,Ben Golub,golubbe
+"RT @nickstinemates: RT @rethinkdb: Try RethinkDB in the cloud, powered by Docker. http://t.co/6QgLztXRay (or discuss on HN: https://t.co/cd…",Mon Jul 22 22:37:12 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+"RT @lucperkins: So I guess pretty much everything is ""powered by Docker"" these days. Unbelievable growth.",Mon Jul 22 22:37:04 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+@venkyganesan ( my former board member &amp; awesome VC): did a great job on Fox news yesterday talking about Patents  http://t.co/LwAwfOSflf,Fri Jul 19 17:01:02 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+RT @cartazio: @getdocker I really hope my pending tech release is even as 0.5% as successful as docker. Props on having a whole ecosystem n…,Thu Jul 18 20:12:50 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @capotribu: the more I look into @getdocker the more I like it (and I've only skimmed the surface),Wed Jul 10 18:49:22 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+How easy/powerful is #docker.io? Our xclnt finance intern got excel running over ssh inside a docker container. http://t.co/It0bNSfRFz,Mon Jul 08 18:36:07 +0000 2013,en,6,False,5,False,,Ben Golub,golubbe
+@petecurley @powdahound @SilentChris Congrats on the new #hipchat Mac client http://t.co/XIEB3ZaZZ2,Tue Jun 25 20:01:04 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+"Congrats to the #hortonworks team on their big, new round.  http://t.co/OaKiG63EH9",Tue Jun 25 19:52:51 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+RT @linuxfoundation: Welcome! :-) Excited that @getdocker  and #Dotcloud joined the Linux Foundation. http://t.co/rqoX6ghxHt  #linux,Tue Jun 25 19:11:38 +0000 2013,en,0,False,1,False,,Ben Golub,golubbe
+RT @HornedKavu: shipyard — Docker.io web interface https://t.co/fY15XCiYMh,Mon Jun 24 18:59:50 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+RT @nickstinemates: Continuous Integration made simple with #GitHub and @getdocker. Do you have the right testing strategy in place? #ci #p…,Mon Jun 24 15:30:31 +0000 2013,en,4,False,0,False,,Ben Golub,golubbe
+RT @brynary: More excited about Docker than I have been about any other OSS project since Rails. This will be huge. https://t.co/ligClXoS6c,Thu Jun 20 15:47:20 +0000 2013,en,18,False,0,False,,Ben Golub,golubbe
+"Brilliant video on containerization of information. We need an ""intermodal shipping container"" for software. http://t.co/zdLpJ8ZF42",Wed Jun 19 20:52:48 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+RT @jamesob: Predicting we'll see #ops move away from VMs/provisioning and towards #containers in the next few years. http://t.co/DBfdFfzqcg,Tue Jun 18 17:48:30 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+"Nice article by @DavidStrauss ""Containers—Not Virtual Machines—Are the Future Cloud."" http://t.co/BnTgp67JLD #LXC #docker",Tue Jun 18 17:00:55 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+Nice post by @agiliqdotcom on Deploying #Django Using @getdocker. http://t.co/uRNqjQaHLi,Mon Jun 17 17:25:56 +0000 2013,en,3,False,0,False,,Ben Golub,golubbe
+"RT @klizhentas: Now I have micro @Mail_Gun running in @getdocker containers on my laptop, that was fun.",Mon Jun 17 16:39:46 +0000 2013,en,4,False,0,False,,Ben Golub,golubbe
+"@getdocker in #TechCrunch. #RaspberryPi using #Docker, #libvirt, and #hadoop for picloud. V cool!",Fri Jun 14 17:37:37 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @zehicle: #OSATX crowd pretty excited about Docker for #OpenStack workloads &amp; baremetal: See Nova integration. http://t.co/0fbp99XRgR,Fri Jun 14 01:03:41 +0000 2013,en,6,False,2,False,,Ben Golub,golubbe
+"Great post by @durdn from #atlassian. Deploy your Java Apps with @getDocker=Awesome.
+Clear use case &amp; explanation. http://t.co/AetlCSfbTr",Thu Jun 13 18:45:39 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"Great post by @durdn from #atlassian. Deploy your Java Apps with Docker=Awesome.
+Clear use case &amp; explanation. http://t.co/AetlCSfbTr",Thu Jun 13 16:04:14 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+Hamburg on Ruby - Docker http://t.co/5Z360STM6k via @hamburgsync,Wed Jun 12 21:40:45 +0000 2013,de,0,False,0,False,,Ben Golub,golubbe
+Office pop. quadrupled! Standing room only for @getdocker hackathon. #docker.io #lxc http://t.co/qD6xTAbOL4 http://t.co/WMQPl6kpur,Tue Jun 11 22:16:10 +0000 2013,en,4,False,0,False,,Ben Golub,golubbe
+Two major @getdocker community  contribs  in 1 day! Tks @progrium for  mini- #Heroku &amp; @crosbymichael for cool UI. http://t.co/AetlCSfbTr,Mon Jun 10 16:06:46 +0000 2013,en,3,False,1,False,,Ben Golub,golubbe
+Congrats @getdocker on integrating #docker and #LXC with #Openstack #Nova. http://t.co/VBQNUWV15I Thanks @sam_alba @another_jesse @vish,Thu Jun 06 17:55:23 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @fgrehm: brilliant video about Containerization: https://t.co/RuZlGSPArl the idea behind @getdocker,Thu Jun 06 17:12:32 +0000 2013,en,1,False,0,False,,Ben Golub,golubbe
+RT @sam_alba: Thanks @vish and @anotherjesse for your help on openstack-docker. LXC containers on #openstack are the future!,Tue Jun 04 16:23:09 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+RT @gasi: As for the good news: Love playing around with @getdocker. Feels a bit like @nodejs two years ago. Great work by @dot_cloud and c…,Tue Jun 04 16:19:40 +0000 2013,en,2,False,0,False,,Ben Golub,golubbe
+RT @niallohiggins: The @getdocker Open Stack integration looks very interesting. Exciting to see stuff like this being developed! https://t…,Mon Jun 03 23:16:31 +0000 2013,en,7,False,0,False,,Ben Golub,golubbe
+"RT @jmayer: Congratulations to @getdocker for a great new release. Remote API, OpenStack integration, and a new “build” command. https://t.…",Mon Jun 03 23:16:21 +0000 2013,en,14,False,0,False,,Ben Golub,golubbe
+"Excited to be at #Openstack conference with @getdocker
+http://t.co/iE3E6jLIjm",Tue Apr 16 17:52:39 +0000 2013,en,0,False,0,False,,Ben Golub,golubbe
+"RT @DanaBlankenhorn: The big story of October 4 http://t.co/r39OKWPu Not the iPhone, but Red Hat's purchase of Gluster.",Tue Oct 04 19:28:16 +0000 2011,en,2,False,1,False,,Ben Golub,golubbe
+From ‘The Red Hat of Storage’ to ‘The Storage of Red Hat’ http://t.co/7fqJYIOr,Tue Oct 04 13:07:48 +0000 2011,en,2,False,0,False,,Ben Golub,golubbe
+Congratulations to the entire Gluster team! We are now becoming part of Red Hat http://t.co/hDRcesy7  and http://t.co/LJ8ilZxD,Tue Oct 04 12:55:11 +0000 2011,en,1,False,0,False,,Ben Golub,golubbe
+My latest #computerworld blog about the emerging SMAQ stack in big data: http://t.co/AvF6pbz #glusterfs #hadoop #hive #pig,Tue Aug 23 19:16:21 +0000 2011,en,3,False,0,False,,Ben Golub,golubbe
+Gluster announced #Hadoop Compatibility today! CTR write up  w/support from #hortonworks   http://t.co/b1fxf7w,Tue Aug 23 19:14:16 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+"Gluster announced #Hadoop Compatibility today. CTR write up   http://t.co/b1fxf7w, support from #hortonworks",Tue Aug 23 19:10:56 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+RT @SiliconANGLE: SA&gt;: Gluster Adds Hadoop Support to Storage Offering http://j.mp/nfzrbq,Tue Aug 23 15:45:08 +0000 2011,en,4,False,0,False,,Ben Golub,golubbe
+RT @Gluster: Gluster Named as One of the Top 25 Coolest Emerging Vendors in 2011 by CRN http://t.co/Z5sElGu,Mon Aug 22 19:08:37 +0000 2011,en,4,False,0,False,,Ben Golub,golubbe
+"RT @mestery: AB Periasamy from @Gluster is a great presenter, maybe the best of the day so far. #xensummit",Tue Aug 02 21:55:48 +0000 2011,en,2,False,0,False,,Ben Golub,golubbe
+@esganalysttmac Thanks for the tweet on Unified File and Object http://nblo.gs/l1kuj &lt;I believe!,Sun Jul 31 04:54:30 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+RT @RichRogersHDS: Great post by @Gluster on value of unified file & object based systems http://t.co/D02Bgj9. CAS systems w/ flat names ...,Sat Jul 30 22:53:09 +0000 2011,en,4,False,0,False,,Ben Golub,golubbe
+RT @SiliconANGLE: SA&gt;: Gluster Approaches Open Source Stardom with Latest Launch http://j.mp/oxNjE9,Thu Jul 21 20:27:15 +0000 2011,en,1,False,0,False,,Ben Golub,golubbe
+RT @Gluster: Today we announced the industry's first commercial scale-out unified file and object storage technology http://bit.ly/piYpU ...,Wed Jul 20 17:41:03 +0000 2011,en,17,False,0,False,,Ben Golub,golubbe
+RT @Gluster: Introducing GlusterFS 3.3 beta with Unified File and Object Storage http://nblo.gs/kE9My,Wed Jul 20 17:40:41 +0000 2011,en,9,False,0,False,,Ben Golub,golubbe
+"RT @talkin_cloud: Gluster, GoGrid Partner on Cloud-Based NAS Offering: Scale-out, open source storage vendor Gluster has announced... ht ...",Fri Jul 08 16:40:30 +0000 2011,en,1,False,0,False,,Ben Golub,golubbe
+RT @SiliconANGLE: SA&gt;: Brightcove the Latest to Join Gluster’s Customer Base http://j.mp/jbnLZi,Tue Jun 21 19:54:58 +0000 2011,en,2,False,0,False,,Ben Golub,golubbe
+RT @johnmark: My inaugural Gluster community blog post: Please allow me to introduce myself...  http://is.gd/cRLWX1 #glusterfs,Thu Jun 02 07:55:44 +0000 2011,en,6,False,0,False,,Ben Golub,golubbe
+"RT @Gluster: New blog post re: our Citrix Synergy awards -  ""Best of Show"" and ""Best Partner Solution for Accelerating Cloud Action"": ht ...",Wed Jun 01 19:03:56 +0000 2011,en,3,False,0,False,,Ben Golub,golubbe
+"RT @marked_man: Why did Gluster  win for ""Accelerating Cloud Adoption"" at Citrix Synergy last week? Find out via webinar Friday:  http:/ ...",Wed Jun 01 19:02:53 +0000 2011,en,10,False,0,False,,Ben Golub,golubbe
+RT @hareemca: In love with Glusterfs 3.2. GEO Replication rocks. Just threw out our SAN. Best day ever this week. #loveGlusterfs @Gluster,Fri May 27 21:07:39 +0000 2011,en,5,False,0,False,,Ben Golub,golubbe
+RT @abperiasamy: Gluster amongst 7 Emerging Vendors in Cloud Computing  / Storage http://j.mp/kKxC85 #cloud #gluster,Thu May 19 00:08:07 +0000 2011,en,5,False,0,False,,Ben Golub,golubbe
+RT @TheTechGang: Is Gluster the answer to Scalable Cloud Storage and the Amazon ...: Amazon failed because o... http://bit.ly/mk3aGl #cl ...,Thu May 19 00:07:37 +0000 2011,en,1,False,0,False,,Ben Golub,golubbe
+@iblaine: Congratulations to @theplatform: We're excited to announce that we're powering Cox TV Online! http://bit.ly/lAgTni #TVE #OVP,Tue May 10 21:43:41 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+RT @AustenConrad: A million future headaches cured: new @Gluster v3.2 can do continuous data replication between data centers. http://bi ...,Fri May 06 18:11:20 +0000 2011,en,1,False,0,False,,Ben Golub,golubbe
+"RT @donnyspi: the more I read about GlusterFS, the more convinced I am that it is the key to HA with Amazon EBS vols.",Sun May 01 22:34:47 +0000 2011,en,6,False,0,False,,Ben Golub,golubbe
+"@capitalfellow Depends on the topic of your talk--architectural docs, tech whitepapers, results of performance tests, case studies.",Fri Apr 08 21:38:53 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+@capitalfellow Glad to hear you're giving a preso on glusterfs @barcampclt. Let me know if you need any addt'l materials from Gluster.,Fri Apr 08 20:52:59 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+"#Amazon #Cloud Player news has many calling cloud storage the future of music. Public or private, cloud is  also the future of storage.",Thu Mar 31 00:36:10 +0000 2011,en,1,False,1,False,,Ben Golub,golubbe
+"Amazon's Cloud Player news has many calling cloud storage the future of music.  Public or private, it's also the  future of storage.  #AMZN",Thu Mar 31 00:23:26 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+"Congratulations to @plaxo on New Personal Assistant. It works really, really well! #plaxo",Wed Mar 30 20:02:01 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+RT @citycloud: We now rock with Gluster! Read more about our work with Gluster. We highly recommend taking a look at gluster.com - http: ...,Wed Mar 30 18:04:53 +0000 2011,en,2,False,0,False,,Ben Golub,golubbe
+"@freistil Die neueste Version der GlusterFS ist 3.1.3 . Downloads, Handbücher zur Bereitstellung, Konfiguration auf http://bit.ly/fany8",Wed Mar 23 19:19:10 +0000 2011,de,0,False,0,False,,Ben Golub,golubbe
+@cnagele Gluster has &gt;100 commercial  &  1000s of community users. Who's using  http://bit.ly/gUOeuq   Performance: http://bit.ly/eP4EkV,Wed Mar 23 18:15:47 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+"@theryanwalker Sorry to hear. This paper outlines perf. tuning in Gluster, & results for different workloads/configs http://bit.ly/eP4EkV",Sat Mar 19 04:21:21 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+@jsmarr  Thanks for the shout-out. How's fatherhood treating you?,Fri Mar 18 21:02:41 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+@Scobleizer thank *you* for the great talk on @gluster @openstack @pandora_radio as well. #cloud + #open_source= major game changer,Fri Mar 18 14:32:13 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+Video with CEO of @Gluster who adopted @OpenStack http://t.co/r8OvFqj Lots of datacenter and cloud w/ storage folks behind @Pandora_radio. …,Fri Mar 18 08:15:15 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+RT @Scobleizer: Video with CEO of @Gluster who adopted @OpenStack http://t.co/r8OvFqj Lots of datacenter and cloud w/ storage folks behi ...,Fri Mar 18 08:03:03 +0000 2011,en,16,False,0,False,,Ben Golub,golubbe
+RT @mindsharepr: @editingwhiz lists @Gluster as one of the 15 companies that made waves at Cloud Connect http://bit.ly/i7z6K1 &gt; aweso ...,Wed Mar 16 17:12:32 +0000 2011,en,3,False,0,False,,Ben Golub,golubbe
+Terri McClure  of ESG writes about how Gluster responds to unpredictable storage demands at Pandora http://j.mp/g2odiT #cloud #gluster,Tue Mar 15 01:14:23 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+@jsmarr  Way to go! Best of luck to you and Michelle!,Fri Mar 11 17:46:21 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+I just donated to Red Cross Japan Earthquake Relief -http://bit.ly/hSsWEf - using Fundly social donation engine.,Fri Mar 11 14:02:02 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+Gluster Open Source Community: Plz help  improve Gluster by taking user survey: http://svy.mk/eZXq8e  #Gluster #GlusterFS #open source,Fri Mar 11 00:41:23 +0000 2011,en,3,False,0,False,,Ben Golub,golubbe
+"@ tehdely  Which paper did you find  suboptimal? We have whitepapers on performance, architecture (how it works), & using the product.",Wed Mar 09 17:50:47 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+My answer on Quora to: Cloud Computing: Is there any recourses about cloud computing performance? http://qr.ae/W3RK,Tue Mar 08 18:53:31 +0000 2011,en,1,False,0,False,,Ben Golub,golubbe
+Quora: Cloud Computing: Is there any recourses about cloud computing performance? 3 Answers: http://qr.ae/W6ap,Tue Mar 08 18:49:14 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+RT @tunerfish: New release of Tunerfish expands our social gestures. Introducing Fanning and Liking: http://blog.tunerfish.com/?p=587,Tue Mar 08 18:39:17 +0000 2011,en,7,False,0,False,,Ben Golub,golubbe
+@sunsimo  Gluster has released a Virtual Storage Appliance for VMWare. More info at http://bit.ly/eiE50N,Tue Mar 08 18:06:04 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+HipChat Takes Enterprise Communications Platform Mobile With iPad And iPhone Apps http://t.co/PC28hfw via @techcrunch,Fri Mar 04 17:11:29 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+Quora: What are the pros and cons of using S3 over Gluster and other elastic storag... 3 Answers: http://qr.ae/gPVL,Thu Mar 03 23:03:59 +0000 2011,en,0,False,1,False,,Ben Golub,golubbe
+My answer on Quora to: Why is cloud storage so expensive? http://qr.ae/U1WW,Thu Mar 03 23:03:20 +0000 2011,en,0,False,1,False,,Ben Golub,golubbe
+My answer on Quora to: Is open sourcing good or bad for startups? http://qr.ae/UZPB,Thu Mar 03 22:57:23 +0000 2011,en,0,False,1,False,,Ben Golub,golubbe
+Gluster Partners With RightScale to Deliver Scale -Out NAS for Cloud Environments - http://bit.ly/iiDrCM,Wed Mar 02 17:16:56 +0000 2011,en,1,False,0,False,,Ben Golub,golubbe
+@reminl Recente prestaties papier schetst technieken voor het optimaliseren van de prestaties van Gluster in AWS. http://bit.ly/eP4EkV,Tue Mar 01 20:28:25 +0000 2011,nl,0,False,0,False,,Ben Golub,golubbe
+"@zateriosystems  xlnt! looking forward to  it. You should see our recent perf. whitepaper , which details test configs http://bit.ly/eP4EkV",Tue Mar 01 02:56:10 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+Congrats to Dave and team @ Fundly--Social Fundraising Site Fundly Raises $2 Million of its Own http://t.co/FqFsyT7 via @techcrunch,Fri Feb 25 17:16:53 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+"RT @storageswiss: Latest Storage Swiss Briefing Note ""Gluster Virtual Storage Appliance"" http://bit.ly/idokzb",Wed Feb 23 19:15:31 +0000 2011,en,2,False,0,False,,Ben Golub,golubbe
+@yumyudai  Technical whitepaper on GlusterFS architecture http://bit.ly/fRtFvn  #GlusterFS,Wed Feb 23 19:13:40 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+@zateriosystems  Really interested in seeing your results. FYI- just published a whitepaper on Gluster FS performance under various configs,Wed Feb 23 19:08:41 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+RT @zateriosystems: Gluster Virtual Storage Appliance for #AWS ROCKS!! #zateriosystems #gluster,Fri Feb 18 22:09:25 +0000 2011,en,1,False,0,False,,Ben Golub,golubbe
+"@rithy4u  Yes, GlusterFS is open source licensed under AGPL v3.  Community support @ gluster.org.  Prof support/svcs avail to paying custs.",Thu Jan 13 00:29:51 +0000 2011,en,0,False,0,False,,Ben Golub,golubbe
+RT @mindsharepr: GigaOM: Will Streaming Content Drive Scale-out Storage? - Derrick Harris discusses Gluster/Pandora announcement: http:/ ...,Fri Jan 07 01:51:10 +0000 2011,en,3,False,0,False,,Ben Golub,golubbe
+@jsmarr  Congratulations to Joseph Smarr on Receiving a TechFellow Award for engineering leadership http://tcrn.ch/hJHsKu,Fri Dec 03 18:21:34 +0000 2010,en,1,False,0,False,,Ben Golub,golubbe
+"RT @craigwmiller: Gluster is looking really good!  3.1.1 released today, amazing clustered filesystem.  If you haven't tried it yet, I r ...",Thu Dec 02 19:20:07 +0000 2010,en,1,False,0,False,,Ben Golub,golubbe
+RT @Gluster: Virtual Strategy Magazine: Q&A with Ben Golub of Gluster http://bit.ly/f1IAeq #FB,Thu Dec 02 19:19:43 +0000 2010,en,3,False,0,False,,Ben Golub,golubbe
+RT @Gluster: Gluster CTO & Co-Founder AB Periasamy discusses server/storage virtualization gap on The Storage Architect Blog http://bit. ...,Thu Dec 02 19:19:05 +0000 2010,en,1,False,0,False,,Ben Golub,golubbe
+RT @MagicDude4Eva: @bidorbuy_co_za - we are now live with new servers and Gluster file-system - most awesome implementation ever!,Mon Nov 22 23:48:35 +0000 2010,en,2,False,0,False,,Ben Golub,golubbe
+"Gluster Completes $8.5M Series B Round, Led by Index Vetnures. 
+http://bit.ly/8WX494 http://lnkd.in/wpZBke",Tue Nov 09 17:21:02 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+@u2sashko Appears to be issue at hosting provider. We're working actively to fix.,Thu Sep 23 18:57:56 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+Confessions of Former Web 2.0 CEO bit.ly/b9cVcV,Thu Sep 23 17:41:56 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+bit.ly/b9cVcV,Thu Sep 23 17:41:38 +0000 2010,und,0,False,0,False,,Ben Golub,golubbe
+@petecurley Congrats on the new office. How are you liking sunnyvale?,Wed Jun 09 00:07:16 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+@alexpanelli  Yes--Small World!,Tue Jun 08 23:33:31 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+@bdalle thanks Bernard! Looking forward to working with you.,Wed May 19 13:49:09 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+"@iblaine  Thank you, Ian! Would love to chat with you more.",Wed May 19 05:58:39 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+"Thrilled to be starting as new CEO of open source storage company Gluster.  blog: http://bit.ly/9bDBYx, TC: http://tcrn.ch/aI3j39",Wed May 19 05:13:16 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+"After 5 great years, I’m moving on from Plaxo. Congrats to new CEO Justin Miller. My blog http://bit.ly/9DkHEc  TC- http://tcrn.ch/aRj92G",Fri Mar 26 01:48:44 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+"After 5 great years, I'll be moving on from Plaxo.   Congrats to Justin Miller, who will be taking on the CEO Role. http://bit.ly/bnfiH6",Thu Mar 25 19:54:43 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+@GordonMullan  Very sorry to hear this. I'll get someone to respond to you asap.,Wed Mar 17 16:24:38 +0000 2010,en,0,False,0,False,,Ben Golub,golubbe
+"@Patrick_PDP  Different users, different functionality, different content. Both are useful. Let's talk live at break,",Wed Sep 16 15:24:55 +0000 2009,en,0,False,0,False,,Ben Golub,golubbe
+@EndTheRoboCalls Pulse service  down due to colo power failure. Working to restore. Address books avail  via: http://www.plaxo.com/po3,Tue Sep 23 17:02:09 +0000 2008,en,0,False,0,False,,Ben Golub,golubbe
+@prettydirty I'm Plaxo's ceo. Sorry to hear that you hate us. Is there anything we  could do differently to change your mind?,Fri Aug 01 22:58:22 +0000 2008,en,0,False,0,False,,Ben Golub,golubbe

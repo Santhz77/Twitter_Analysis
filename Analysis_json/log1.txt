@@ -1,0 +1,2317 @@
+/usr/bin/python3.5 /home/nayak/Work/Hiwi/Twitter_Analysis/requst_response.py
+Fetching the username for  from the Excel sheet
+Please wait, this may take some time.
+******************
+Extracted all the usernames
+Old execution file found.Extracting information on already downloaded data.
+['edyson', 'venky13', 'salsop', 'Alfred_Lin', 'sama', 'darian314', 'davidsrose', 'jesserobbins', 'safasrnext', 'Jason', 'amittm', 'jtwald', 'jakelodwick', 'elatable', 'VCMike', 'marissamayer', 'anandx', 'tientzuo', 'jeffskoll', 'bfeld', 'othman', 'BillGates', 'arrington', 'algard', 'naval', 'grosz', 'mike_greenfield', 'ekagan26', 'curiousoffice', 'mikeyavo', 'thione', 'ericries', 'zachnelson', 'lak', 'crashdev', 'mattocko', 'mleslie45', 'scottbelsky', 'pud', 'heiligerj', 'jeanhammond', 'andyhpalmer', 'snowmaker', 'martinvars', 'harjeet', 'mtanne', 'RussSiegelman', 'kevaldesai', 'joshu', 'solvehealthcare', 'JeffWeiner', 'wkortschak', 'jaybaer', 'gmc', 'timOReilly', 'robemrich', 'wtfspez', 'aplusk', 'aayushchegg', 'amishjani', 'shak', 'rchen', 'Benioff', 'mrgirish', 'ev', 'bradharrison1', 'weschan', 'standers', 'sgblank', 'westcoastbill', 'jab', 'naveen_jain_ceo', 'TimDraper', 'MKassan', 'cavsdan', 'gralston', 'daltonc', 'MediaLabPete', 'seiff', 'JustinYoshimura', 'loic', 'daveschappell', 'drusenko', 'duncanjennings', 'markusbiegel', 'ellenlevy', 'hirodusk', 'hrosendahl', 'jaredhecht', 'instigating', 'gabor', 'jaltucher', 'TedLeonsis', 'gilpenchina', 'erikbl', 'zaoyang', 'kperdew', 'lpolovets', 'peterthiel', 'manukumar', 'payamzamani', 'tedr', 'davidu', 'lum', 'jaygould', 'howardlove', 'davelerner', 'jcal7', 'rayrothrock', 'marcos_galperin', 'mattturck', 'bobbyyazdani', 'giordanobc', 'gregchang', 'jeremys', 'guyoseary', 'StefanGlaenzer', 'thegothamgal', 'pjain', 'jeffpulver', 'oleg12', 'chamath', 'howardlindzon', 'lazerow', 'PeterChernin', 'yishan', 'mcuban', 'KeesKoolen', 'mickbirch', 'fritzanity', 'trivediravi', 'pt', 'paultoo', 'orenzeev', 'allen_alley', 'martenmickos', 'moskov', 'othylmann', 'nist', 'laurentasscher', 'joshk', 'garrytan', '1kunalbahl', 'chadbyers', 'ed_roman', 'HLMorgan', 'erikhmoore', 'apartovi', 'eab0828', 'KiteVC', 'jerrycolonna', 'hershberg', 'hornthal', 'hpvigil', 'adamdangelo', 'chrismichel', 'gegax', 'mygdal', 'spencerrascoff', 'datarama', 'eladgil', 'sulemanali', 'yammeradam', 'davemorin', 'karl', 'garyvee', 'fadig', 'RichardBranson', 'mattcutts', 'Caterina', 'markgoines', 'adamquinton', 'Rich_Barton', 'msuster', 'parkparadigm', 'justinkan', 'tferriss', 'danmartell', 'JeffEpstein', 'rewolpert', 'invoker', 'adamnash', 'jaredhk', 'fredwilson', 'JasonHirschhorn', 'wayne', 'kevincdonahue', 'danrosensweig', 'saarsaar', 'kevincolleran', 'thatchriskelly', 'gregwaldorf', 'GSRubenstein', 'eileentso', 'VinnyLingham', 'e_hahn', 'johnbattelle', 'barneyh', 'mlevchin', 'seanblack', 'mwalsh', 'mowheeler', 'jefffluhr', 'bendavenport', 'rohitkbansal', 'jellyfishbloom', 'tiboel', 'portodog', 'anupammittal', 'rl_thompson', 'fabricegrinda', 'YagoArbeloa', 'valkatayev', 'maynard', 'rickwebb', 'clandry', 'patrickc', 'jackabraham', 'davemcclure', 'jkraus', 'apatzer', 'robinklein', 'vijayshekhar', 'Justin_Mateen', 'DaveBalter', 'kurnit', 'ariel', 'jamesjoaquin', 'thomasryan', 'brianp', 'mattcoffin', 'tazpatel', 'barneyp', 'A225', 'angusdav', 'rabois', 'm2jr', 'alexisohanian', 'davegilboa', 'davetisch', 'carlbyers', 'dcancel', 'hajak', 'tylerwillis', 'cape', 'jevon', 'photomatt', 'economysizegeek', 'marallo', 'rogerdickey', 'kennyvz', 'dropalltables', 'joshspear', 'cyantist', 'zachweinberg', 'blakemycoskie', 'nas', 'er.com/josephnsanberg', 'davegoldberg', 'nealrap', 'paulsethi', 'gilelbaz', 'JohnMaloney', 'samyagan', 'aarrieta', 'jayadelson', 'jose_marin81', 'tonsing', 'gpjudge', 'mkapor', 'RonSuber', 'davemorgannyc', 'RonConway', 'JamesCurrier', 'deepnishar', 'stevechen', 'alexbard', 'sacca', 'dbrianphelps', 'ullastweets', 'steveobd', 'davidkarp', 'ryanallis', 'urgentspeed', 'KevinHenrikson', 'barrysilbert', 'flaregames', 'ceounplugged', 'semil', 'Levie', 'bchesky', 'pejmannozad', 'dens', 'kirill', 'BrendanFWallace', 'mwalrath', 'paulg', 'noahgoodhart09', 'larrymarcus', 'akarelin', 'davidcowan', 'natsturner', 'wirehog', 'mikasalmi', 'usiegj00', 'KenLerer', 'johndoerr', 'larshinrichs', 'hunterwalk', 'stevejang', 'wences', 'TheSharkDaymond', 'mwseibel', 'dbeyer123', 'TonyRobbins', 'TinaSharkey', 'alanwarms', 'ValoreBobby', 'iggyfanlo', 'armandobiondi', 'jonteo', 'joshmedia', 'alisonrosenthal', 'PaulSagan1', 'michaelovitz', 'aa', 'kipmcc', 'bentsmithfour', 'scottbecker', 'marekolszewski', 'Percival', 'BogieBalkansky', 'SnoopDogg', 'stiglitz', 'kenleonard0', 'gfcampbell', 'brianhand', 'nivi', 'jesperbuch', 'ventilla', 'gweston', 'rosslevinsohn', 'vikasgupta', 'zawthet', 'judegomila', 'erif', 'dh', 'abresler', 'dafrankel', 'foundersatwork', 'chijs', 'jwcunningham', 'konikaze', 'inakib', 'GregBuzzFeed', 'alanb42', 'steven_cox', 'YangTerrence', 'NewWayPaddy', 'dannyrimer', 'marlette', 'radarkc', 'Rasiej', 'chloes', 'JoshAbramowitz', 'mcarges', 'ross__perot', 'arampell', 'jimydotorg', 'gomattymo', 'yougo', 'anshublog', 'jschox', 'WilliamsonMark', 'Louis_Monier', 'adharni', 'dscheinm', 'tfadp', 'cshapiro', 'brettc', 'JimMoloshok', 'yegg', 'startupman', 'godardabel', 'wbunker', 'waltdoyle', 'brockpierce', 'mazaic', 'erroldamelin', 'Bobaspinner', 'alexkrug', 'dsamuel', 'impunity', 'Burchcreative', 'enekoknorr', 'berdakin', 'amitgupta007', 'Fin101', 'bazaarbrett', 'seikatsu', 'mattcohler', 'ethanbeard', 'briansugar', 'binhtran', 'ansanelli', 'ryan_scott', 'explore360', 'davepell', 'ktulrich', 'nrmehta', 'michaeldell', 'neerajarora', 'asenkut', 'joefernandez', 'acasalena', 'vishalgondal', 'kevin_scott', 'recanati', 'AbhishekGoyal', 'adamjacksonsf', 'impactatscale', 'sohailprasad', 'bedy', 'abatalion', 'royrubin05', 'jimpayne', 'kevinryan', 'rangerj', 'RachelZoe', 'GeorgeKellerman', 'davehoover', 'fred_montagnon', 'KlausLovgreen', 'kyork20', 'kasslazerow', 'rainrannu', 'mmarinucci', 'Bankoff', 'peterpham', 'johnmaeda', 'aberrey', 'neilpatel', 'TKKuegler', 'theamericanceo', 'frydave', 'munjalshah', 'RMooreAV', 'tedserbinski', 'robdeheus', 'michaelmyang', 'mariakeczczi', '_JeffMargolis', 'ramit', 'scotchisholm', 'samstella1', 'farhad667', 'ohadgliksman', 'bornryan', 'NickHanauer', 'RovertMoslof', 'jayweintraub', 'seregine', 'eisenberg', 'waseem', 'robsolomon1', '2pasc', 'jkhoey', 'sanford', 'davidchang', 'seanmo', 'tracemayer', 'awadallah', 'kylewidrick', 'scottfarkas', 'BenJLerer', 'benlin0000', 'rezahussein', 'stormzplatform', 'SukhinderSingh', 'KenAustinAvion', 'freemanindia', 'gaylordkellogg', 'eytanelbaz', 'jgsilverman', 'bobbickel', '3rdwavemedia', 'alexcharlie', 'amol', 'kevinchou', 'rsarver', 'tamccann', 'jeffarnold', 'dariani', 'n_khanna', 'lancekalish', 'ScottDorsey', 'yvesbehar', 'rameshharidas', 'mikecollett', 'BernieHernie', 'aaronbird', 'SunilPaul', 'aw', 'Michels', 'rehundt', 'jimwiatt', 'Tal_Yuval', 'suren_markosian', 'jtimberlake', 'joezawadzki', 'Michael_Eisner', 'algore', 'EghosaO', 'MatthewCJames', 'pierre', 'dotsteve', 'LarsLuv', 'bdistel', 'tconrad', 'jeberlin', 'upwardmobility', 'jermyap', 'bemcclendon', 'davidsze', 'si_plant', 'StevoLoughlin', 'laurenepowell', 'jr105', 'tobi', 'm_abraham', 'zachklein', 'ZelkovaVC', 'kevinfortuna', 'nicolaiwadstrom', '_tom_c_', 'habibh', 'lunk18', 'jencarolan', 'stevenjr76', 'deekay', 'nextcaller', 'timy0ung', 'stahura', 'jensbch', 'thereelist', 'waikit', 'robnail', 'rsamvit', 'andrewbusey', 'com/BarbaraCorcoran', 'zakholdsworth', 'randizuckerberg', 'joshelman', 'bmatthews840', 'nerdwallet', 'MarchCps', 't_4', 'KnappOnTech', 'mknwebsolutions', 'lefkofsky', 'devdutt', 'inow', 'jonathansposato', 'MartinBabinec', 'ShaneBattier', 'bobbylent', 'ryanseacrest', 'dariusmc', 'joelcpeterson', 'mkokorich', 'timmaru', 'venkatjanapared', 'mbmccall', 'katies', 'altcap', 'johnhering', 'barenblat', 'djtokyo', 'georgezachary', 'lrajlich', 'S_C_', 'Samirkaji', 'juliahartz', 'satishd', 'nireyal', 'shishirmehrotra', 'jlanzone', 'collision', 'JackHerrick', 'mpanesis', 'vishalm', 'dctanner', 'davidcoallier', 'reverbdotcom', 'lightspeedvp', 'NickBeim', 'neilc122', 'danielcarroll', 'DickC', 'EamonLeonard', 'philippe_cases', 'sebdeh', 'paulbz', 'liaonet', 'bhalligan', 'danicgross', 'crazybob', 'michaelbaum', 'MayankBawa', 'gavinuhma', 'ValleyGirlShow', 'jkrums', 'samfromwgtn', 'amiller29', 'davidvivero', 'slevene', 'chudson', 'HenryLMcNamara', 'peterboboff', 'gustaf', 'TrevorTraina1', 'sorayadarabi', 'papadimitriou', 'kduggan', 'magno', 'stevegarfield', 'seanellis', 'mjacobstein', 'seattlebill', 'JeffMiller', 'rmchoudhury', 'papakipos', 'sampullara', 'bradgessler', 'mcannonbrookes', 'razmig7', 'joelyarmon', 'com/douglasguen', 'christianreber', 'mayorrock', 'randyhaykin', 'ericcwdunn', 'kentfuka', '_davidcarter', 'richardgraves', 'kentgoldman', 'alekseykorzun', 'pointsnfigures', 'travislbond', 'lawbla', 'Batterii', 'moia', 'dsternsf', '@andrewam', 'jeffiel', 'bpm140', 'hemang', 'mattholleran', 'fran_hauser', 'ygiokas', 'Kazanjy', 'davidblumberg', 'nisselson', 'simonrothman', 'lance', 'jeffjarvis', 'stuartcoulson', 'johnc1n', 'bbalfour', 'gabegreenbaum', 'LaurentDrion', 'dschol', 'haxor', 'idancohen', 'stevenewcomb', 'sunrock', 'shaunabe', 'dutchesscapital', 'satyap', 'BennySchnaider', 'scottswitzer', 'mkleczynski', 'roelofbotha', 'gkremen', 'CJAhearn', 'marcusogawa', 'cforman', 'wcrosby', 'stevewoz', 'philnolimits', 'TonyOElumelu', 'calsimmons', 'amamujee', 'paulvidich', 'natfriedman', 'bubs', 'vipulved', 'bubbam', 'kevinolearytv', 'ksub15', 'hinssen', 'KenFox_NYC', 'bvjagadeesh', 'craigulliott', 'GrahamJenkin', 'JoshAbramson', 'sachbhat', 'elainewherry', 'mbeckett', 'alexg0', 'j_nieuviarts', 'ryanhowardceo', 'oliverbigler', 'LaconiaVentures', 'ceosherpa', 'jamiekennedy', 'jsummers1', 'getspeakup', 'collbud', 'darrellsilver', 'YaronGalai', 'CarlosCashman', 'bgoldberg', 'JonathanGovette', 'ROWGHANI', 'dlawee', 'marksbirch', 'rockyw', 'PeterKirwan', 'takumeister', 'scottwalchek', 'W_ScottWeiss', 'benhuh', 'gbrockway', 'sherylsandberg', 'kvedati', 'seanknapp', 'ScottTannen', 'andrewchen', 'nick_grouf', 'invisiblehand9', 'kenhertz', 'vkeenan', 'shaileshrao', 'gregbettinelli', 'DC_Ari', 'jeremyarnon', 'lynch_bigdata', 'rmtacct', 'chrishulls', 'sridiyengar', 'irvshapiro', 'davidwadler', 'grasshopper', 'neildavidson', 'jgreze', 'RachelSheinbein', 'zachware', 'BobBrinker', 'arainert', 'dmitryda', 'Hussamkhoury', 'ryan_mcintyre', 'dpatil', 'dkarandish', 'philiprosedale', 'andyswan', 'mikeprasad', 'andrewframe', 'robertherjavec', 'StevenBoal', 'saidamin', 'minorventures', 'ericdibenedetto', 'peterchoran', 'eliaw', 'cm', 'garybenitt', 'kurtabra', 'demandrichard', 'tshields', 'idoleffler', 'jwenokur', 'naveenspark', 'derickthompson', 'derekmercer', 'DawnLepore', 'bmcloughlin', 'JGut', 'systep', 'nstata', 'apiggott', 'chrysb', 'ggarrick', 'eatokra', 'ericwu01', 'toofan', 'ctr46032', 'hbarra', 'mattsalz', 'aber_whitcomb', 'AnchorFreeDavid', 'piroozram', 'michaelkbaker', 'ConstantinAloha', 'cgarb', 'r0bl0rd', 'race_yourself', 'conwayronny', 'paul_arnold', 'dgould', 'kul', 'samerham', 'K5launch', 'ronboug', 'joelhyatt', 'smarcus', 'jfleeg', 'patk', 'alistairmilne', 'betashop', 'brian_emcap', 'johnham', 'benjaminsmith', 'eliast', 'jamiesiminoff', 'lobarb', 'kregpeeler', 'KajOPP', 'rikardsteiber', 'reedsturtevant', 'moneyball', 'cyriac1', 'binfire', 'mazzeo', 'dannymasterson', 'omarepps', 'samteller', 'ChrisRedlitz', 'jamesendicott', 'ongjulian', 'dvillarrealm', 'gorobtaylor', 'mckoss', 'rickmeaton', 'anthonysoohoo', 'davidskidder', '_dilan', 'nobleackerson', 'hmikitani_e', 'ChrisOvitz', 'vcuniverse', 'fabriceleparc', 'albertfeliu', 'staenman', 'kamalravikant', 'hoomanradfar', 'glaybourne', 'stuartwmcleod', 'anandsw', 'stormduncan', 'misskrisana', 'lorrienor', 'DavidScacco', 'hthill', 'bobbymarhamat', 'makavy', 'damonway', 'asocialcontract', 'blader', 'daveselinger', 'christenobrien', 'rfradin', 'ilan', 'sollytweet', 'jeremyl', 'wkasel', 'maxpelle', 'jespow', 'rglein', 'dnesamoney', 'rajerthat', 'hardaway', 'TelemachusLuu', 'joscwhite', 'thomaspbyrne', 'com/pointsnfigures', 'sbyrnes', 'Grandcrayonca', 'jlarrison', 'tmauch', 'KenDeLeonRLTR', 'davehonig', 'esbaker', 'matthewmolinari', 'swaaanson', 'akosmaroy', 'timjaxn', 'jaltma', 'mikemap', 'tonysphere', 'edzschau', 'reedhastings', 'kbaran', 'sonicdeath', 'dan_guo', 'garyjoe', 'innonate', 'nikohrdy', 'perrelli', 'om', 'Jordalev', 'Payne92', 'oferronen', 'Nickinthebox', 'mmccue', 'bonatsos', 'skonnard', 'petershankman', 'zachcoelius', 'kabbenbock', 'jjbeshara', 'classicyuppie', 'jhitchco', 'dperry', 'novaspivack', 'florianseroussi', 'dkhos', 'blainevess', 'robinchan', 'genederose', 'HiFikidsDotCom', 'petegrillo', 'smlyne', 'KristianIndy', 'rbelani', 'benjaminjoffe', 'MapSit_app', 'mabb0tt', 'PaulGAllen', 'trapitone', 'dherman76', 'bearbogast', 'tomdare', 'vconthebrain', 'justinbieber', 'rossinaustin', 'peterguber', 'pascallorne', 'tonyhawk', 'kingjames', 'vgurbuxani', 'cesarsalazar', 'jportnoy', 'ashfontana', 'rickyvanveen', 'svPatrick', 'mboverell', 'Borthwick', 'dbasch', 'rozzie', 'sylvinus', 'pesmou', 'ChuckYim', 'aligpincus', 'mike_roth', 'JeffreyPParker', 'joshmohrer', 'hubmo', 'chriskitze', 'Tadhgotoole', 'laureltouby', 'agentbillo', 'bradkeywell', 'gusfuldner', '@MattyB', 'kvogt', 'deapubhi', 'ypik', 'jessicaalba', 'jondahl', 'samihtoukan', 'daniellaury', 'KeithRichman', 'kurtwilms', 'mnaficy', 'simeons', 'DaliborSiroky', 'shahar_waiser', 'avi_fogel', 'akashgarg', 'prelan', 'adambreckler', 'davenemetz', 'brianscohen', 'benyu_sierra', 'robertjweber', 'ethan_anderson', 'kwiller', 'Zappos_Fred', 'jonathancarson', 'MitchellTuchman', 'pitdesi', 'RonaldCroen', 'markedro', 'jaroehm', 'provy', 'akothari', 'illjunior', 'davidlyman', 'gaberotman', 'charlesmeyercam', 'danalert', 'SethTeicher', 'ladygaga', 'dpglasner', 'fran_quintero', 'nextcaller', 'schemers', 'sethpollack', 'benln', 'pooneetgoel', 'jimmyfallon', 'bre', 'vinnyolmstead', 'aradmand', 'klauspreisler', 'piotrwilam', 'gk_', 'RobLoCascio', '_robryan', 'mmzonoozy', 'dknemeyer', 'craigvodnik', 'duncanseay', 'bjamin999', 'jeffseibert', 'espelienjb', 'morganlinton', 'balajis', 'dsb', 'alexstamos', 'michaelpollan', 'larryellison', 'tobiaspeggs', 'daveconcannon', 'dmorg91', 'gwinokur', 'timothysykes', 'xb', 'alexmehr', 'joyowijaya', 'david_reich', 'keenjar', 'seanfee80', 'ArjunDArora', 'tmetzner', 'darrenconte', 'jorllaw', 'namekz', 'erikdlarson', 'BlakeKassel', 'huss', 'sparkcatalyst', 'brian_armstrong', 'SpotHero', 'DaveElkington', 'ankesh99kumar', 'cookflix', 'bzises', 'MattTucker', 'liebermanlarry', 'dohigley', 'RichardSmullen1', 'AFerenci', 'dimestore', 'FrankBonsal', 'robhayes', 'ArthurLevitt', 'etzioni', 'PeterDiamandis', 'zanderadell', 'ohadpr', 'Robertdavoli', 'mugly', 'dineshloveslife', 'Fly_laceclips', 'CustEx', 'mileshigherone', 'ampledata', 'robinbechtel', 'WFSULLIVAN3', 'DreamHostSimon', 'Tip', 'omairfit', 'otto_othman_', 'paulkin', 'ab90', 'bachdavid', 'estarks', 'JocelynLeavitt', 'djhersh', 'ttolvane', 'mpstaton', 'techventure', 'rbernshteyn', 'stanine', 'jakemgold', 'davidli', 'MitchZuklie', 'Kellblog', 'saltzmanjason', 'Alwaysagoodday1', 'ronrofe', 'OverDriveSteve', 'zarkomaletin', 'nik_martin', 'meals2heal_1', 'm1rose28', 'uxproductivity', 'danemcleod', 'gmmaniaci', 'rocketboom', 'filipdames', 'markcoker', 'stevesi', 'robertafshar', 'fveenendaal', 'MBKatz', 'peterfenton', 'akonstantin', 'patrickmcclory', 'Wimmeroth', 'welchsteven', 'clarkgiguiere', 'hadley', 'JimCameron', 'sir', 'jstrauss', 'Jessicadsteel', 'davidjwieland', 'dweekly', 'hankejh', 'yiannistsiounis', 'djsiry', 'billclerico', 'joannarees', 'btaylor', 'umairkhan', 'apeism', 'martinn123', 'christine', 'gstrompolos', 'demian_sellfors', 'dan__miller', 'tomrubin', 'adam_g', 'nshah10', 'mpd', 'vpaquet', 'chigoodrich', 'uopeople', 'smokejumper', 'getgili', 'arajan', 'bong', 'badeen', 'softwaregravy', 'ajv', 'brandenspikes', 'vincethompson', 'JitendraGupta', 'VCRebecca', 'jaredheyman', 'mrmawhinney', 'axe9', 'justpw', 'benmillerise', 'AndrewYangVFA', 'peretti', 'rr', 'jennylawton', 'BradUSV', 'iRowan', 'lyuben', 'jfremontsmith', 'darrentkimura', 'benchestnut', 'taylorhou', 'BMWhorley', 'wanderingmatt', 'tjack', 'barrylibert', 'iMogulDoYou', 'youcalc', 'seanrad', 'seeingfurther', 'dragoninnovate', 'mkjung', 'linaresa', 'fredshilmover', 'dla911', 'asmartbear', 'morrisor', 'witheiler', 'chrismorton', 'ygsong', 'massimosgrelli', 'miradu', 'springrod', 'billybush', 'carnet', 'gerster', 'lukeshepard', 'tigertexter', 'Shalevoosh', 'vinhvo21', 'rampratetony', 'davematthews', 'iok', 'Brianmichaelf', 'DennisMortensen', 'goldwerger', 'tamer4', 'stjules', 'forexearly', 'willhartmann', 'Alexjblum', 'charlesseybold', 'markanaples', 'drtomrice', 'bucchere', 'unity3d', 'dcvcjen', 'rdargahi', 'PUSHA_T', 'natehanks', 'romanscharf', 'ChristianGC', 'SergioRamos', 'talkingfrog1950', 'claycorman', 'hol', 'ricksegal', 'birsch', 'atxdefense', 'seth_bridges', 'lingscott', 'JustinSomaini', 'nshivakumar', 'timtrampedach', 'digital_jim', 'bethh', 'ericfranchi', 'russellhirsch', 'C2cunningham', 'bogusky', 'wortie', 'henkrogers', 'hillank', 'golubbe', 'ssvajian', 'sudheenair', 'tabishis', 'anigam', 'vijayp', 'StephenFleming', 'SanjayPat', 'ipaullee', 'mcutler', 'rohit_x_', 'steveY23', 'matthewlsiegel', 'husseinyahfoufi', 'yanda', 'awaddell2003', 'glennkelman', 'pfugeomagic', 'emangare', 'vbelfor', 'agurjal', 'abperiasamy', 'medriscoll', 'dweisburd', 'stevebryen', 'shayang', 'desireegruber', '_javigon', 'charlesfitz', 'tkulzer', 'samdecker', 'motowashere', 'Superwebomatic', 'johnsheehan', 'michaelapuscar', 'davewphillips', 'dougpepper', 'ddubinsky', 'swkmedia', 'jameskelm', 'jeffdachis', 'famolari', 'Dan88', 'nikolaj', 'whytehousegroup', 'davidpaulyoung', 'TeddyDowney', 'kiwiquick', 'adamerlebacher', 'marclipsitz', 'ecmorgan99', 'kevingould5785', 'LindaStone', 'bradoneill', 'OlegR', 'japerk', 'StephenJPhoto', 'cchrysan', 'bowmanbrian', 'nirajshah', 'louibyrdziak', 'dblasing', 'yannigiannaros', 'edfu1', 'tdelistathis', 'davehod', 'Jon_Nordmark', 'rongura', 'clarashih', 'neha_ns', 'readmeray', 'jamestamplin', 'agraber', 'jasonpjason', 'davidjonesOYW', 'ajayjuneja', 'stephengill', 'mhoydich', 'howard', 'sol_trujillo', 'thuddwhirr', 'chalfs', 'RyanGirardot', 'everett_steele', 'luke_beatty', 'nielr1', 'Jerry_Kaplan', 'mazydar', 'DHTransplant', 'chaddickerson', 'aprast', 'bencke', 'scottjlieberman', 'bradflora', 'adam', 'shawntsao', 'poornima', 'bradleywilson', 'lukekallis', 'jameyjeff', 'RustyRueff', 'martycornish', 'BlackLocus', 'ginab', 'jdmoran', 'holdenbrad', 'sraney', 'SteveTaylorCEO', 'mylesgrote', 'samstahl', 'tech4cars', 'mojombo', 'LynnYeldell', 'execcouncil', 'jon_ferrara', 'robotlaunch', 'ob4me', 'glenburchers', 'johndchisholm', 'cvwadored', 'matthewupchurch', 'Kimozakii', 'BaumyG', 'seedventure', 'dmilleravid', 'labusque', 'peterchane', 'briangoffman', 'FentressLA', 'bob_lyons', 'gregorymiller', 'DanMindus', 'miketatum', 'brianvision', 'frederikfleck', 'Plevensohn', 'mojism', 'jim95762', 'drewconway', 'imitrovic', 'dhaliwas', 'kbrownsirk', 'mdaoudi', 'daveillo', 'pentagoniac', 'mstachow', 'ckluis', 'rbwalksintoabar', 'ahpah', 'protagonistweet', 'scott_dietzen', 'seanspectors', 'omrilavie', 'ELIAZARUS', 'tolles', 'ilyaf', 'MatthewDaimler', 'edwin', 'alexzhard', 'j_jcoates', 'aktiveradio', 'nerdavid', 'skyrank', 'erickking', 'maxclark', 'kjmcgurn', 'webjoe', 'LA_Reid', 'fdraines', 'cayajose', 'Thismoment', 'DerekSchueren', 'wsjim', 'bobsenoff', 'robwalling', 'briancootecfp', 'Rich_LeFurgy', 'andrewlacy', 'epulier', 'justinsanger', 'drbno', 'arthurmadrid', 'cherylrosner', 'edturnerbe', 'jw', 'csaridakis', 'sunairventures', 'edsull', 'briannorgard', 'simonyoo', 'yuris', 'andyclib', 'annimaniac', 'jodymulkey', 'daddymention', 'hesky', 'PeterSMagnusson', 'jerBrightcove', 'jeffnatland', 'alexbfair', 'sethwlieberman', 'rhomsany', 'jiri', 'mason', 'fabricesergent', 'DamianThompson', 'sachinduggal', 'boztank', 'chrisfralic', 'YourHeroDeliver', 'joedipasquale', 'cfederman', 'david_s_samuels', 'alex01', 'datalockerdrive', 'samzises', 'russcosentino', 'edpark', 'kefrusy', 'marklarosa', 'nishkaam', 'antoniomurroni1', 'oudiantebi', 'jimscheinman', 'samferry', 'nishankkhanna', 'scottferreira', 'jmurz', 'Grindr', 'MalcolmCasSelle', 'selinato', 'sabdfl', 'clarkvalberg', 'bmenell', 'eddieplou', 'mazenra', 'mitchellharper', 'michmathews', 'Tcoppel', 'larolddoeswork', 'iWatchLife', 'danielbru', 'RichBTIG', 'promodhaque', 'igorberezovsky', 'cyberdefender1', '_iNers', 'nishantsf', 'collaboron', 'beninato', 'rwang0', 'sbercuson', 'CelticVC', 'singhpa', 'mchoupak', 'etdurbin', 'scottadelson', 'Padmasree', 'cendanacapital', 'AnniesCEO', '_aj', 'fffanatics', 'thebankcloud', 'andrewjmack', 'gglouie', 'atgrauer', 'DarranGarnham', 'joyce', 'avidl', 'Brent_Hill', 'JedKatz', 'tcavanah', 'josephsyen', 'tbrenneke', 'naninja', 'Sierra_Ventures', 'surfy', 'paleobreadrecip', 'AaronLacheta', 'heatherjbrunner', 'secretsig', 'adamhonig', 'leonardspeiser', 'jwang815', 'mgjohnson', 'kmaccauley', 'shriganeshram', 'davidniu', 'chrisbaggott', 'tjfirst', 'teixeiramark25', 'khurana_varun', 'mgorniak', 'Chris_DeWolfe', 'webgeek_', 'ryanpolley', 'mattdouglas', 'robchandra', 'LHSummers', 'FredHLerner', 'seandohertyjr', 'joestump', 'Asif2BD', 'alkarmi', 'socialhealthlabs', 'andrewaaron', 'campaigndock', 'mitch__lowe', 'scottmcgregor', 'adaml', 'sapountzis', 'marcspilker', 'valbabajov', 'sandydjen', 'jwhitehurst', 'fchixon', 'elementaltech', 'youngbradford', 'rosenboy', 'michaelrburcham', 'Etienne_L', 'jeffbennett', 'waynnlue', 'anujain', 'caceleste', 'douglebda', 'deprimer', 'dbennahum', 'mobfoundry', 'claychristensen', 'lleviev', 'hblodget', 'jkatzman', 'Mastro_Frankie', 'NadavPeres', 'peggen', 'ashmeetsidana', 'scottsperling', 'sarahfayboston', 'wendamillard', 'venancefab', 'cotsakos', 'joshcramer', 'dburka', 'basti', 'vlasso', 'wodlander', 'DanielDarling', 'jepepjr', 'skrenta', 'timcsontos', 'timguleri', 'michalblaha', 'vijayravindran', 'iambigbaby11', 'marcecko', 'StacyDStephens', 'pbartstephens', 'zachahyman', 'bznotes', 'jbermudez5', 'MegWhitman', 't_p_helms', 'tomwilliams', 'mikebrownjr', 'bongous', 'wmougayar', 'cleeb', 'KalomarNYC', 'armenberjikly', 'kinglevi', 'putorti', 'chrissundberg', 'eldani', 'michaeldemmer', 'robdyrdek', 'jbnyc2005', 'shirishsathaye', 'ktrae', 'BrunoMars', 'billjive', 'karim_elsahy', 'shradha0', 'NickSturiale', 'sehgal', 'toddohara', 'BoPeabody', 'mp3michael', 'hausenpepper', 'wkonkel', 'brianaltounian', 'takmiyata', 'kmckim123', 'ddukes', 'jaichoi', 'MikeKareo', 'ClintonWu', 'ACraigPowell', 'evanlowenstein', 'tammynam', '_isadinosaur', 'dikaheto', 'corylanou', 'alanknit', 'tomhigley', 'mnightshyamalan', 'sagi_solomon', 'realmikeernst', 'richarddjordan', 'kyle_eklund', 'gramblings', 'exploramed', 'travisv', 'The_Andrew_Wang', 'charlesbeeler', 'cankut_durgun', 'jtriest', 'bjwilson34', 'TexasSuperAngel', 'AndyRosenEdu', 'dang', 'aymericvigneras', 'arnonrosan', 'gregisenberg', 'zwigby', 'tommatzzie', 'peppersquare', 'noochibeads', 'chfry', 'bhandly', 'pmoe', 'JohnMBusby', '@Jan_Beckers', 'mflager', 'venturehacks', 'bgmasters', 'lucasnelson', 'mktxr', 'mrlawrenceblack', 'gigib1', 'aileenlee', 'erichgore', 'joelenglander', 'howardbrown', 'mkurwig', 'kentsuikentsui', 'bradybd', 'AndrewWarner', 'ivorichikowitz', 'tgibby', 'Omal', 'benkaufman', 'higgle', 'palella', 'cferengul', 'tommydavidson', 'BartDP', 'Jodange', 'adamfreed', 'khaledgb', 'fowlinator', 'jateen', 'corbett3000', 'ericnakagawa', 'WilliamHDraper', 'clouvi', 'rahulvohra', 'jeffhilimire', 'bgurley', 'maharg', 'rushabhd', 'etrepum', 'jperla', 'colin', 'TheCarrico', 'dandoctoroff', 'GaurangTanna', 'polvi', 'mrinaldesai', 'benkeighran', 'Sokratis', 'yukihiro_matz', 'vladobs', 'avinbansal', 'adammcnamara', 'GBousis', 'zealoustiger', 'ouissam33', 'bobmetcalfe', 'ThomasLe0n', 'gonzalo_pena', 'realgenekim?lang=en', 'Laura_Castaneda', 'JKNews', 'jbosborne', 'brandonarbini', 'consultSKI', 'joncardella', 'ChrisSinton', 'eoghanmccabe', 'mikelanger', 'phinupham', 'Olero1', 'RonGutman', 'golfsullivan', 'wsantanali', 'masolova', 'artesianvc', 'drewbrees', 'kartmann', 'jans', 'Thomas_Eide', 'M3aloney', 'bendrury', 'lucasvoncranach', 'asmith', 'seanhughessb', 'tcurran33', 'daveasprey', 'jennifernyc', 'anycloudco', 'MarcDIOUANE', 'marksugarman', 'dlprager', 'paulpangaro', 'tonyatskype', 'erick_miller', 'HireacarNOW', 'bencasnocha', 'jonathanglick', 'martinshkreli', 'andrewbachman', 'AJEsmailzadeh', 'Ponomarenko_N', 'sree', 'umbar', 'shl', 'AmyNauiokas', 'kashrehman', 'nmcresci', 'navneetaron', 'marchustvedt', 'garyswart', 'ScanDigital', 'mrsandhill', 'robertkapela', 'kenkwit', 'vgcerf', 'raffi', 'DanielKo', 'cfaydi', 'kfreed', 'scollens', 'laurisliberts', 'bwiegand', 'nickjonas', 'm_j_baumann', 'nirenhiro', 'osmanrashid', 'bizpals', 'camplejohn', 'kgale', 'MGorey24', 'cstoller', 'sanjay', 'mark_britton', 'gchahal', 'mattrobinson140', 'uberjon', 'caleblamb', 'seanbehr', 'DiAnnEisnor', 'dougmandell', 'marcellegrand', 'v_senko', 'robperkins_4', 'tschy', 'Tim_Stevens', 'plscurrie', 'daniel_sampson', 'chester_roh', 'artemerritt', 'oferwald', 'com/jeffreytinsley', 'ryanfrommade', 'LouisCriso', 'mdscaff', 'wileycerilli', 'TylerRoye1', 'joelgascoigne', 'ascohen', 'chamillionaire', 'njnorena', 'mcmichelsen', 'joshreznick', 'FrankQuattrone', 'openmindpd', 'KenHowery', 'andyczhang', 'bdv_wishdates', 'neerajvc', 'diplo', 'micshasan', 'ibarguen', 'ttobba', 'JulianMJung', 'ekomo', 'clembason', 'bobmoul', 'rlukejohnson', 'whatclinic', 'davidjekitlam', 'thegdb', 'charlieardagh', 'typesfaster', 'zirngibl', 'kintan', 'aa_shopgate', 'quietyme', 'phil9922', 'bismarcklepe', 'Oprah', 'mikepenna', 'skottr', 'jgdavidson', 'errikanderson', 'TuckerMax', 'ryanchris', 'robbieallen', 'mahendra_gr', 'ourielohayon']
+user list 1891
+temp list 1891
+batch user list length 38
+['edyson', 'venky13', 'salsop', 'Alfred_Lin', 'sama', 'darian314', 'davidsrose', 'jesserobbins', 'safasrnext', 'Jason', 'amittm', 'jtwald', 'jakelodwick', 'elatable', 'VCMike', 'marissamayer', 'anandx', 'tientzuo', 'jeffskoll', 'bfeld', 'othman', 'BillGates', 'arrington', 'algard', 'naval', 'grosz', 'mike_greenfield', 'ekagan26', 'curiousoffice', 'mikeyavo', 'thione', 'ericries', 'zachnelson', 'lak', 'crashdev', 'mattocko', 'mleslie45', 'scottbelsky', 'pud', 'heiligerj', 'jeanhammond', 'andyhpalmer', 'snowmaker', 'martinvars', 'harjeet', 'mtanne', 'RussSiegelman', 'kevaldesai', 'joshu', 'solvehealthcare', 'JeffWeiner']
+Extracting data for the user : edyson
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:54:33.797000+00:00
+wrote the data to text file
+Extracting data for the user : venky13
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:54:41.120000+00:00
+wrote the data to text file
+Extracting data for the user : salsop
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:54:48.890000+00:00
+wrote the data to text file
+Extracting data for the user : Alfred_Lin
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:54:56.104000+00:00
+wrote the data to text file
+Extracting data for the user : sama
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:55:04.056000+00:00
+wrote the data to text file
+Extracting data for the user : darian314
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:55:11.038000+00:00
+wrote the data to text file
+Extracting data for the user : davidsrose
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:55:18.160000+00:00
+wrote the data to text file
+Extracting data for the user : jesserobbins
+Retry 1: Status - Processing. Last updated = 2016-10-09T19:55:26.163000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T19:55:26.384000+00:00
+wrote the data to text file
+Extracting data for the user : safasrnext
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:55:39.136000+00:00
+wrote the data to text file
+Extracting data for the user : Jason
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:55:46.540000+00:00
+wrote the data to text file
+Extracting data for the user : amittm
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:55:54.404000+00:00
+wrote the data to text file
+Extracting data for the user : jtwald
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:56:01.712000+00:00
+wrote the data to text file
+Extracting data for the user : jakelodwick
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:56:09.141000+00:00
+wrote the data to text file
+Extracting data for the user : elatable
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:56:16.388000+00:00
+wrote the data to text file
+Extracting data for the user : VCMike
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:56:23.703000+00:00
+wrote the data to text file
+Extracting data for the user : marissamayer
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:56:30.615000+00:00
+wrote the data to text file
+Extracting data for the user : anandx
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:56:38.410000+00:00
+wrote the data to text file
+Extracting data for the user : tientzuo
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:56:46.326000+00:00
+wrote the data to text file
+Extracting data for the user : jeffskoll
+Retry 1: Status - Processing. Last updated = 2016-10-09T19:56:48.134000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T19:56:54.032000+00:00
+wrote the data to text file
+Extracting data for the user : bfeld
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:57:06.519000+00:00
+wrote the data to text file
+Extracting data for the user : othman
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:57:14.203000+00:00
+wrote the data to text file
+Extracting data for the user : BillGates
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:57:21.819000+00:00
+wrote the data to text file
+Extracting data for the user : arrington
+Retry 1: Status - Processing. Last updated = 2016-10-09T19:57:24.362000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T19:57:30.303000+00:00
+wrote the data to text file
+Extracting data for the user : algard
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:57:42.943000+00:00
+wrote the data to text file
+Extracting data for the user : naval
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:57:50.497000+00:00
+wrote the data to text file
+Extracting data for the user : grosz
+Retry 1: Status - Processing. Last updated = 2016-10-09T19:57:52.526000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T19:57:58.480000+00:00
+wrote the data to text file
+Extracting data for the user : mike_greenfield
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:58:11.257000+00:00
+wrote the data to text file
+Extracting data for the user : ekagan26
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:58:18.656000+00:00
+wrote the data to text file
+Extracting data for the user : curiousoffice
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:58:26.601000+00:00
+wrote the data to text file
+Extracting data for the user : mikeyavo
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:58:34.054000+00:00
+wrote the data to text file
+Extracting data for the user : thione
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:58:41.265000+00:00
+wrote the data to text file
+Extracting data for the user : ericries
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:58:48.616000+00:00
+wrote the data to text file
+Extracting data for the user : zachnelson
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:58:56.085000+00:00
+wrote the data to text file
+Extracting data for the user : lak
+Retry 1: Status - Processing. Last updated = 2016-10-09T19:58:58.263000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T19:59:04.272000+00:00
+wrote the data to text file
+Extracting data for the user : crashdev
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:59:16.713000+00:00
+wrote the data to text file
+Extracting data for the user : mattocko
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:59:24.630000+00:00
+wrote the data to text file
+Extracting data for the user : mleslie45
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:59:32.142000+00:00
+wrote the data to text file
+Extracting data for the user : scottbelsky
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:59:39.634000+00:00
+wrote the data to text file
+Extracting data for the user : pud
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:59:47.139000+00:00
+wrote the data to text file
+Extracting data for the user : heiligerj
+Retry 1: Status - Finished. Last updated = 2016-10-09T19:59:54.693000+00:00
+wrote the data to text file
+Extracting data for the user : jeanhammond
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:00:01.918000+00:00
+wrote the data to text file
+Extracting data for the user : andyhpalmer
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:00:09.635000+00:00
+wrote the data to text file
+Extracting data for the user : snowmaker
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:00:16.757000+00:00
+wrote the data to text file
+Extracting data for the user : martinvars
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:00:24.611000+00:00
+wrote the data to text file
+Extracting data for the user : harjeet
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:00:31.715000+00:00
+wrote the data to text file
+Extracting data for the user : mtanne
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:00:40.175000+00:00
+wrote the data to text file
+Extracting data for the user : RussSiegelman
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:00:49.334000+00:00
+wrote the data to text file
+Extracting data for the user : kevaldesai
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:00:57.294000+00:00
+wrote the data to text file
+Extracting data for the user : joshu
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:01:05.277000+00:00
+wrote the data to text file
+Extracting data for the user : solvehealthcare
+Retry 1: Status - Error. Last updated = 2016-10-09T20:01:12.644000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : JeffWeiner
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:01:20.582000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare']
+Batch number 1 finished
+['wkortschak', 'jaybaer', 'gmc', 'timOReilly', 'robemrich', 'wtfspez', 'aplusk', 'aayushchegg', 'amishjani', 'shak', 'rchen', 'Benioff', 'mrgirish', 'ev', 'bradharrison1', 'weschan', 'standers', 'sgblank', 'westcoastbill', 'jab', 'naveen_jain_ceo', 'TimDraper', 'MKassan', 'cavsdan', 'gralston', 'daltonc', 'MediaLabPete', 'seiff', 'JustinYoshimura', 'loic', 'daveschappell', 'drusenko', 'duncanjennings', 'markusbiegel', 'ellenlevy', 'hirodusk', 'hrosendahl', 'jaredhecht', 'instigating', 'gabor', 'jaltucher', 'TedLeonsis', 'gilpenchina', 'erikbl', 'zaoyang', 'kperdew', 'lpolovets', 'peterthiel', 'manukumar', 'payamzamani', 'tedr']
+Extracting data for the user : wkortschak
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:01:28.663000+00:00
+wrote the data to text file
+Extracting data for the user : jaybaer
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:01:36.518000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:01:36.673000+00:00
+wrote the data to text file
+Extracting data for the user : gmc
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:01:49.486000+00:00
+wrote the data to text file
+Extracting data for the user : timOReilly
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:01:56.747000+00:00
+wrote the data to text file
+Extracting data for the user : robemrich
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:02:04.911000+00:00
+wrote the data to text file
+Extracting data for the user : wtfspez
+Retry 1: Status - Error. Last updated = 2016-10-09T20:02:13.991000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : aplusk
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:02:21.734000+00:00
+wrote the data to text file
+Extracting data for the user : aayushchegg
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:02:29.231000+00:00
+wrote the data to text file
+Extracting data for the user : amishjani
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:02:37.641000+00:00
+wrote the data to text file
+Extracting data for the user : shak
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:02:45.291000+00:00
+wrote the data to text file
+Extracting data for the user : rchen
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:02:52.889000+00:00
+wrote the data to text file
+Extracting data for the user : Benioff
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:03:05.690000+00:00
+wrote the data to text file
+Extracting data for the user : mrgirish
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:03:14.647000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:03:14.747000+00:00
+wrote the data to text file
+Extracting data for the user : ev
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:03:27.536000+00:00
+wrote the data to text file
+Extracting data for the user : bradharrison1
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:03:35.368000+00:00
+wrote the data to text file
+Extracting data for the user : weschan
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:03:42.531000+00:00
+wrote the data to text file
+Extracting data for the user : standers
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:03:50.583000+00:00
+wrote the data to text file
+Extracting data for the user : sgblank
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:03:57.691000+00:00
+wrote the data to text file
+Extracting data for the user : westcoastbill
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:04:05.369000+00:00
+wrote the data to text file
+Extracting data for the user : jab
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:04:13.411000+00:00
+wrote the data to text file
+Extracting data for the user : naveen_jain_ceo
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:04:22.006000+00:00
+wrote the data to text file
+Extracting data for the user : TimDraper
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:04:29.722000+00:00
+wrote the data to text file
+Extracting data for the user : MKassan
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:04:37.158000+00:00
+wrote the data to text file
+Extracting data for the user : cavsdan
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:04:44.615000+00:00
+wrote the data to text file
+Extracting data for the user : gralston
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:04:52.206000+00:00
+wrote the data to text file
+Extracting data for the user : daltonc
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:05:00.519000+00:00
+wrote the data to text file
+Extracting data for the user : MediaLabPete
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:05:07.439000+00:00
+wrote the data to text file
+Extracting data for the user : seiff
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:05:15.501000+00:00
+wrote the data to text file
+Extracting data for the user : JustinYoshimura
+Retry 1: Status - Error. Last updated = 2016-10-09T20:05:23.356000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : loic
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:05:30.971000+00:00
+wrote the data to text file
+Extracting data for the user : daveschappell
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:05:38.920000+00:00
+wrote the data to text file
+Extracting data for the user : drusenko
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:05:46.261000+00:00
+wrote the data to text file
+Extracting data for the user : duncanjennings
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:05:54.260000+00:00
+wrote the data to text file
+Extracting data for the user : markusbiegel
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:06:01.411000+00:00
+wrote the data to text file
+Extracting data for the user : ellenlevy
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:06:09.028000+00:00
+wrote the data to text file
+Extracting data for the user : hirodusk
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:06:16.942000+00:00
+wrote the data to text file
+Extracting data for the user : hrosendahl
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:06:24.578000+00:00
+wrote the data to text file
+Extracting data for the user : jaredhecht
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:06:32.163000+00:00
+wrote the data to text file
+Extracting data for the user : instigating
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:06:39.677000+00:00
+wrote the data to text file
+Extracting data for the user : gabor
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:06:47.174000+00:00
+wrote the data to text file
+Extracting data for the user : jaltucher
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:06:55.490000+00:00
+wrote the data to text file
+Extracting data for the user : TedLeonsis
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:07:03.101000+00:00
+wrote the data to text file
+Extracting data for the user : gilpenchina
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:07:10.948000+00:00
+wrote the data to text file
+Extracting data for the user : erikbl
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:07:18.979000+00:00
+wrote the data to text file
+Extracting data for the user : zaoyang
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:07:26.684000+00:00
+wrote the data to text file
+Extracting data for the user : kperdew
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:07:35.028000+00:00
+wrote the data to text file
+Extracting data for the user : lpolovets
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:07:42.139000+00:00
+wrote the data to text file
+Extracting data for the user : peterthiel
+Retry 1: Status - Error. Last updated = 2016-10-09T20:07:49.560000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : manukumar
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:07:57.406000+00:00
+wrote the data to text file
+Extracting data for the user : payamzamani
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:08:05.542000+00:00
+wrote the data to text file
+Extracting data for the user : tedr
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:08:13.551000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel']
+Batch number 2 finished
+['davidu', 'lum', 'jaygould', 'howardlove', 'davelerner', 'jcal7', 'rayrothrock', 'marcos_galperin', 'mattturck', 'bobbyyazdani', 'giordanobc', 'gregchang', 'jeremys', 'guyoseary', 'StefanGlaenzer', 'thegothamgal', 'pjain', 'jeffpulver', 'oleg12', 'chamath', 'howardlindzon', 'lazerow', 'PeterChernin', 'yishan', 'mcuban', 'KeesKoolen', 'mickbirch', 'fritzanity', 'trivediravi', 'pt', 'paultoo', 'orenzeev', 'allen_alley', 'martenmickos', 'moskov', 'othylmann', 'nist', 'laurentasscher', 'joshk', 'garrytan', '1kunalbahl', 'chadbyers', 'ed_roman', 'HLMorgan', 'erikhmoore', 'apartovi', 'eab0828', 'KiteVC', 'jerrycolonna', 'hershberg', 'hornthal']
+Extracting data for the user : davidu
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:08:21.590000+00:00
+wrote the data to text file
+Extracting data for the user : lum
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:08:29.076000+00:00
+wrote the data to text file
+Extracting data for the user : jaygould
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:08:36.585000+00:00
+wrote the data to text file
+Extracting data for the user : howardlove
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:08:43.653000+00:00
+wrote the data to text file
+Extracting data for the user : davelerner
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:08:51.136000+00:00
+wrote the data to text file
+Extracting data for the user : jcal7
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:08:58.664000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:08:58.758000+00:00
+wrote the data to text file
+Extracting data for the user : rayrothrock
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:09:11.680000+00:00
+wrote the data to text file
+Extracting data for the user : marcos_galperin
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:09:19.157000+00:00
+wrote the data to text file
+Extracting data for the user : mattturck
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:09:27.240000+00:00
+wrote the data to text file
+Extracting data for the user : bobbyyazdani
+Retry 1: Status - Error. Last updated = 2016-10-09T20:09:34.977000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : giordanobc
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:09:42.552000+00:00
+wrote the data to text file
+Extracting data for the user : gregchang
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:09:49.944000+00:00
+wrote the data to text file
+Extracting data for the user : jeremys
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:09:57.506000+00:00
+wrote the data to text file
+Extracting data for the user : guyoseary
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:10:05.637000+00:00
+wrote the data to text file
+Extracting data for the user : StefanGlaenzer
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:10:13.138000+00:00
+wrote the data to text file
+Extracting data for the user : thegothamgal
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:10:22.045000+00:00
+wrote the data to text file
+Extracting data for the user : pjain
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:10:29.859000+00:00
+wrote the data to text file
+Extracting data for the user : jeffpulver
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:10:36.932000+00:00
+wrote the data to text file
+Extracting data for the user : oleg12
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:10:44.329000+00:00
+wrote the data to text file
+Extracting data for the user : chamath
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:10:51.903000+00:00
+wrote the data to text file
+Extracting data for the user : howardlindzon
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:11:01.094000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:11:01.277000+00:00
+wrote the data to text file
+Extracting data for the user : lazerow
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:11:14.406000+00:00
+wrote the data to text file
+Extracting data for the user : PeterChernin
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:11:21.356000+00:00
+wrote the data to text file
+Extracting data for the user : yishan
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:11:28.711000+00:00
+wrote the data to text file
+Extracting data for the user : mcuban
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:11:36.663000+00:00
+wrote the data to text file
+Extracting data for the user : KeesKoolen
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:11:44.007000+00:00
+wrote the data to text file
+Extracting data for the user : mickbirch
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:11:51.699000+00:00
+wrote the data to text file
+Extracting data for the user : fritzanity
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:11:59.215000+00:00
+wrote the data to text file
+Extracting data for the user : trivediravi
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:12:06.837000+00:00
+wrote the data to text file
+Extracting data for the user : pt
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:12:14.167000+00:00
+wrote the data to text file
+Extracting data for the user : paultoo
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:12:21.329000+00:00
+wrote the data to text file
+Extracting data for the user : orenzeev
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:12:28.949000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:12:29.155000+00:00
+wrote the data to text file
+Extracting data for the user : allen_alley
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:12:41.290000+00:00
+wrote the data to text file
+Extracting data for the user : martenmickos
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:12:49.083000+00:00
+wrote the data to text file
+Extracting data for the user : moskov
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:12:56.769000+00:00
+wrote the data to text file
+Extracting data for the user : othylmann
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:13:03.479000+00:00
+wrote the data to text file
+Extracting data for the user : nist
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:13:11.212000+00:00
+wrote the data to text file
+Extracting data for the user : laurentasscher
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:13:18.276000+00:00
+wrote the data to text file
+Extracting data for the user : joshk
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:13:25.896000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:13:26.188000+00:00
+wrote the data to text file
+Extracting data for the user : garrytan
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:13:39.227000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:13:39.381000+00:00
+wrote the data to text file
+Extracting data for the user : 1kunalbahl
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:13:51.961000+00:00
+wrote the data to text file
+Extracting data for the user : chadbyers
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:13:59.368000+00:00
+wrote the data to text file
+Extracting data for the user : ed_roman
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:14:06.959000+00:00
+wrote the data to text file
+Extracting data for the user : HLMorgan
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:14:14.050000+00:00
+wrote the data to text file
+Extracting data for the user : erikhmoore
+Retry 1: Status - Error. Last updated = 2016-10-09T20:14:21.245000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : apartovi
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:14:28.695000+00:00
+wrote the data to text file
+Extracting data for the user : eab0828
+Retry 1: Status - Error. Last updated = 2016-10-09T20:14:35.573000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : KiteVC
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:14:42.908000+00:00
+wrote the data to text file
+Extracting data for the user : jerrycolonna
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:14:50.277000+00:00
+wrote the data to text file
+Extracting data for the user : hershberg
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:14:57.624000+00:00
+wrote the data to text file
+Extracting data for the user : hornthal
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:15:05.429000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel', 'bobbyyazdani', 'erikhmoore', 'eab0828']
+Batch number 3 finished
+['hpvigil', 'adamdangelo', 'chrismichel', 'gegax', 'mygdal', 'spencerrascoff', 'datarama', 'eladgil', 'sulemanali', 'yammeradam', 'davemorin', 'karl', 'garyvee', 'fadig', 'RichardBranson', 'mattcutts', 'Caterina', 'markgoines', 'adamquinton', 'Rich_Barton', 'msuster', 'parkparadigm', 'justinkan', 'tferriss', 'danmartell', 'JeffEpstein', 'rewolpert', 'invoker', 'adamnash', 'jaredhk', 'fredwilson', 'JasonHirschhorn', 'wayne', 'kevincdonahue', 'danrosensweig', 'saarsaar', 'kevincolleran', 'thatchriskelly', 'gregwaldorf', 'GSRubenstein', 'eileentso', 'VinnyLingham', 'e_hahn', 'johnbattelle', 'barneyh', 'mlevchin', 'seanblack', 'mwalsh', 'mowheeler', 'jefffluhr', 'bendavenport']
+Extracting data for the user : hpvigil
+Retry 1: Status - Error. Last updated = 2016-10-09T20:15:12.374000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : adamdangelo
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:15:19.199000+00:00
+wrote the data to text file
+Extracting data for the user : chrismichel
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:15:26.115000+00:00
+wrote the data to text file
+Extracting data for the user : gegax
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:15:34.101000+00:00
+wrote the data to text file
+Extracting data for the user : mygdal
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:15:41.142000+00:00
+wrote the data to text file
+Extracting data for the user : spencerrascoff
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:15:48.092000+00:00
+wrote the data to text file
+Extracting data for the user : datarama
+Retry 1: Status - Error. Last updated = 2016-10-09T20:15:55.009000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : eladgil
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:16:01.646000+00:00
+wrote the data to text file
+Extracting data for the user : sulemanali
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:16:09.490000+00:00
+wrote the data to text file
+Extracting data for the user : yammeradam
+Retry 1: Status - Error. Last updated = 2016-10-09T20:16:16.636000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : davemorin
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:16:24.317000+00:00
+wrote the data to text file
+Extracting data for the user : karl
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:16:31.702000+00:00
+wrote the data to text file
+Extracting data for the user : garyvee
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:16:39.390000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:16:39.511000+00:00
+wrote the data to text file
+Extracting data for the user : fadig
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:16:51.661000+00:00
+wrote the data to text file
+Extracting data for the user : RichardBranson
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:16:59.648000+00:00
+wrote the data to text file
+Extracting data for the user : mattcutts
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:17:06.510000+00:00
+wrote the data to text file
+Extracting data for the user : Caterina
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:17:13.610000+00:00
+wrote the data to text file
+Extracting data for the user : markgoines
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:17:15.795000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:17:21.680000+00:00
+wrote the data to text file
+Extracting data for the user : adamquinton
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:17:33.836000+00:00
+wrote the data to text file
+Extracting data for the user : Rich_Barton
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:17:40.941000+00:00
+wrote the data to text file
+Extracting data for the user : msuster
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:17:48.222000+00:00
+wrote the data to text file
+Extracting data for the user : parkparadigm
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:17:55.514000+00:00
+wrote the data to text file
+Extracting data for the user : justinkan
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:18:02.498000+00:00
+wrote the data to text file
+Extracting data for the user : tferriss
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:18:09.720000+00:00
+wrote the data to text file
+Extracting data for the user : danmartell
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:18:16.533000+00:00
+wrote the data to text file
+Extracting data for the user : JeffEpstein
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:18:23.685000+00:00
+wrote the data to text file
+Extracting data for the user : rewolpert
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:18:31.272000+00:00
+wrote the data to text file
+Extracting data for the user : invoker
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:18:38.287000+00:00
+wrote the data to text file
+Extracting data for the user : adamnash
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:18:45.341000+00:00
+wrote the data to text file
+Extracting data for the user : jaredhk
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:18:51.959000+00:00
+wrote the data to text file
+Extracting data for the user : fredwilson
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:18:59.464000+00:00
+wrote the data to text file
+Extracting data for the user : JasonHirschhorn
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:19:06.613000+00:00
+wrote the data to text file
+Extracting data for the user : wayne
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:19:13.552000+00:00
+wrote the data to text file
+Extracting data for the user : kevincdonahue
+Retry 1: Status - Error. Last updated = 2016-10-09T20:19:21.443000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : danrosensweig
+Retry 1: Status - Error. Last updated = 2016-10-09T20:19:28.434000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : saarsaar
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:19:37.507000+00:00
+wrote the data to text file
+Extracting data for the user : kevincolleran
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:19:44.550000+00:00
+wrote the data to text file
+Extracting data for the user : thatchriskelly
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:19:52.861000+00:00
+wrote the data to text file
+Extracting data for the user : gregwaldorf
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:20:01.737000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:20:02.093000+00:00
+wrote the data to text file
+Extracting data for the user : GSRubenstein
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:20:14.675000+00:00
+wrote the data to text file
+Extracting data for the user : eileentso
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:20:21.833000+00:00
+wrote the data to text file
+Extracting data for the user : VinnyLingham
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:20:29.147000+00:00
+wrote the data to text file
+Extracting data for the user : e_hahn
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:20:36.268000+00:00
+wrote the data to text file
+Extracting data for the user : johnbattelle
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:20:43.268000+00:00
+wrote the data to text file
+Extracting data for the user : barneyh
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:20:51.191000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:20:51.349000+00:00
+wrote the data to text file
+Extracting data for the user : mlevchin
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:21:03.840000+00:00
+wrote the data to text file
+Extracting data for the user : seanblack
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:21:11.419000+00:00
+wrote the data to text file
+Extracting data for the user : mwalsh
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:21:18.509000+00:00
+wrote the data to text file
+Extracting data for the user : mowheeler
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:21:26.526000+00:00
+wrote the data to text file
+Extracting data for the user : jefffluhr
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:21:38.418000+00:00
+wrote the data to text file
+Extracting data for the user : bendavenport
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:21:46.480000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel', 'bobbyyazdani', 'erikhmoore', 'eab0828', 'hpvigil', 'datarama', 'yammeradam', 'kevincdonahue', 'danrosensweig']
+Batch number 4 finished
+['rohitkbansal', 'jellyfishbloom', 'tiboel', 'portodog', 'anupammittal', 'rl_thompson', 'fabricegrinda', 'YagoArbeloa', 'valkatayev', 'maynard', 'rickwebb', 'clandry', 'patrickc', 'jackabraham', 'davemcclure', 'jkraus', 'apatzer', 'robinklein', 'vijayshekhar', 'Justin_Mateen', 'DaveBalter', 'kurnit', 'ariel', 'jamesjoaquin', 'thomasryan', 'brianp', 'mattcoffin', 'tazpatel', 'barneyp', 'A225', 'angusdav', 'rabois', 'm2jr', 'alexisohanian', 'davegilboa', 'davetisch', 'carlbyers', 'dcancel', 'hajak', 'tylerwillis', 'cape', 'jevon', 'photomatt', 'economysizegeek', 'marallo', 'rogerdickey', 'kennyvz', 'dropalltables', 'joshspear', 'cyantist', 'zachweinberg']
+Extracting data for the user : rohitkbansal
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:21:53.706000+00:00
+wrote the data to text file
+Extracting data for the user : jellyfishbloom
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:22:00.776000+00:00
+wrote the data to text file
+Extracting data for the user : tiboel
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:22:08.431000+00:00
+wrote the data to text file
+Extracting data for the user : portodog
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:22:15.510000+00:00
+wrote the data to text file
+Extracting data for the user : anupammittal
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:22:23.758000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:22:23.978000+00:00
+wrote the data to text file
+Extracting data for the user : rl_thompson
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:22:36.458000+00:00
+wrote the data to text file
+Extracting data for the user : fabricegrinda
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:22:43.795000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:22:43.917000+00:00
+wrote the data to text file
+Extracting data for the user : YagoArbeloa
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:22:56.472000+00:00
+wrote the data to text file
+Extracting data for the user : valkatayev
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:23:03.960000+00:00
+wrote the data to text file
+Extracting data for the user : maynard
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:23:11.275000+00:00
+wrote the data to text file
+Extracting data for the user : rickwebb
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:23:18.346000+00:00
+wrote the data to text file
+Extracting data for the user : clandry
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:23:26.776000+00:00
+wrote the data to text file
+Extracting data for the user : patrickc
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:23:34.372000+00:00
+wrote the data to text file
+Extracting data for the user : jackabraham
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:23:46.638000+00:00
+Retry 2: Status - Processing. Last updated = 2016-10-09T20:23:51.815000+00:00
+Retry 3: Status - Processing. Last updated = 2016-10-09T20:23:57.036000+00:00
+Retry 4: Status - Processing. Last updated = 2016-10-09T20:24:02.530000+00:00
+Retry 5: Status - Processing. Last updated = 2016-10-09T20:24:07.620000+00:00
+Retry 6: Status - Processing. Last updated = 2016-10-09T20:24:12.765000+00:00
+Retry 7: Status - Processing. Last updated = 2016-10-09T20:24:17.863000+00:00
+Retry 8: Status - Processing. Last updated = 2016-10-09T20:24:23.601000+00:00
+Retry 9: Status - Processing. Last updated = 2016-10-09T20:24:28.726000+00:00
+Retry 10: Status - Processing. Last updated = 2016-10-09T20:24:39.795000+00:00
+Retry 11: Status - Processing. Last updated = 2016-10-09T20:24:44.835000+00:00
+Retry 12: Status - Processing. Last updated = 2016-10-09T20:24:49.889000+00:00
+Retry 13: Status - Finished. Last updated = 2016-10-09T20:24:55.145000+00:00
+wrote the data to text file
+Extracting data for the user : davemcclure
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:25:04.985000+00:00
+wrote the data to text file
+Extracting data for the user : jkraus
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:25:12.575000+00:00
+wrote the data to text file
+Extracting data for the user : apatzer
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:25:20.074000+00:00
+wrote the data to text file
+Extracting data for the user : robinklein
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:25:33.279000+00:00
+wrote the data to text file
+Extracting data for the user : vijayshekhar
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:25:41.280000+00:00
+wrote the data to text file
+Extracting data for the user : Justin_Mateen
+Retry 1: Status - Error. Last updated = 2016-10-09T20:25:49.957000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : DaveBalter
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:25:56.775000+00:00
+wrote the data to text file
+Extracting data for the user : kurnit
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:26:04.242000+00:00
+wrote the data to text file
+Extracting data for the user : ariel
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:26:11.480000+00:00
+wrote the data to text file
+Extracting data for the user : jamesjoaquin
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:26:19.083000+00:00
+wrote the data to text file
+Extracting data for the user : thomasryan
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:26:26.582000+00:00
+wrote the data to text file
+Extracting data for the user : brianp
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:26:34.138000+00:00
+wrote the data to text file
+Extracting data for the user : mattcoffin
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:26:41.713000+00:00
+wrote the data to text file
+Extracting data for the user : tazpatel
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:26:48.725000+00:00
+wrote the data to text file
+Extracting data for the user : barneyp
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:26:56.293000+00:00
+wrote the data to text file
+Extracting data for the user : A225
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:27:03.797000+00:00
+wrote the data to text file
+Extracting data for the user : angusdav
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:27:11.808000+00:00
+wrote the data to text file
+Extracting data for the user : rabois
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:27:18.916000+00:00
+wrote the data to text file
+Extracting data for the user : m2jr
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:27:26.392000+00:00
+wrote the data to text file
+Extracting data for the user : alexisohanian
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:27:35.155000+00:00
+wrote the data to text file
+Extracting data for the user : davegilboa
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:27:42.501000+00:00
+wrote the data to text file
+Extracting data for the user : davetisch
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:27:50.252000+00:00
+wrote the data to text file
+Extracting data for the user : carlbyers
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:27:57.458000+00:00
+wrote the data to text file
+Extracting data for the user : dcancel
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:28:05.205000+00:00
+wrote the data to text file
+Extracting data for the user : hajak
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:28:12.381000+00:00
+wrote the data to text file
+Extracting data for the user : tylerwillis
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:28:20.144000+00:00
+wrote the data to text file
+Extracting data for the user : cape
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:28:27.332000+00:00
+wrote the data to text file
+Extracting data for the user : jevon
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:28:34.740000+00:00
+wrote the data to text file
+Extracting data for the user : photomatt
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:28:42.244000+00:00
+wrote the data to text file
+Extracting data for the user : economysizegeek
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:28:50.154000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:28:50.312000+00:00
+wrote the data to text file
+Extracting data for the user : marallo
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:29:02.528000+00:00
+wrote the data to text file
+Extracting data for the user : rogerdickey
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:29:10.285000+00:00
+wrote the data to text file
+Extracting data for the user : kennyvz
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:29:17.291000+00:00
+wrote the data to text file
+Extracting data for the user : dropalltables
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:29:24.423000+00:00
+wrote the data to text file
+Extracting data for the user : joshspear
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:29:31.962000+00:00
+wrote the data to text file
+Extracting data for the user : cyantist
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:29:39.337000+00:00
+wrote the data to text file
+Extracting data for the user : zachweinberg
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:29:46.623000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel', 'bobbyyazdani', 'erikhmoore', 'eab0828', 'hpvigil', 'datarama', 'yammeradam', 'kevincdonahue', 'danrosensweig', 'Justin_Mateen']
+Batch number 5 finished
+['blakemycoskie', 'nas', 'er.com/josephnsanberg', 'davegoldberg', 'nealrap', 'paulsethi', 'gilelbaz', 'JohnMaloney', 'samyagan', 'aarrieta', 'jayadelson', 'jose_marin81', 'tonsing', 'gpjudge', 'mkapor', 'RonSuber', 'davemorgannyc', 'RonConway', 'JamesCurrier', 'deepnishar', 'stevechen', 'alexbard', 'sacca', 'dbrianphelps', 'ullastweets', 'steveobd', 'davidkarp', 'ryanallis', 'urgentspeed', 'KevinHenrikson', 'barrysilbert', 'flaregames', 'ceounplugged', 'semil', 'Levie', 'bchesky', 'pejmannozad', 'dens', 'kirill', 'BrendanFWallace', 'mwalrath', 'paulg', 'noahgoodhart09', 'larrymarcus', 'akarelin', 'davidcowan', 'natsturner', 'wirehog', 'mikasalmi', 'usiegj00', 'KenLerer']
+Extracting data for the user : blakemycoskie
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:29:53.892000+00:00
+wrote the data to text file
+Extracting data for the user : nas
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:30:00.869000+00:00
+wrote the data to text file
+Extracting data for the user : er.com/josephnsanberg
+Retry 1: Status - Error. Last updated = 2016-10-09T20:30:08.204000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : davegoldberg
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:30:15.594000+00:00
+wrote the data to text file
+Extracting data for the user : nealrap
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:30:22.869000+00:00
+wrote the data to text file
+Extracting data for the user : paulsethi
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:30:30.121000+00:00
+wrote the data to text file
+Extracting data for the user : gilelbaz
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:30:37.523000+00:00
+wrote the data to text file
+Extracting data for the user : JohnMaloney
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:30:44.422000+00:00
+wrote the data to text file
+Extracting data for the user : samyagan
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:30:51.758000+00:00
+wrote the data to text file
+Extracting data for the user : aarrieta
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:30:59.172000+00:00
+wrote the data to text file
+Extracting data for the user : jayadelson
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:31:06.680000+00:00
+wrote the data to text file
+Extracting data for the user : jose_marin81
+Retry 1: Status - Error. Last updated = 2016-10-09T20:31:14.252000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : tonsing
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:31:21.372000+00:00
+wrote the data to text file
+Extracting data for the user : gpjudge
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:31:28.373000+00:00
+wrote the data to text file
+Extracting data for the user : mkapor
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:31:36.434000+00:00
+wrote the data to text file
+Extracting data for the user : RonSuber
+Retry 1: Status - Error. Last updated = 2016-10-09T20:31:44.287000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : davemorgannyc
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:31:56.581000+00:00
+wrote the data to text file
+Extracting data for the user : RonConway
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:32:03.897000+00:00
+wrote the data to text file
+Extracting data for the user : JamesCurrier
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:32:11.878000+00:00
+wrote the data to text file
+Extracting data for the user : deepnishar
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:32:19.517000+00:00
+wrote the data to text file
+Extracting data for the user : stevechen
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:32:26.893000+00:00
+wrote the data to text file
+Extracting data for the user : alexbard
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:32:33.830000+00:00
+wrote the data to text file
+Extracting data for the user : sacca
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:32:41.486000+00:00
+wrote the data to text file
+Extracting data for the user : dbrianphelps
+Retry 1: Status - Error. Last updated = 2016-10-09T20:32:48.355000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : ullastweets
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:32:55.624000+00:00
+wrote the data to text file
+Extracting data for the user : steveobd
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:33:02.993000+00:00
+wrote the data to text file
+Extracting data for the user : davidkarp
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:33:10.556000+00:00
+wrote the data to text file
+Extracting data for the user : ryanallis
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:33:18.487000+00:00
+wrote the data to text file
+Extracting data for the user : urgentspeed
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:33:26.037000+00:00
+wrote the data to text file
+Extracting data for the user : KevinHenrikson
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:33:38.365000+00:00
+wrote the data to text file
+Extracting data for the user : barrysilbert
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:33:46.094000+00:00
+wrote the data to text file
+Extracting data for the user : flaregames
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:33:53.313000+00:00
+wrote the data to text file
+Extracting data for the user : ceounplugged
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:34:00.621000+00:00
+wrote the data to text file
+Extracting data for the user : semil
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:34:08.090000+00:00
+wrote the data to text file
+Extracting data for the user : Levie
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:34:15.450000+00:00
+wrote the data to text file
+Extracting data for the user : bchesky
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:34:22.439000+00:00
+wrote the data to text file
+Extracting data for the user : pejmannozad
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:34:29.684000+00:00
+wrote the data to text file
+Extracting data for the user : dens
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:34:36.944000+00:00
+wrote the data to text file
+Extracting data for the user : kirill
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:34:44.612000+00:00
+wrote the data to text file
+Extracting data for the user : BrendanFWallace
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:34:51.961000+00:00
+wrote the data to text file
+Extracting data for the user : mwalrath
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:34:59.744000+00:00
+wrote the data to text file
+Extracting data for the user : paulg
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:35:06.992000+00:00
+wrote the data to text file
+Extracting data for the user : noahgoodhart09
+Retry 1: Status - Error. Last updated = 2016-10-09T20:35:14.483000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : larrymarcus
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:35:21.799000+00:00
+wrote the data to text file
+Extracting data for the user : akarelin
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:35:29.115000+00:00
+wrote the data to text file
+Extracting data for the user : davidcowan
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:35:36.495000+00:00
+Retry 2: Status - Processing. Last updated = 2016-10-09T20:35:41.639000+00:00
+Retry 3: Status - Processing. Last updated = 2016-10-09T20:35:46.844000+00:00
+Retry 4: Status - Processing. Last updated = 2016-10-09T20:35:51.922000+00:00
+Retry 5: Status - Processing. Last updated = 2016-10-09T20:35:57.015000+00:00
+Retry 6: Status - Processing. Last updated = 2016-10-09T20:36:02.159000+00:00
+Retry 7: Status - Processing. Last updated = 2016-10-09T20:36:07.369000+00:00
+Retry 8: Status - Processing. Last updated = 2016-10-09T20:36:17.730000+00:00
+Retry 9: Status - Processing. Last updated = 2016-10-09T20:36:23.062000+00:00
+Retry 10: Status - Processing. Last updated = 2016-10-09T20:36:28.179000+00:00
+Retry 11: Status - Processing. Last updated = 2016-10-09T20:36:33.303000+00:00
+Retry 12: Status - Processing. Last updated = 2016-10-09T20:36:38.552000+00:00
+Retry 13: Status - Processing. Last updated = 2016-10-09T20:36:43.735000+00:00
+Retry 14: Status - Processing. Last updated = 2016-10-09T20:36:49.085000+00:00
+Retry 15: Status - Processing. Last updated = 2016-10-09T20:36:54.349000+00:00
+Retry 16: Status - Processing. Last updated = 2016-10-09T20:37:04.576000+00:00
+Retry 17: Status - Processing. Last updated = 2016-10-09T20:37:09.767000+00:00
+Retry 18: Status - Processing. Last updated = 2016-10-09T20:37:15.109000+00:00
+Retry 19: Status - Processing. Last updated = 2016-10-09T20:37:20.381000+00:00
+Retry 20: Status - Processing. Last updated = 2016-10-09T20:37:25.531000+00:00
+Retry 21: Status - Processing. Last updated = 2016-10-09T20:37:30.640000+00:00
+Retry 22: Status - Processing. Last updated = 2016-10-09T20:37:35.801000+00:00
+Retry 23: Status - Processing. Last updated = 2016-10-09T20:37:41.132000+00:00
+Retry 24: Status - Processing. Last updated = 2016-10-09T20:37:51.694000+00:00
+Retry 25: Status - Processing. Last updated = 2016-10-09T20:37:56.773000+00:00
+Retry 26: Status - Processing. Last updated = 2016-10-09T20:38:01.836000+00:00
+Retry 27: Status - Processing. Last updated = 2016-10-09T20:38:06.921000+00:00
+Retry 28: Status - Processing. Last updated = 2016-10-09T20:38:12.049000+00:00
+Retry 29: Status - Processing. Last updated = 2016-10-09T20:38:17.163000+00:00
+Retry 30: Status - Processing. Last updated = 2016-10-09T20:38:22.384000+00:00
+Retry 31: Status - Processing. Last updated = 2016-10-09T20:38:27.466000+00:00
+Retry 32: Status - Processing. Last updated = 2016-10-09T20:38:37.893000+00:00
+Retry 33: Status - Processing. Last updated = 2016-10-09T20:38:43.043000+00:00
+Retry 34: Status - Processing. Last updated = 2016-10-09T20:38:48.126000+00:00
+Retry 35: Status - Processing. Last updated = 2016-10-09T20:38:53.211000+00:00
+Retry 36: Status - Processing. Last updated = 2016-10-09T20:38:58.266000+00:00
+Retry 37: Status - Processing. Last updated = 2016-10-09T20:39:03.407000+00:00
+Retry 38: Status - Processing. Last updated = 2016-10-09T20:39:08.687000+00:00
+Retry 39: Status - Processing. Last updated = 2016-10-09T20:39:13.941000+00:00
+Retry 40: Status - Processing. Last updated = 2016-10-09T20:39:24.409000+00:00
+Retry 41: Status - Processing. Last updated = 2016-10-09T20:39:29.559000+00:00
+Retry 42: Status - Processing. Last updated = 2016-10-09T20:39:34.712000+00:00
+Retry 43: Status - Processing. Last updated = 2016-10-09T20:39:39.964000+00:00
+Retry 44: Status - Processing. Last updated = 2016-10-09T20:39:45.239000+00:00
+Retry 45: Status - Processing. Last updated = 2016-10-09T20:39:50.372000+00:00
+Retry 46: Status - Finished. Last updated = 2016-10-09T20:39:55.783000+00:00
+wrote the data to text file
+Extracting data for the user : natsturner
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:40:06.801000+00:00
+wrote the data to text file
+Extracting data for the user : wirehog
+Retry 1: Status - Error. Last updated = 2016-10-09T20:40:13.807000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : mikasalmi
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:40:21.444000+00:00
+wrote the data to text file
+Extracting data for the user : usiegj00
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:40:28.925000+00:00
+wrote the data to text file
+Extracting data for the user : KenLerer
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:40:36.090000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel', 'bobbyyazdani', 'erikhmoore', 'eab0828', 'hpvigil', 'datarama', 'yammeradam', 'kevincdonahue', 'danrosensweig', 'Justin_Mateen', 'er.com/josephnsanberg', 'jose_marin81', 'RonSuber', 'dbrianphelps', 'noahgoodhart09', 'wirehog']
+Batch number 6 finished
+['johndoerr', 'larshinrichs', 'hunterwalk', 'stevejang', 'wences', 'TheSharkDaymond', 'mwseibel', 'dbeyer123', 'TonyRobbins', 'TinaSharkey', 'alanwarms', 'ValoreBobby', 'iggyfanlo', 'armandobiondi', 'jonteo', 'joshmedia', 'alisonrosenthal', 'PaulSagan1', 'michaelovitz', 'aa', 'kipmcc', 'bentsmithfour', 'scottbecker', 'marekolszewski', 'Percival', 'BogieBalkansky', 'SnoopDogg', 'stiglitz', 'kenleonard0', 'gfcampbell', 'brianhand', 'nivi', 'jesperbuch', 'ventilla', 'gweston', 'rosslevinsohn', 'vikasgupta', 'zawthet', 'judegomila', 'erif', 'dh', 'abresler', 'dafrankel', 'foundersatwork', 'chijs', 'jwcunningham', 'konikaze', 'inakib', 'GregBuzzFeed', 'alanb42', 'steven_cox']
+Extracting data for the user : johndoerr
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:40:43.190000+00:00
+wrote the data to text file
+Extracting data for the user : larshinrichs
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:40:50.485000+00:00
+wrote the data to text file
+Extracting data for the user : hunterwalk
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:40:58.245000+00:00
+wrote the data to text file
+Extracting data for the user : stevejang
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:41:05.244000+00:00
+wrote the data to text file
+Extracting data for the user : wences
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:41:12.200000+00:00
+wrote the data to text file
+Extracting data for the user : TheSharkDaymond
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:41:20.234000+00:00
+wrote the data to text file
+Extracting data for the user : mwseibel
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:41:27.164000+00:00
+wrote the data to text file
+Extracting data for the user : dbeyer123
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:41:34.736000+00:00
+wrote the data to text file
+Extracting data for the user : TonyRobbins
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:41:42.279000+00:00
+wrote the data to text file
+Extracting data for the user : TinaSharkey
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:41:49.788000+00:00
+wrote the data to text file
+Extracting data for the user : alanwarms
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:41:56.884000+00:00
+wrote the data to text file
+Extracting data for the user : ValoreBobby
+Retry 1: Status - Error. Last updated = 2016-10-09T20:42:04.134000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : iggyfanlo
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:42:11.783000+00:00
+wrote the data to text file
+Extracting data for the user : armandobiondi
+Retry 1: Status - Error. Last updated = 2016-10-09T20:42:18.860000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : jonteo
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:42:26.642000+00:00
+wrote the data to text file
+Extracting data for the user : joshmedia
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:42:33.551000+00:00
+wrote the data to text file
+Extracting data for the user : alisonrosenthal
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:42:40.995000+00:00
+wrote the data to text file
+Extracting data for the user : PaulSagan1
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:42:48.288000+00:00
+wrote the data to text file
+Extracting data for the user : michaelovitz
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:42:55.331000+00:00
+wrote the data to text file
+Extracting data for the user : aa
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:43:02.637000+00:00
+wrote the data to text file
+Extracting data for the user : kipmcc
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:43:10.338000+00:00
+wrote the data to text file
+Extracting data for the user : bentsmithfour
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:43:17.385000+00:00
+wrote the data to text file
+Extracting data for the user : scottbecker
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:43:25.033000+00:00
+wrote the data to text file
+Extracting data for the user : marekolszewski
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:43:32.362000+00:00
+wrote the data to text file
+Extracting data for the user : Percival
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:43:39.648000+00:00
+wrote the data to text file
+Extracting data for the user : BogieBalkansky
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:43:46.940000+00:00
+wrote the data to text file
+Extracting data for the user : SnoopDogg
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:43:54.414000+00:00
+wrote the data to text file
+Extracting data for the user : stiglitz
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:44:01.778000+00:00
+wrote the data to text file
+Extracting data for the user : kenleonard0
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:44:08.826000+00:00
+wrote the data to text file
+Extracting data for the user : gfcampbell
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:44:16.086000+00:00
+wrote the data to text file
+Extracting data for the user : brianhand
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:44:23.652000+00:00
+wrote the data to text file
+Extracting data for the user : nivi
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:44:30.539000+00:00
+wrote the data to text file
+Extracting data for the user : jesperbuch
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:44:37.653000+00:00
+wrote the data to text file
+Extracting data for the user : ventilla
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:44:45.249000+00:00
+wrote the data to text file
+Extracting data for the user : gweston
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:44:52.377000+00:00
+wrote the data to text file
+Extracting data for the user : rosslevinsohn
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:45:00.260000+00:00
+wrote the data to text file
+Extracting data for the user : vikasgupta
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:45:07.222000+00:00
+wrote the data to text file
+Extracting data for the user : zawthet
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:45:14.520000+00:00
+wrote the data to text file
+Extracting data for the user : judegomila
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:45:21.805000+00:00
+wrote the data to text file
+Extracting data for the user : erif
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:45:29.151000+00:00
+wrote the data to text file
+Extracting data for the user : dh
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:45:36.733000+00:00
+wrote the data to text file
+Extracting data for the user : abresler
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:45:43.601000+00:00
+wrote the data to text file
+Extracting data for the user : dafrankel
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:45:51.747000+00:00
+wrote the data to text file
+Extracting data for the user : foundersatwork
+Retry 1: Status - Error. Last updated = 2016-10-09T20:45:58.507000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : chijs
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:46:06.581000+00:00
+wrote the data to text file
+Extracting data for the user : jwcunningham
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:46:13.733000+00:00
+wrote the data to text file
+Extracting data for the user : konikaze
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:46:20.992000+00:00
+wrote the data to text file
+Extracting data for the user : inakib
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:46:28.617000+00:00
+wrote the data to text file
+Extracting data for the user : GregBuzzFeed
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:46:35.489000+00:00
+wrote the data to text file
+Extracting data for the user : alanb42
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:46:43.158000+00:00
+wrote the data to text file
+Extracting data for the user : steven_cox
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:46:50.201000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel', 'bobbyyazdani', 'erikhmoore', 'eab0828', 'hpvigil', 'datarama', 'yammeradam', 'kevincdonahue', 'danrosensweig', 'Justin_Mateen', 'er.com/josephnsanberg', 'jose_marin81', 'RonSuber', 'dbrianphelps', 'noahgoodhart09', 'wirehog', 'ValoreBobby', 'armandobiondi', 'foundersatwork']
+Batch number 7 finished
+['YangTerrence', 'NewWayPaddy', 'dannyrimer', 'marlette', 'radarkc', 'Rasiej', 'chloes', 'JoshAbramowitz', 'mcarges', 'ross__perot', 'arampell', 'jimydotorg', 'gomattymo', 'yougo', 'anshublog', 'jschox', 'WilliamsonMark', 'Louis_Monier', 'adharni', 'dscheinm', 'tfadp', 'cshapiro', 'brettc', 'JimMoloshok', 'yegg', 'startupman', 'godardabel', 'wbunker', 'waltdoyle', 'brockpierce', 'mazaic', 'erroldamelin', 'Bobaspinner', 'alexkrug', 'dsamuel', 'impunity', 'Burchcreative', 'enekoknorr', 'berdakin', 'amitgupta007', 'Fin101', 'bazaarbrett', 'seikatsu', 'mattcohler', 'ethanbeard', 'briansugar', 'binhtran', 'ansanelli', 'ryan_scott', 'explore360', 'davepell']
+Extracting data for the user : YangTerrence
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:46:57.477000+00:00
+wrote the data to text file
+Extracting data for the user : NewWayPaddy
+Retry 1: Status - Error. Last updated = 2016-10-09T20:47:05.115000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : dannyrimer
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:47:12.674000+00:00
+wrote the data to text file
+Extracting data for the user : marlette
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:47:19.808000+00:00
+wrote the data to text file
+Extracting data for the user : radarkc
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:47:26.940000+00:00
+wrote the data to text file
+Extracting data for the user : Rasiej
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:47:34.683000+00:00
+wrote the data to text file
+Extracting data for the user : chloes
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:47:41.931000+00:00
+wrote the data to text file
+Extracting data for the user : JoshAbramowitz
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:47:49.280000+00:00
+wrote the data to text file
+Extracting data for the user : mcarges
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:47:56.718000+00:00
+wrote the data to text file
+Extracting data for the user : ross__perot
+Retry 1: Status - Error. Last updated = 2016-10-09T20:48:04.571000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : arampell
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:48:11.811000+00:00
+wrote the data to text file
+Extracting data for the user : jimydotorg
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:48:19.317000+00:00
+wrote the data to text file
+Extracting data for the user : gomattymo
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:48:26.710000+00:00
+wrote the data to text file
+Extracting data for the user : yougo
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:48:33.830000+00:00
+wrote the data to text file
+Extracting data for the user : anshublog
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:48:41.081000+00:00
+wrote the data to text file
+Extracting data for the user : jschox
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:48:48.148000+00:00
+wrote the data to text file
+Extracting data for the user : WilliamsonMark
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:49:00.526000+00:00
+wrote the data to text file
+Extracting data for the user : Louis_Monier
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:49:08.254000+00:00
+wrote the data to text file
+Extracting data for the user : adharni
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:49:15.363000+00:00
+wrote the data to text file
+Extracting data for the user : dscheinm
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:49:22.439000+00:00
+wrote the data to text file
+Extracting data for the user : tfadp
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:49:29.960000+00:00
+wrote the data to text file
+Extracting data for the user : cshapiro
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:49:37.384000+00:00
+wrote the data to text file
+Extracting data for the user : brettc
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:49:45.401000+00:00
+wrote the data to text file
+Extracting data for the user : JimMoloshok
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:49:52.145000+00:00
+wrote the data to text file
+Extracting data for the user : yegg
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:49:59.708000+00:00
+wrote the data to text file
+Extracting data for the user : startupman
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:50:07.058000+00:00
+wrote the data to text file
+Extracting data for the user : godardabel
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:50:08.932000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:50:14.893000+00:00
+wrote the data to text file
+Extracting data for the user : wbunker
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:50:27.457000+00:00
+wrote the data to text file
+Extracting data for the user : waltdoyle
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:50:34.951000+00:00
+wrote the data to text file
+Extracting data for the user : brockpierce
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:50:42.121000+00:00
+wrote the data to text file
+Extracting data for the user : mazaic
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:50:49.317000+00:00
+Retry 2: Status - Processing. Last updated = 2016-10-09T20:50:54.801000+00:00
+Retry 3: Status - Processing. Last updated = 2016-10-09T20:50:59.870000+00:00
+Retry 4: Status - Processing. Last updated = 2016-10-09T20:51:05.123000+00:00
+Retry 5: Status - Processing. Last updated = 2016-10-09T20:51:10.251000+00:00
+Retry 6: Status - Processing. Last updated = 2016-10-09T20:51:15.337000+00:00
+Retry 7: Status - Processing. Last updated = 2016-10-09T20:51:20.378000+00:00
+Retry 8: Status - Processing. Last updated = 2016-10-09T20:51:25.919000+00:00
+Retry 9: Status - Processing. Last updated = 2016-10-09T20:51:31.266000+00:00
+Retry 10: Status - Processing. Last updated = 2016-10-09T20:51:41.541000+00:00
+Retry 11: Status - Processing. Last updated = 2016-10-09T20:51:46.638000+00:00
+Retry 12: Status - Processing. Last updated = 2016-10-09T20:51:51.770000+00:00
+Retry 13: Status - Processing. Last updated = 2016-10-09T20:51:56.821000+00:00
+Retry 14: Status - Processing. Last updated = 2016-10-09T20:52:01.968000+00:00
+Retry 15: Status - Processing. Last updated = 2016-10-09T20:52:07.034000+00:00
+Retry 16: Status - Processing. Last updated = 2016-10-09T20:52:12.375000+00:00
+Retry 17: Status - Processing. Last updated = 2016-10-09T20:52:22.560000+00:00
+Retry 18: Status - Processing. Last updated = 2016-10-09T20:52:27.817000+00:00
+Retry 19: Status - Processing. Last updated = 2016-10-09T20:52:32.922000+00:00
+Retry 20: Status - Processing. Last updated = 2016-10-09T20:52:37.969000+00:00
+Retry 21: Status - Processing. Last updated = 2016-10-09T20:52:43.447000+00:00
+Retry 22: Status - Processing. Last updated = 2016-10-09T20:52:48.952000+00:00
+Retry 23: Status - Processing. Last updated = 2016-10-09T20:52:54.080000+00:00
+Retry 24: Status - Processing. Last updated = 2016-10-09T20:52:59.492000+00:00
+Retry 25: Status - Processing. Last updated = 2016-10-09T20:53:04.970000+00:00
+Retry 26: Status - Processing. Last updated = 2016-10-09T20:53:10.082000+00:00
+Retry 27: Status - Processing. Last updated = 2016-10-09T20:53:20.224000+00:00
+Retry 28: Status - Processing. Last updated = 2016-10-09T20:53:25.377000+00:00
+Retry 29: Status - Processing. Last updated = 2016-10-09T20:53:31.018000+00:00
+Retry 30: Status - Processing. Last updated = 2016-10-09T20:53:36.314000+00:00
+Retry 31: Status - Processing. Last updated = 2016-10-09T20:53:41.437000+00:00
+Retry 32: Status - Processing. Last updated = 2016-10-09T20:53:46.832000+00:00
+Retry 33: Status - Processing. Last updated = 2016-10-09T20:53:52.034000+00:00
+Retry 34: Status - Processing. Last updated = 2016-10-09T20:53:57.083000+00:00
+Retry 35: Status - Processing. Last updated = 2016-10-09T20:54:02.382000+00:00
+Retry 36: Status - Processing. Last updated = 2016-10-09T20:54:07.473000+00:00
+Retry 37: Status - Processing. Last updated = 2016-10-09T20:54:17.854000+00:00
+Retry 38: Status - Processing. Last updated = 2016-10-09T20:54:23.069000+00:00
+Retry 39: Status - Processing. Last updated = 2016-10-09T20:54:28.825000+00:00
+Retry 40: Status - Processing. Last updated = 2016-10-09T20:54:33.947000+00:00
+Retry 41: Status - Processing. Last updated = 2016-10-09T20:54:39.095000+00:00
+Retry 42: Status - Processing. Last updated = 2016-10-09T20:54:44.911000+00:00
+Retry 43: Status - Processing. Last updated = 2016-10-09T20:54:50.036000+00:00
+Retry 44: Status - Processing. Last updated = 2016-10-09T20:54:55.100000+00:00
+Retry 45: Status - Finished. Last updated = 2016-10-09T20:55:00.285000+00:00
+wrote the data to text file
+Extracting data for the user : erroldamelin
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:55:11.324000+00:00
+wrote the data to text file
+Extracting data for the user : Bobaspinner
+Retry 1: Status - Error. Last updated = 2016-10-09T20:55:18.288000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : alexkrug
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:55:25.493000+00:00
+wrote the data to text file
+Extracting data for the user : dsamuel
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:55:33.371000+00:00
+wrote the data to text file
+Extracting data for the user : impunity
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:55:41.196000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:55:41.431000+00:00
+wrote the data to text file
+Extracting data for the user : Burchcreative
+Retry 1: Status - Error. Last updated = 2016-10-09T20:55:53.655000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : enekoknorr
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:56:01.287000+00:00
+wrote the data to text file
+Extracting data for the user : berdakin
+Retry 1: Status - Error. Last updated = 2016-10-09T20:56:08.311000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : amitgupta007
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:56:15.757000+00:00
+wrote the data to text file
+Extracting data for the user : Fin101
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:56:22.934000+00:00
+wrote the data to text file
+Extracting data for the user : bazaarbrett
+Retry 1: Status - Error. Last updated = 2016-10-09T20:56:29.678000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : seikatsu
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:56:37.010000+00:00
+wrote the data to text file
+Extracting data for the user : mattcohler
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:56:44.978000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:56:45.043000+00:00
+wrote the data to text file
+Extracting data for the user : ethanbeard
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:56:57.482000+00:00
+wrote the data to text file
+Extracting data for the user : briansugar
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:56:59.377000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:57:05.175000+00:00
+wrote the data to text file
+Extracting data for the user : binhtran
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:57:17.452000+00:00
+wrote the data to text file
+Extracting data for the user : ansanelli
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:57:25.527000+00:00
+wrote the data to text file
+Extracting data for the user : ryan_scott
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:57:27.494000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:57:33.495000+00:00
+wrote the data to text file
+Extracting data for the user : explore360
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:57:46.632000+00:00
+wrote the data to text file
+Extracting data for the user : davepell
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:57:54.409000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel', 'bobbyyazdani', 'erikhmoore', 'eab0828', 'hpvigil', 'datarama', 'yammeradam', 'kevincdonahue', 'danrosensweig', 'Justin_Mateen', 'er.com/josephnsanberg', 'jose_marin81', 'RonSuber', 'dbrianphelps', 'noahgoodhart09', 'wirehog', 'ValoreBobby', 'armandobiondi', 'foundersatwork', 'NewWayPaddy', 'ross__perot', 'Bobaspinner', 'Burchcreative', 'berdakin', 'bazaarbrett']
+Batch number 8 finished
+['ktulrich', 'nrmehta', 'michaeldell', 'neerajarora', 'asenkut', 'joefernandez', 'acasalena', 'vishalgondal', 'kevin_scott', 'recanati', 'AbhishekGoyal', 'adamjacksonsf', 'impactatscale', 'sohailprasad', 'bedy', 'abatalion', 'royrubin05', 'jimpayne', 'kevinryan', 'rangerj', 'RachelZoe', 'GeorgeKellerman', 'davehoover', 'fred_montagnon', 'KlausLovgreen', 'kyork20', 'kasslazerow', 'rainrannu', 'mmarinucci', 'Bankoff', 'peterpham', 'johnmaeda', 'aberrey', 'neilpatel', 'TKKuegler', 'theamericanceo', 'frydave', 'munjalshah', 'RMooreAV', 'tedserbinski', 'robdeheus', 'michaelmyang', 'mariakeczczi', '_JeffMargolis', 'ramit', 'scotchisholm', 'samstella1', 'farhad667', 'ohadgliksman', 'bornryan', 'NickHanauer']
+Extracting data for the user : ktulrich
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:58:01.660000+00:00
+wrote the data to text file
+Extracting data for the user : nrmehta
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:58:08.894000+00:00
+wrote the data to text file
+Extracting data for the user : michaeldell
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:58:16.375000+00:00
+wrote the data to text file
+Extracting data for the user : neerajarora
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:58:23.459000+00:00
+wrote the data to text file
+Extracting data for the user : asenkut
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:58:30.937000+00:00
+wrote the data to text file
+Extracting data for the user : joefernandez
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:58:37.953000+00:00
+wrote the data to text file
+Extracting data for the user : acasalena
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:58:45.635000+00:00
+wrote the data to text file
+Extracting data for the user : vishalgondal
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:58:57.991000+00:00
+wrote the data to text file
+Extracting data for the user : kevin_scott
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:59:05.275000+00:00
+wrote the data to text file
+Extracting data for the user : recanati
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:59:12.340000+00:00
+wrote the data to text file
+Extracting data for the user : AbhishekGoyal
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:59:19.685000+00:00
+wrote the data to text file
+Extracting data for the user : adamjacksonsf
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:59:27.077000+00:00
+wrote the data to text file
+Extracting data for the user : impactatscale
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:59:34.380000+00:00
+wrote the data to text file
+Extracting data for the user : sohailprasad
+Retry 1: Status - Finished. Last updated = 2016-10-09T20:59:41.630000+00:00
+wrote the data to text file
+Extracting data for the user : bedy
+Retry 1: Status - Processing. Last updated = 2016-10-09T20:59:43.393000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T20:59:49.590000+00:00
+wrote the data to text file
+Extracting data for the user : abatalion
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:00:02.194000+00:00
+wrote the data to text file
+Extracting data for the user : royrubin05
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:00:09.666000+00:00
+wrote the data to text file
+Extracting data for the user : jimpayne
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:00:16.937000+00:00
+wrote the data to text file
+Extracting data for the user : kevinryan
+Retry 1: Status - Error. Last updated = 2016-10-09T21:00:23.905000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : rangerj
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:00:31.701000+00:00
+wrote the data to text file
+Extracting data for the user : RachelZoe
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:00:38.996000+00:00
+wrote the data to text file
+Extracting data for the user : GeorgeKellerman
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:00:46.054000+00:00
+wrote the data to text file
+Extracting data for the user : davehoover
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:00:53.728000+00:00
+wrote the data to text file
+Extracting data for the user : fred_montagnon
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:01:01.111000+00:00
+wrote the data to text file
+Extracting data for the user : KlausLovgreen
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:01:08.222000+00:00
+wrote the data to text file
+Extracting data for the user : kyork20
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:01:15.799000+00:00
+wrote the data to text file
+Extracting data for the user : kasslazerow
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:01:23.235000+00:00
+wrote the data to text file
+Extracting data for the user : rainrannu
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:01:30.252000+00:00
+wrote the data to text file
+Extracting data for the user : mmarinucci
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:01:37.737000+00:00
+wrote the data to text file
+Extracting data for the user : Bankoff
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:01:44.593000+00:00
+wrote the data to text file
+Extracting data for the user : peterpham
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:01:52.220000+00:00
+wrote the data to text file
+Extracting data for the user : johnmaeda
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:01:59.591000+00:00
+wrote the data to text file
+Extracting data for the user : aberrey
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:02:06.809000+00:00
+wrote the data to text file
+Extracting data for the user : neilpatel
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:02:14.129000+00:00
+wrote the data to text file
+Extracting data for the user : TKKuegler
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:02:21.816000+00:00
+wrote the data to text file
+Extracting data for the user : theamericanceo
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:02:28.936000+00:00
+wrote the data to text file
+Extracting data for the user : frydave
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:02:36.656000+00:00
+wrote the data to text file
+Extracting data for the user : munjalshah
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:02:43.917000+00:00
+wrote the data to text file
+Extracting data for the user : RMooreAV
+Retry 1: Status - Error. Last updated = 2016-10-09T21:02:51.641000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : tedserbinski
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:02:59.848000+00:00
+wrote the data to text file
+Extracting data for the user : robdeheus
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:03:06.985000+00:00
+wrote the data to text file
+Extracting data for the user : michaelmyang
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:03:19.899000+00:00
+wrote the data to text file
+Extracting data for the user : mariakeczczi
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:03:27.139000+00:00
+wrote the data to text file
+Extracting data for the user : _JeffMargolis
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:03:34.241000+00:00
+wrote the data to text file
+Extracting data for the user : ramit
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:03:47.067000+00:00
+wrote the data to text file
+Extracting data for the user : scotchisholm
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:03:53.573000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:03:59.559000+00:00
+wrote the data to text file
+Extracting data for the user : samstella1
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:04:07.791000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:04:13.713000+00:00
+wrote the data to text file
+Extracting data for the user : farhad667
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:04:27.210000+00:00
+wrote the data to text file
+Extracting data for the user : ohadgliksman
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:04:34.752000+00:00
+wrote the data to text file
+Extracting data for the user : bornryan
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:04:42.155000+00:00
+wrote the data to text file
+Extracting data for the user : NickHanauer
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:04:43.993000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:04:49.931000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel', 'bobbyyazdani', 'erikhmoore', 'eab0828', 'hpvigil', 'datarama', 'yammeradam', 'kevincdonahue', 'danrosensweig', 'Justin_Mateen', 'er.com/josephnsanberg', 'jose_marin81', 'RonSuber', 'dbrianphelps', 'noahgoodhart09', 'wirehog', 'ValoreBobby', 'armandobiondi', 'foundersatwork', 'NewWayPaddy', 'ross__perot', 'Bobaspinner', 'Burchcreative', 'berdakin', 'bazaarbrett', 'kevinryan', 'RMooreAV']
+Batch number 9 finished
+['RovertMoslof', 'jayweintraub', 'seregine', 'eisenberg', 'waseem', 'robsolomon1', '2pasc', 'jkhoey', 'sanford', 'davidchang', 'seanmo', 'tracemayer', 'awadallah', 'kylewidrick', 'scottfarkas', 'BenJLerer', 'benlin0000', 'rezahussein', 'stormzplatform', 'SukhinderSingh', 'KenAustinAvion', 'freemanindia', 'gaylordkellogg', 'eytanelbaz', 'jgsilverman', 'bobbickel', '3rdwavemedia', 'alexcharlie', 'amol', 'kevinchou', 'rsarver', 'tamccann', 'jeffarnold', 'dariani', 'n_khanna', 'lancekalish', 'ScottDorsey', 'yvesbehar', 'rameshharidas', 'mikecollett', 'BernieHernie', 'aaronbird', 'SunilPaul', 'aw', 'Michels', 'rehundt', 'jimwiatt', 'Tal_Yuval', 'suren_markosian', 'jtimberlake', 'joezawadzki']
+Extracting data for the user : RovertMoslof
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:05:01.930000+00:00
+wrote the data to text file
+Extracting data for the user : jayweintraub
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:05:08.792000+00:00
+wrote the data to text file
+Extracting data for the user : seregine
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:05:20.532000+00:00
+wrote the data to text file
+Extracting data for the user : eisenberg
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:05:28.056000+00:00
+wrote the data to text file
+Extracting data for the user : waseem
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:05:34.795000+00:00
+wrote the data to text file
+Extracting data for the user : robsolomon1
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:05:41.422000+00:00
+wrote the data to text file
+Extracting data for the user : 2pasc
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:05:48.411000+00:00
+wrote the data to text file
+Extracting data for the user : jkhoey
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:05:55.390000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:05:55.486000+00:00
+wrote the data to text file
+Extracting data for the user : sanford
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:06:08.111000+00:00
+wrote the data to text file
+Extracting data for the user : davidchang
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:06:15.595000+00:00
+wrote the data to text file
+Extracting data for the user : seanmo
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:06:22.820000+00:00
+wrote the data to text file
+Extracting data for the user : tracemayer
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:06:30.030000+00:00
+wrote the data to text file
+Extracting data for the user : awadallah
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:06:36.796000+00:00
+wrote the data to text file
+Extracting data for the user : kylewidrick
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:06:43.829000+00:00
+Retry 2: Status - Processing. Last updated = 2016-10-09T21:06:48.947000+00:00
+Retry 3: Status - Processing. Last updated = 2016-10-09T21:06:53.988000+00:00
+Retry 4: Status - Processing. Last updated = 2016-10-09T21:06:59.118000+00:00
+Retry 5: Status - Processing. Last updated = 2016-10-09T21:07:04.444000+00:00
+Retry 6: Status - Processing. Last updated = 2016-10-09T21:07:10.022000+00:00
+Retry 7: Status - Processing. Last updated = 2016-10-09T21:07:15.116000+00:00
+Retry 8: Status - Processing. Last updated = 2016-10-09T21:07:20.249000+00:00
+Retry 9: Status - Processing. Last updated = 2016-10-09T21:07:25.396000+00:00
+Retry 10: Status - Processing. Last updated = 2016-10-09T21:07:30.761000+00:00
+Retry 11: Status - Processing. Last updated = 2016-10-09T21:07:41.266000+00:00
+Retry 12: Status - Processing. Last updated = 2016-10-09T21:07:46.349000+00:00
+Retry 13: Status - Processing. Last updated = 2016-10-09T21:07:51.452000+00:00
+Retry 14: Status - Processing. Last updated = 2016-10-09T21:07:56.594000+00:00
+Retry 15: Status - Processing. Last updated = 2016-10-09T21:08:01.652000+00:00
+Retry 16: Status - Processing. Last updated = 2016-10-09T21:08:06.786000+00:00
+Retry 17: Status - Processing. Last updated = 2016-10-09T21:08:11.815000+00:00
+Retry 18: Status - Processing. Last updated = 2016-10-09T21:08:16.845000+00:00
+Retry 19: Status - Processing. Last updated = 2016-10-09T21:08:22.034000+00:00
+Retry 20: Status - Processing. Last updated = 2016-10-09T21:08:32.473000+00:00
+Retry 21: Status - Processing. Last updated = 2016-10-09T21:08:37.724000+00:00
+Retry 22: Status - Processing. Last updated = 2016-10-09T21:08:42.823000+00:00
+Retry 23: Status - Processing. Last updated = 2016-10-09T21:08:47.984000+00:00
+Retry 24: Status - Processing. Last updated = 2016-10-09T21:08:53.992000+00:00
+Retry 25: Status - Processing. Last updated = 2016-10-09T21:08:59.122000+00:00
+Retry 26: Status - Processing. Last updated = 2016-10-09T21:09:04.160000+00:00
+Retry 27: Status - Processing. Last updated = 2016-10-09T21:09:10.090000+00:00
+Retry 28: Status - Processing. Last updated = 2016-10-09T21:09:15.211000+00:00
+Retry 29: Status - Processing. Last updated = 2016-10-09T21:09:20.380000+00:00
+Retry 30: Status - Processing. Last updated = 2016-10-09T21:09:31.313000+00:00
+Retry 31: Status - Processing. Last updated = 2016-10-09T21:09:36.448000+00:00
+Retry 32: Status - Processing. Last updated = 2016-10-09T21:09:41.642000+00:00
+Retry 33: Status - Processing. Last updated = 2016-10-09T21:09:46.833000+00:00
+Retry 34: Status - Processing. Last updated = 2016-10-09T21:09:52.026000+00:00
+Retry 35: Status - Processing. Last updated = 2016-10-09T21:09:57.374000+00:00
+Retry 36: Status - Processing. Last updated = 2016-10-09T21:10:02.483000+00:00
+Retry 37: Status - Finished. Last updated = 2016-10-09T21:10:07.729000+00:00
+wrote the data to text file
+Extracting data for the user : scottfarkas
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:10:18.629000+00:00
+wrote the data to text file
+Extracting data for the user : BenJLerer
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:10:26.113000+00:00
+wrote the data to text file
+Extracting data for the user : benlin0000
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:10:33.952000+00:00
+wrote the data to text file
+Extracting data for the user : rezahussein
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:10:41.056000+00:00
+wrote the data to text file
+Extracting data for the user : stormzplatform
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:10:48.397000+00:00
+wrote the data to text file
+Extracting data for the user : SukhinderSingh
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:10:56.056000+00:00
+wrote the data to text file
+Extracting data for the user : KenAustinAvion
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:10:58.163000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:11:04.102000+00:00
+wrote the data to text file
+Extracting data for the user : freemanindia
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:11:16.667000+00:00
+wrote the data to text file
+Extracting data for the user : gaylordkellogg
+Retry 1: Status - Error. Last updated = 2016-10-09T21:11:24.177000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : eytanelbaz
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:11:31.379000+00:00
+wrote the data to text file
+Extracting data for the user : jgsilverman
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:11:39.107000+00:00
+wrote the data to text file
+Extracting data for the user : bobbickel
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:11:46.494000+00:00
+wrote the data to text file
+Extracting data for the user : 3rdwavemedia
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:11:53.558000+00:00
+wrote the data to text file
+Extracting data for the user : alexcharlie
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:12:00.477000+00:00
+wrote the data to text file
+Extracting data for the user : amol
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:12:08.473000+00:00
+wrote the data to text file
+Extracting data for the user : kevinchou
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:12:15.505000+00:00
+wrote the data to text file
+Extracting data for the user : rsarver
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:12:22.857000+00:00
+wrote the data to text file
+Extracting data for the user : tamccann
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:12:30.596000+00:00
+wrote the data to text file
+Extracting data for the user : jeffarnold
+Retry 1: Status - Error. Last updated = 2016-10-09T21:12:37.374000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : dariani
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:12:44.758000+00:00
+wrote the data to text file
+Extracting data for the user : n_khanna
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:12:51.973000+00:00
+wrote the data to text file
+Extracting data for the user : lancekalish
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:12:59.190000+00:00
+wrote the data to text file
+Extracting data for the user : ScottDorsey
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:13:06.250000+00:00
+wrote the data to text file
+Extracting data for the user : yvesbehar
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:13:14.192000+00:00
+wrote the data to text file
+Extracting data for the user : rameshharidas
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:13:22.190000+00:00
+wrote the data to text file
+Extracting data for the user : mikecollett
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:13:24.359000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:13:30.322000+00:00
+wrote the data to text file
+Extracting data for the user : BernieHernie
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:13:42.470000+00:00
+wrote the data to text file
+Extracting data for the user : aaronbird
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:13:50.317000+00:00
+wrote the data to text file
+Extracting data for the user : SunilPaul
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:13:57.662000+00:00
+wrote the data to text file
+Extracting data for the user : aw
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:14:05.241000+00:00
+wrote the data to text file
+Extracting data for the user : Michels
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:14:12.944000+00:00
+wrote the data to text file
+Extracting data for the user : rehundt
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:14:20.602000+00:00
+wrote the data to text file
+Extracting data for the user : jimwiatt
+Retry 1: Status - Error. Last updated = 2016-10-09T21:14:27.810000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : Tal_Yuval
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:14:35.516000+00:00
+wrote the data to text file
+Extracting data for the user : suren_markosian
+Retry 1: Status - Error. Last updated = 2016-10-09T21:14:43.892000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : jtimberlake
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:14:51.838000+00:00
+wrote the data to text file
+Extracting data for the user : joezawadzki
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:14:58.831000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel', 'bobbyyazdani', 'erikhmoore', 'eab0828', 'hpvigil', 'datarama', 'yammeradam', 'kevincdonahue', 'danrosensweig', 'Justin_Mateen', 'er.com/josephnsanberg', 'jose_marin81', 'RonSuber', 'dbrianphelps', 'noahgoodhart09', 'wirehog', 'ValoreBobby', 'armandobiondi', 'foundersatwork', 'NewWayPaddy', 'ross__perot', 'Bobaspinner', 'Burchcreative', 'berdakin', 'bazaarbrett', 'kevinryan', 'RMooreAV', 'gaylordkellogg', 'jeffarnold', 'jimwiatt', 'suren_markosian']
+Batch number 10 finished
+['Michael_Eisner', 'algore', 'EghosaO', 'MatthewCJames', 'pierre', 'dotsteve', 'LarsLuv', 'bdistel', 'tconrad', 'jeberlin', 'upwardmobility', 'jermyap', 'bemcclendon', 'davidsze', 'si_plant', 'StevoLoughlin', 'laurenepowell', 'jr105', 'tobi', 'm_abraham', 'zachklein', 'ZelkovaVC', 'kevinfortuna', 'nicolaiwadstrom', '_tom_c_', 'habibh', 'lunk18', 'jencarolan', 'stevenjr76', 'deekay', 'nextcaller', 'timy0ung', 'stahura', 'jensbch', 'thereelist', 'waikit', 'robnail', 'rsamvit', 'andrewbusey', 'com/BarbaraCorcoran', 'zakholdsworth', 'randizuckerberg', 'joshelman', 'bmatthews840', 'nerdwallet', 'MarchCps', 't_4', 'KnappOnTech', 'mknwebsolutions', 'lefkofsky', 'devdutt']
+Extracting data for the user : Michael_Eisner
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:15:06.237000+00:00
+wrote the data to text file
+Extracting data for the user : algore
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:15:14.178000+00:00
+wrote the data to text file
+Extracting data for the user : EghosaO
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:15:21.343000+00:00
+wrote the data to text file
+Extracting data for the user : MatthewCJames
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:15:28.640000+00:00
+wrote the data to text file
+Extracting data for the user : pierre
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:15:36.632000+00:00
+wrote the data to text file
+Extracting data for the user : dotsteve
+Retry 1: Status - Error. Last updated = 2016-10-09T21:15:44.280000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : LarsLuv
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:15:51.545000+00:00
+wrote the data to text file
+Extracting data for the user : bdistel
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:15:59.351000+00:00
+wrote the data to text file
+Extracting data for the user : tconrad
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:16:06.575000+00:00
+wrote the data to text file
+Extracting data for the user : jeberlin
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:16:08.621000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:16:14.683000+00:00
+wrote the data to text file
+Extracting data for the user : upwardmobility
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:16:27.183000+00:00
+wrote the data to text file
+Extracting data for the user : jermyap
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:16:34.579000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:16:34.698000+00:00
+wrote the data to text file
+Extracting data for the user : bemcclendon
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:16:47.172000+00:00
+wrote the data to text file
+Extracting data for the user : davidsze
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:16:54.701000+00:00
+wrote the data to text file
+Extracting data for the user : si_plant
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:17:02.643000+00:00
+wrote the data to text file
+Extracting data for the user : StevoLoughlin
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:17:10.019000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:17:10.147000+00:00
+wrote the data to text file
+Extracting data for the user : laurenepowell
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:17:22.741000+00:00
+wrote the data to text file
+Extracting data for the user : jr105
+Retry 1: Status - Error. Last updated = 2016-10-09T21:17:30.136000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : tobi
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:17:37.355000+00:00
+wrote the data to text file
+Extracting data for the user : m_abraham
+Retry 1: Status - Error. Last updated = 2016-10-09T21:17:44.618000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : zachklein
+
+
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:17:52.234000+00:00
+wrote the data to text file
+Extracting data for the user : ZelkovaVC
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:17:59.405000+00:00
+wrote the data to text file
+Extracting data for the user : kevinfortuna
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:18:06.877000+00:00
+wrote the data to text file
+Extracting data for the user : nicolaiwadstrom
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:18:14.547000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:18:14.706000+00:00
+wrote the data to text file
+Extracting data for the user : _tom_c_
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:18:27.178000+00:00
+wrote the data to text file
+Extracting data for the user : habibh
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:18:34.804000+00:00
+wrote the data to text file
+Extracting data for the user : lunk18
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:18:42.161000+00:00
+wrote the data to text file
+Extracting data for the user : jencarolan
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:18:50.002000+00:00
+wrote the data to text file
+Extracting data for the user : stevenjr76
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:18:56.787000+00:00
+wrote the data to text file
+Extracting data for the user : deekay
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:19:04.047000+00:00
+wrote the data to text file
+Extracting data for the user : nextcaller
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:19:11.809000+00:00
+wrote the data to text file
+Extracting data for the user : timy0ung
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:19:19.148000+00:00
+wrote the data to text file
+Extracting data for the user : stahura
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:19:27.505000+00:00
+wrote the data to text file
+Extracting data for the user : jensbch
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:19:34.864000+00:00
+wrote the data to text file
+Extracting data for the user : thereelist
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:19:42.171000+00:00
+wrote the data to text file
+Extracting data for the user : waikit
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:19:49.683000+00:00
+wrote the data to text file
+Extracting data for the user : robnail
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:19:56.962000+00:00
+wrote the data to text file
+Extracting data for the user : rsamvit
+Retry 1: Status - Error. Last updated = 2016-10-09T21:20:04.295000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : andrewbusey
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:20:16.678000+00:00
+wrote the data to text file
+Extracting data for the user : com/BarbaraCorcoran
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:20:18.656000+00:00
+Retry 2: Status - Error. Last updated = 2016-10-09T21:20:24.567000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : zakholdsworth
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:20:37.502000+00:00
+wrote the data to text file
+Extracting data for the user : randizuckerberg
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:20:44.897000+00:00
+wrote the data to text file
+Extracting data for the user : joshelman
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:20:52.561000+00:00
+wrote the data to text file
+Extracting data for the user : bmatthews840
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:20:59.948000+00:00
+wrote the data to text file
+Extracting data for the user : nerdwallet
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:21:07.522000+00:00
+wrote the data to text file
+Extracting data for the user : MarchCps
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:21:14.931000+00:00
+wrote the data to text file
+Extracting data for the user : t_4
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:21:21.777000+00:00
+wrote the data to text file
+Extracting data for the user : KnappOnTech
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:21:29.223000+00:00
+wrote the data to text file
+Extracting data for the user : mknwebsolutions
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:21:36.812000+00:00
+wrote the data to text file
+Extracting data for the user : lefkofsky
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:21:44.372000+00:00
+wrote the data to text file
+Extracting data for the user : devdutt
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:21:51.183000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel', 'bobbyyazdani', 'erikhmoore', 'eab0828', 'hpvigil', 'datarama', 'yammeradam', 'kevincdonahue', 'danrosensweig', 'Justin_Mateen', 'er.com/josephnsanberg', 'jose_marin81', 'RonSuber', 'dbrianphelps', 'noahgoodhart09', 'wirehog', 'ValoreBobby', 'armandobiondi', 'foundersatwork', 'NewWayPaddy', 'ross__perot', 'Bobaspinner', 'Burchcreative', 'berdakin', 'bazaarbrett', 'kevinryan', 'RMooreAV', 'gaylordkellogg', 'jeffarnold', 'jimwiatt', 'suren_markosian', 'dotsteve', 'jr105', 'm_abraham', 'rsamvit', 'com/BarbaraCorcoran']
+Batch number 11 finished
+['inow', 'jonathansposato', 'MartinBabinec', 'ShaneBattier', 'bobbylent', 'ryanseacrest', 'dariusmc', 'joelcpeterson', 'mkokorich', 'timmaru', 'venkatjanapared', 'mbmccall', 'katies', 'altcap', 'johnhering', 'barenblat', 'djtokyo', 'georgezachary', 'lrajlich', 'S_C_', 'Samirkaji', 'juliahartz', 'satishd', 'nireyal', 'shishirmehrotra', 'jlanzone', 'collision', 'JackHerrick', 'mpanesis', 'vishalm', 'dctanner', 'davidcoallier', 'reverbdotcom', 'lightspeedvp', 'NickBeim', 'neilc122', 'danielcarroll', 'DickC', 'EamonLeonard', 'philippe_cases', 'sebdeh', 'paulbz', 'liaonet', 'bhalligan', 'danicgross', 'crazybob', 'michaelbaum', 'MayankBawa', 'gavinuhma', 'ValleyGirlShow', 'jkrums']
+Extracting data for the user : inow
+Retry 1: Status - Error. Last updated = 2016-10-09T21:21:58.414000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : jonathansposato
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:22:05.701000+00:00
+wrote the data to text file
+Extracting data for the user : MartinBabinec
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:22:12.855000+00:00
+wrote the data to text file
+Extracting data for the user : ShaneBattier
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:22:20.526000+00:00
+wrote the data to text file
+Extracting data for the user : bobbylent
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:22:27.616000+00:00
+wrote the data to text file
+Extracting data for the user : ryanseacrest
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:22:34.913000+00:00
+wrote the data to text file
+Extracting data for the user : dariusmc
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:22:42.587000+00:00
+wrote the data to text file
+Extracting data for the user : joelcpeterson
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:22:49.957000+00:00
+wrote the data to text file
+Extracting data for the user : mkokorich
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:22:57.003000+00:00
+Retry 2: Status - Processing. Last updated = 2016-10-09T21:23:02.037000+00:00
+Retry 3: Status - Processing. Last updated = 2016-10-09T21:23:07.137000+00:00
+Retry 4: Status - Processing. Last updated = 2016-10-09T21:23:12.375000+00:00
+Retry 5: Status - Processing. Last updated = 2016-10-09T21:23:17.593000+00:00
+Retry 6: Status - Processing. Last updated = 2016-10-09T21:23:23.017000+00:00
+Retry 7: Status - Processing. Last updated = 2016-10-09T21:23:28.307000+00:00
+Retry 8: Status - Processing. Last updated = 2016-10-09T21:23:33.639000+00:00
+Retry 9: Status - Processing. Last updated = 2016-10-09T21:23:44.342000+00:00
+Retry 10: Status - Processing. Last updated = 2016-10-09T21:23:49.653000+00:00
+Retry 11: Status - Processing. Last updated = 2016-10-09T21:23:55.054000+00:00
+Retry 12: Status - Processing. Last updated = 2016-10-09T21:24:00.381000+00:00
+Retry 13: Status - Processing. Last updated = 2016-10-09T21:24:05.531000+00:00
+Retry 14: Status - Processing. Last updated = 2016-10-09T21:24:11.445000+00:00
+Retry 15: Status - Processing. Last updated = 2016-10-09T21:24:16.592000+00:00
+Retry 16: Status - Processing. Last updated = 2016-10-09T21:24:21.638000+00:00
+Retry 17: Status - Processing. Last updated = 2016-10-09T21:24:26.758000+00:00
+Retry 18: Status - Processing. Last updated = 2016-10-09T21:24:37.139000+00:00
+Retry 19: Status - Processing. Last updated = 2016-10-09T21:24:42.389000+00:00
+Retry 20: Status - Processing. Last updated = 2016-10-09T21:24:47.473000+00:00
+Retry 21: Status - Processing. Last updated = 2016-10-09T21:24:52.783000+00:00
+Retry 22: Status - Processing. Last updated = 2016-10-09T21:24:57.913000+00:00
+Retry 23: Status - Processing. Last updated = 2016-10-09T21:25:03.044000+00:00
+Retry 24: Status - Processing. Last updated = 2016-10-09T21:25:08.968000+00:00
+Retry 25: Status - Processing. Last updated = 2016-10-09T21:25:14.105000+00:00
+Retry 26: Status - Processing. Last updated = 2016-10-09T21:25:19.146000+00:00
+Retry 27: Status - Processing. Last updated = 2016-10-09T21:25:25.147000+00:00
+Retry 28: Status - Processing. Last updated = 2016-10-09T21:25:35.743000+00:00
+Retry 29: Status - Processing. Last updated = 2016-10-09T21:25:41.131000+00:00
+Retry 30: Status - Processing. Last updated = 2016-10-09T21:25:46.277000+00:00
+Retry 31: Status - Processing. Last updated = 2016-10-09T21:25:51.471000+00:00
+Retry 32: Status - Processing. Last updated = 2016-10-09T21:25:56.737000+00:00
+Retry 33: Status - Processing. Last updated = 2016-10-09T21:26:01.820000+00:00
+Retry 34: Status - Processing. Last updated = 2016-10-09T21:26:07.029000+00:00
+Retry 35: Status - Processing. Last updated = 2016-10-09T21:26:12.068000+00:00
+Retry 36: Status - Processing. Last updated = 2016-10-09T21:26:17.223000+00:00
+Retry 37: Status - Finished. Last updated = 2016-10-09T21:26:27.601000+00:00
+wrote the data to text file
+Extracting data for the user : timmaru
+Retry 1: Status - Error. Last updated = 2016-10-09T21:26:34.609000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : venkatjanapared
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:26:41.763000+00:00
+wrote the data to text file
+Extracting data for the user : mbmccall
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:26:49.422000+00:00
+wrote the data to text file
+Extracting data for the user : katies
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:26:56.727000+00:00
+wrote the data to text file
+Extracting data for the user : altcap
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:27:03.944000+00:00
+wrote the data to text file
+Extracting data for the user : johnhering
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:27:11.133000+00:00
+wrote the data to text file
+Extracting data for the user : barenblat
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:27:18.177000+00:00
+wrote the data to text file
+Extracting data for the user : djtokyo
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:27:25.204000+00:00
+wrote the data to text file
+Extracting data for the user : georgezachary
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:27:33.164000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:27:33.326000+00:00
+wrote the data to text file
+Extracting data for the user : lrajlich
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:27:46.690000+00:00
+wrote the data to text file
+Extracting data for the user : S_C_
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:27:53.402000+00:00
+wrote the data to text file
+Extracting data for the user : Samirkaji
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:28:00.577000+00:00
+wrote the data to text file
+Extracting data for the user : juliahartz
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:28:08.047000+00:00
+wrote the data to text file
+Extracting data for the user : satishd
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:28:15.555000+00:00
+wrote the data to text file
+Extracting data for the user : nireyal
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:28:22.599000+00:00
+wrote the data to text file
+Extracting data for the user : shishirmehrotra
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:28:29.934000+00:00
+wrote the data to text file
+Extracting data for the user : jlanzone
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:28:37.126000+00:00
+wrote the data to text file
+Extracting data for the user : collision
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:28:45.003000+00:00
+wrote the data to text file
+Extracting data for the user : JackHerrick
+Retry 1: Status - Error. Last updated = 2016-10-09T21:28:51.822000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : mpanesis
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:28:59.546000+00:00
+wrote the data to text file
+Extracting data for the user : vishalm
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:29:06.925000+00:00
+wrote the data to text file
+Extracting data for the user : dctanner
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:29:13.574000+00:00
+wrote the data to text file
+Extracting data for the user : davidcoallier
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:29:21.258000+00:00
+wrote the data to text file
+Extracting data for the user : reverbdotcom
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:29:28.293000+00:00
+wrote the data to text file
+Extracting data for the user : lightspeedvp
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:29:35.600000+00:00
+wrote the data to text file
+Extracting data for the user : NickBeim
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:29:43.403000+00:00
+wrote the data to text file
+Extracting data for the user : neilc122
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:29:50.436000+00:00
+wrote the data to text file
+Extracting data for the user : danielcarroll
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:29:57.492000+00:00
+wrote the data to text file
+Extracting data for the user : DickC
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:30:04.591000+00:00
+wrote the data to text file
+Extracting data for the user : EamonLeonard
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:30:11.956000+00:00
+wrote the data to text file
+Extracting data for the user : philippe_cases
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:30:19.507000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:30:19.625000+00:00
+wrote the data to text file
+Extracting data for the user : sebdeh
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:30:32.552000+00:00
+wrote the data to text file
+Extracting data for the user : paulbz
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:30:39.704000+00:00
+wrote the data to text file
+Extracting data for the user : liaonet
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:30:46.902000+00:00
+wrote the data to text file
+Extracting data for the user : bhalligan
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:30:54.090000+00:00
+wrote the data to text file
+Extracting data for the user : danicgross
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:31:01.731000+00:00
+wrote the data to text file
+Extracting data for the user : crazybob
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:31:09.157000+00:00
+wrote the data to text file
+Extracting data for the user : michaelbaum
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:31:16.129000+00:00
+wrote the data to text file
+Extracting data for the user : MayankBawa
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:31:23.234000+00:00
+wrote the data to text file
+Extracting data for the user : gavinuhma
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:31:30.611000+00:00
+wrote the data to text file
+Extracting data for the user : ValleyGirlShow
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:31:38.199000+00:00
+wrote the data to text file
+Extracting data for the user : jkrums
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:31:45.408000+00:00
+wrote the data to text file
+LIWC scores are written onto a file
+Receptiviti scores are written onto a file
+['solvehealthcare', 'wtfspez', 'JustinYoshimura', 'peterthiel', 'bobbyyazdani', 'erikhmoore', 'eab0828', 'hpvigil', 'datarama', 'yammeradam', 'kevincdonahue', 'danrosensweig', 'Justin_Mateen', 'er.com/josephnsanberg', 'jose_marin81', 'RonSuber', 'dbrianphelps', 'noahgoodhart09', 'wirehog', 'ValoreBobby', 'armandobiondi', 'foundersatwork', 'NewWayPaddy', 'ross__perot', 'Bobaspinner', 'Burchcreative', 'berdakin', 'bazaarbrett', 'kevinryan', 'RMooreAV', 'gaylordkellogg', 'jeffarnold', 'jimwiatt', 'suren_markosian', 'dotsteve', 'jr105', 'm_abraham', 'rsamvit', 'com/BarbaraCorcoran', 'inow', 'timmaru', 'JackHerrick']
+Batch number 12 finished
+['samfromwgtn', 'amiller29', 'davidvivero', 'slevene', 'chudson', 'HenryLMcNamara', 'peterboboff', 'gustaf', 'TrevorTraina1', 'sorayadarabi', 'papadimitriou', 'kduggan', 'magno', 'stevegarfield', 'seanellis', 'mjacobstein', 'seattlebill', 'JeffMiller', 'rmchoudhury', 'papakipos', 'sampullara', 'bradgessler', 'mcannonbrookes', 'razmig7', 'joelyarmon', 'com/douglasguen', 'christianreber', 'mayorrock', 'randyhaykin', 'ericcwdunn', 'kentfuka', '_davidcarter', 'richardgraves', 'kentgoldman', 'alekseykorzun', 'pointsnfigures', 'travislbond', 'lawbla', 'Batterii', 'moia', 'dsternsf', '@andrewam', 'jeffiel', 'bpm140', 'hemang', 'mattholleran', 'fran_hauser', 'ygiokas', 'Kazanjy', 'davidblumberg', 'nisselson']
+Extracting data for the user : samfromwgtn
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:31:52.426000+00:00
+wrote the data to text file
+Extracting data for the user : amiller29
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:31:59.598000+00:00
+wrote the data to text file
+Extracting data for the user : davidvivero
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:32:06.698000+00:00
+wrote the data to text file
+Extracting data for the user : slevene
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:32:13.892000+00:00
+wrote the data to text file
+Extracting data for the user : chudson
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:32:21.572000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:32:21.757000+00:00
+wrote the data to text file
+Extracting data for the user : HenryLMcNamara
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:32:34.222000+00:00
+wrote the data to text file
+Extracting data for the user : peterboboff
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:32:41.782000+00:00
+wrote the data to text file
+Extracting data for the user : gustaf
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:32:48.989000+00:00
+wrote the data to text file
+Extracting data for the user : TrevorTraina1
+Retry 1: Status - Error. Last updated = 2016-10-09T21:32:55.758000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : sorayadarabi
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:33:03.812000+00:00
+wrote the data to text file
+Extracting data for the user : papadimitriou
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:33:11.001000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:33:11.134000+00:00
+wrote the data to text file
+Extracting data for the user : kduggan
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:33:23.698000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:33:23.849000+00:00
+wrote the data to text file
+Extracting data for the user : magno
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:33:36.258000+00:00
+wrote the data to text file
+Extracting data for the user : stevegarfield
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:33:43.874000+00:00
+wrote the data to text file
+Extracting data for the user : seanellis
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:33:51.357000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:33:51.477000+00:00
+wrote the data to text file
+Extracting data for the user : mjacobstein
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:34:03.728000+00:00
+wrote the data to text file
+Extracting data for the user : seattlebill
+Retry 1: Status - Error. Last updated = 2016-10-09T21:34:11.465000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : JeffMiller
+Retry 1: Status - Error. Last updated = 2016-10-09T21:34:18.601000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : rmchoudhury
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:34:26.386000+00:00
+wrote the data to text file
+Extracting data for the user : papakipos
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:34:33.708000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:34:33.846000+00:00
+wrote the data to text file
+Extracting data for the user : sampullara
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:34:46.037000+00:00
+wrote the data to text file
+Extracting data for the user : bradgessler
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:34:53.794000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:34:53.981000+00:00
+wrote the data to text file
+Extracting data for the user : mcannonbrookes
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:35:06.447000+00:00
+wrote the data to text file
+Extracting data for the user : razmig7
+Retry 1: Status - Error. Last updated = 2016-10-09T21:35:13.791000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : joelyarmon
+Retry 1: Status - Error. Last updated = 2016-10-09T21:35:21.130000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : com/douglasguen
+Retry 1: Status - Error. Last updated = 2016-10-09T21:35:28.254000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : christianreber
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:35:36.494000+00:00
+wrote the data to text file
+Extracting data for the user : mayorrock
+Retry 1: Status - Error. Last updated = 2016-10-09T21:35:43.833000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : randyhaykin
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:35:45.726000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:35:51.756000+00:00
+wrote the data to text file
+Extracting data for the user : ericcwdunn
+Retry 1: Status - Error. Last updated = 2016-10-09T21:36:03.853000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : kentfuka
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:36:11.743000+00:00
+wrote the data to text file
+Extracting data for the user : _davidcarter
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:36:18.800000+00:00
+wrote the data to text file
+Extracting data for the user : richardgraves
+Retry 1: Status - Processing. Last updated = 2016-10-09T21:36:25.729000+00:00
+Retry 2: Status - Finished. Last updated = 2016-10-09T21:36:26.093000+00:00
+wrote the data to text file
+Extracting data for the user : kentgoldman
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:36:38.906000+00:00
+wrote the data to text file
+Extracting data for the user : alekseykorzun
+Retry 1: Status - Error. Last updated = 2016-10-09T21:36:45.917000+00:00
+null
+wrote the data to error list file
+Extracting data for the user : pointsnfigures
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:36:53.150000+00:00
+wrote the data to text file
+Extracting data for the user : travislbond
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:37:00.471000+00:00
+wrote the data to text file
+Extracting data for the user : lawbla
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:37:07.622000+00:00
+wrote the data to text file
+Extracting data for the user : Batterii
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:37:15.233000+00:00
+wrote the data to text file
+Extracting data for the user : moia
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:37:22.101000+00:00
+wrote the data to text file
+Extracting data for the user : dsternsf
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:37:30.185000+00:00
+wrote the data to text file
+Extracting data for the user : @andrewam
+Retry 1: Status - Finished. Last updated = 2016-10-09T21:37:36.917000+00:00
+Traceback (most recent call last):
+  File "/home/nayak/Work/Hiwi/Twitter_Analysis/requst_response.py", line 390, in <module>
+    data = get_user_analysis_data(response)
+  File "/home/nayak/Work/Hiwi/Twitter_Analysis/requst_response.py", line 70, in get_user_analysis_data
+    expect(latest_response["search_key"]).to(equal(twitter_handle))
+  File "/home/nayak/.local/lib/python3.5/site-packages/expects/expectations.py", line 19, in to
+    self._assert(matcher)
+  File "/home/nayak/.local/lib/python3.5/site-packages/expects/expectations.py", line 25, in _assert
+    raise AssertionError(self._failure_message(matcher, reasons))
+AssertionError:
+expected: 'andrewam' to equal '@andrewam'
+
+Process finished with exit code 1

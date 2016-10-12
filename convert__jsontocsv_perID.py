@@ -7,8 +7,9 @@ import codecs
 
 #to write into the csv header format. This will remain same across.
 csv_header = ['Screen Name','Name','Description','URL','Location', 'Time Zone', 'Number of Tweets','Followers Count', 'Following ', 'Listed']
-csv_filename = "DATA_223." + "csv" #Please provide appropriate name here
+csv_filename = "DATA_REST." + "csv" #Please provide appropriate name here
 list_of_userdata = []
+
 
 def write_into_list(data):
     #initialize an array
@@ -16,19 +17,20 @@ def write_into_list(data):
 
     # add every 'cell' to the row list, identifying the item just like an index in a list
     row.append("@"+data['user']['screen_name'])
-    row.append(str(data['user']['name'].encode("utf-8")))
+    row.append(str(data['user']['name']))
     #row.append(data['user']['name'])
-    row.append(str(data['user']['description'].encode("utf-8")))
+    row.append(str(data['user']['description']))
     #row.append(data['user']['description'])
     row.append(data['user']['url'])
     #row.append(data['user']['location'])
-    row.append(str(data['user']['location']).encode("utf-8"))
+    row.append(str(data['user']['location']))
     row.append(data['user']['time_zone'])
     row.append(data['user']['statuses_count'])
     row.append(data['user']['followers_count'])
     row.append(data['user']['friends_count'])
     row.append(data['user']['listed_count'])
 
+    #print(row)
     list_of_userdata.append(row)
 
 

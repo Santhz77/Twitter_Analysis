@@ -3,9 +3,8 @@
 # mkdir data
 # USAGE : python3 collect_data.py
 # Author : Santhosh Nayak
-# It will produce the list of tweets for the user in the file data/stream_apple.json
+# It will produce the list of tweets for the user in the file For example : data/stream_apple.json
 # Note : According to the Twitter api, they'll allow you to extract a maximum of 3,200 tweets, 200 at a time,
-
 
 import sys
 import tweepy

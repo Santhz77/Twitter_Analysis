@@ -1,0 +1,276 @@
+Text,Created Date,Language,Retweet Count,Retweeted,Favorite Count,Favorited,co-ordinates,Tweeted By,Screen Name
+"@jengates Just saw you on stage at FS15! Curious, what hardware/software are you using for smart home stuff?",Thu Nov 12 19:29:54 +0000 2015,en,0,False,0,False,,Warren Konkel,wkonkel
+@calvinfo Thanks for https://t.co/K7cqI9pD2l How do you deploy updated docker images (task definition revisions)? Can you share your *.tf?,Fri Oct 23 22:48:14 +0000 2015,en,0,False,1,False,,Warren Konkel,wkonkel
+"@MythBusters @donttrythis Have you published the unedited arial footage from the U2 episode? If not, please do! #TaxDollars",Mon Aug 03 07:37:32 +0000 2015,en,0,False,0,False,,Warren Konkel,wkonkel
+@tmornini Can you share any configs/wisdom/advice from your migration?,Sat May 09 18:13:18 +0000 2015,en,0,False,0,False,,Warren Konkel,wkonkel
+"@kdaigle @github The /issues endpoint requires ""public_repo"" scope. Requiring a read/write scope seems overkill for a list of public issues?",Tue Oct 07 16:14:27 +0000 2014,en,0,False,0,False,,Warren Konkel,wkonkel
+@kdaigle @github Just emailed support. All other API endpoints seem fine but the /issues endpoint surely seems non-existent.,Tue Oct 07 00:58:13 +0000 2014,en,0,False,0,False,,Warren Konkel,wkonkel
+Why does @GitHub API advertise functionality that doesn't exist: https://t.co/KBUdDmntec  (/issues returns 404 despite a valid access_token),Tue Oct 07 00:31:27 +0000 2014,en,0,False,0,False,,Warren Konkel,wkonkel
+"@drizzled FYI, the Gmail app update for iPhone6 fixes font sizes but still needs landscape mode on 6 plus like Mail.app.",Mon Oct 06 18:48:39 +0000 2014,en,0,False,0,False,,Warren Konkel,wkonkel
+@uber My driver this morning refused to leave until either he or I put in a destination address claiming a new company policy. Is this true?,Mon Oct 06 17:18:57 +0000 2014,en,0,False,0,False,,Warren Konkel,wkonkel
+@rappo @whit537 Also http://t.co/vjlsziMoE2,Tue Apr 08 04:18:19 +0000 2014,en,0,False,0,False,,Warren Konkel,wkonkel
+"@abatalion @micah @bpm140 @rstephens @harper: Bountysource is ""TaskRabbit + Kickstarter for Open-Source Software"". Which abandoned products?",Thu Feb 27 03:03:42 +0000 2014,en,0,False,1,False,,Warren Konkel,wkonkel
+"@labusque Thanks! Quick follow up question, is this different: http://t.co/dABtEH5mQ3 ?",Tue Feb 25 01:59:27 +0000 2014,en,0,False,0,False,,Warren Konkel,wkonkel
+"@labusque Can you define ""Service Network"" in 140 chars?",Fri Feb 21 17:34:49 +0000 2014,en,0,False,0,False,,Warren Konkel,wkonkel
+@whit537 Let's chat about http://t.co/OUziPGoxnq,Mon Jan 06 19:50:42 +0000 2014,en,0,False,0,False,,Warren Konkel,wkonkel
+"@Mail_Gun ""Routes quota (5000) exceeded for an account"" How do I increase that quota?",Mon Nov 25 03:41:28 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+@cloudinary The DELETE method supports public_ids but not GET?,Fri Nov 22 18:43:37 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+"@cloudinary Does your API support /resources/:resource_type?public_ids=x,y,z for getting info about many public_ids in one API call?",Fri Nov 22 18:28:18 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+@collectiveidea Here's a delayed_job pull request that lets you run multiple workers on a single Heroku dyno. https://t.co/S8U5SPYtvS,Thu Aug 22 19:05:24 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+@heroku Please have sales contact me about premium support. I've submitted the form on http://t.co/WwLJQoFgr0 twice now. #frustrated,Tue Aug 20 19:44:14 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+@brandur  https://t.co/dG16ytDg2y,Tue Aug 20 19:37:36 +0000 2013,und,0,False,0,False,,Warren Konkel,wkonkel
+"@heroku  Is this the level of support I should expect? Seriously, what's going on here.  https://t.co/dG16ytDg2y",Fri Aug 16 18:35:25 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+@angularjs Subtle nitpick -- your logo on http://t.co/uCmx7ndCVg has a thin black line on the right.,Wed Jul 24 22:11:28 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+"@americascup #acanswers Does a jettisoned jib still count as part of the boat? Would it have been considered ""contact"" if Luna Rosa hit it?",Sun Jul 21 19:52:00 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+RT @WarrenBuffett: Warren is in the house.,Thu May 02 20:04:13 +0000 2013,en,43021,False,0,False,,Warren Konkel,wkonkel
+Just created a $25 bounty to help get @ariyahidayat's @PhantomJS onto @Joyent's SmartOS -- https://t.co/vj9PqOgffJ,Tue Apr 30 22:19:04 +0000 2013,en,3,False,1,False,,Warren Konkel,wkonkel
+"@PayPal Your ""new and improved"" developer sandbox is incredibly broken.  #QualityAssuranceFail",Thu Mar 14 01:57:14 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+"@tenderlove Why would a ""critical security update"" from 3.1.10 to 3.1.11 mess with non-critical mocha dependencies? #EverythingIsBroken",Thu Feb 21 04:34:43 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+"@scopejs Would you be willing to sell the twitter name ""scopejs""? I'd love to use it for a project I'm working on. How about $25 via paypal?",Fri Feb 08 21:22:05 +0000 2013,en,0,False,0,False,,Warren Konkel,wkonkel
+@BlueFogMarket Please bring back the previous salmon to-go dinner with veggies. The new one with winter greens isn't nearly as good!,Thu Feb 07 04:29:08 +0000 2013,en,0,False,0,False,"{'type': 'Point', 'coordinates': [-122.42484734, 37.79413252]}",Warren Konkel,wkonkel
+RT @vmaxmert: Next opensource project – maxmertkit widget manager (like npm for css-framework). Help the project – https://t.co/ORvFV9sC,Wed Jan 30 19:06:31 +0000 2013,en,5,False,0,False,,Warren Konkel,wkonkel
+@fb_engineering How many hours a year do Facebook employees spend working on open source software?,Thu Oct 25 20:17:02 +0000 2012,en,0,False,0,False,,Warren Konkel,wkonkel
+Very surprised to discover that @NewRelic Server Monitoring does not work with @Joyent SmartOS.  #disappointed,Thu Oct 25 18:46:04 +0000 2012,en,0,False,0,False,,Warren Konkel,wkonkel
+"@CaseySoftware give @Badger a try... if you're unsure, give the the live demo a shot: https://t.co/9GGolRmo",Sat Aug 11 16:05:24 +0000 2012,en,0,False,0,False,,Warren Konkel,wkonkel
+Domain Independence Day -- Join the @Badger revolution and your first domain transfer is Free!  https://t.co/yS6MeYNi,Wed Jul 04 15:04:14 +0000 2012,en,0,False,2,False,,Warren Konkel,wkonkel
+@bryanl case sensitive file system is a buried  option when you do a fresh format+install of osx... just not a default.,Tue Apr 06 14:21:08 +0000 2010,en,0,False,0,False,,Warren Konkel,wkonkel
+"how am i paying AT&T so much, yet i have to pay even more if i want internet on my laptop (att wifi hotspot) or future ipad (3g)",Mon Mar 22 21:19:35 +0000 2010,en,0,False,0,False,,Warren Konkel,wkonkel
+"Tarantino bailed on the #sxsw panel because of ""unforeseen circumstances""... drats.",Sat Mar 13 17:48:24 +0000 2010,en,0,False,0,False,,Warren Konkel,wkonkel
+there's a long line already for quentin tarantino panel at #sxsw and it's still an hour away.,Sat Mar 13 17:23:18 +0000 2010,en,0,False,0,False,,Warren Konkel,wkonkel
+#webbehemoths question for facebook: any unique challenges with securing third party applications built by facebook platform developers?,Fri Mar 12 23:42:18 +0000 2010,en,0,False,0,False,,Warren Konkel,wkonkel
+stickybits is the only thing i kept out of the schwag bags from SXSW.,Fri Mar 12 17:17:45 +0000 2010,en,0,False,0,False,,Warren Konkel,wkonkel
+"and now begins the annual ""I'm at SXSW, so I guess I have to start using twitter again"" phase.",Fri Mar 12 14:41:59 +0000 2010,en,0,False,0,False,,Warren Konkel,wkonkel
+idea of the day... there's many URL shorteners but why isn't there an email address shortener that just forwards mail to your real address?,Tue Mar 09 12:47:49 +0000 2010,en,0,False,0,False,,Warren Konkel,wkonkel
+"@r38y hah! that's exactly what i was looking for... and i see it thousands of times a day, funny.",Wed Nov 25 17:39:07 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+i swear i've seen the blue face in this logo somewhere before but I can't remember where... can anybody place it?  http://bit.ly/6qqD5C,Wed Nov 25 17:35:45 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+"@beerspotter sweet, that worked... just got the last two reservations to the allagash beer dinner at granville moore's!",Wed Aug 12 17:45:42 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+@beerspotter any idea how to sign up for some of the beer week events coming up?,Wed Aug 12 16:48:22 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+http://pixlr.com/editor/ just blew my mind... it's a browser (flash) implementation of photoshop.,Wed Jul 15 18:16:03 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+loving pandora in 192kbit... pandora one is definitely worth it.,Wed Jul 08 16:20:03 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+12:34:56 7/8/9 is quickly approaching.....,Wed Jul 08 15:37:35 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+"@pandora: ad, song, song, ad...  that's a little bit aggressive...",Fri Jun 05 17:44:02 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+why is rails copyrighted to an individual (@dhh) yet merb is copyrighted to a company (@engineyard)?,Mon May 18 22:40:29 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+"google voice seems like a cool idea, but i still don't think i'll ever use my account.",Thu Apr 09 16:41:20 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+"what, no headphone jack in the new apple 24"" displays?",Thu Mar 19 16:31:27 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+facebook party is sick... well done.,Mon Mar 16 03:59:29 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+"overheard at #sxsw: ""I don't know what my sleep number is... i guess i'll have to binary search to find it. how many days are we here for?""",Sun Mar 15 18:42:15 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+@codehooligans @conraddecker @tfish77 @mistcat -- mindshare beer reunion?,Sat Mar 14 22:29:47 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+No music at work today because I forgot my headphones at home... sad.,Mon Mar 02 11:53:36 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+st. patrick's day is during sxsw!?,Fri Feb 20 15:37:31 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+Ovechkin  is my hero: http://tinyurl.com/b9omph,Thu Feb 19 18:36:29 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+"SXSW question... for interactive, when should I fly in and when should I fly out?",Tue Feb 10 14:58:56 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+anybody have sxsw hotel reservations they don't need? procrastination fail.,Fri Feb 06 22:53:47 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+"damn pandora, you're on a roll. thumbs up.",Thu Feb 05 16:52:40 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+how is my 350gb drive 70% full on this two day old macbook pro?,Thu Feb 05 15:25:49 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+"d'oh, forgot to book a hotel for SXSW.",Mon Feb 02 15:34:08 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+this'll be good...    update people set id=id+1000000000;,Fri Jan 23 16:31:43 +0000 2009,en,0,False,0,False,,Warren Konkel,wkonkel
+"@grossberg i've also been having a ""shame on you ie6"" day today.",Fri Dec 19 19:10:18 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+ratatat overload. no more for a while.,Thu Dec 18 18:35:37 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@pandora is there anyway to adjust the treble/bass on OS X?,Fri Dec 12 19:21:46 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"rap lyric interpretation time: ""handle the game like merrill lynch"" in casablanca by raekwon. does that mean ""get in trouble and sell out""?",Thu Dec 11 23:10:05 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@pandora_radio a full hour might seem like a lot, but i often listen to pandora all day long at work and get the message 5+ times a day.",Mon Dec 08 21:55:06 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"pandora has gotten stingy... music stops every few songs with ""are you still listening?""",Mon Dec 08 21:40:46 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"ya, i don't get it either, yet there's people across the street dressed up as giant lollypops yelling back and forth.",Thu Oct 23 16:05:57 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"what'd the green lollypop yell at the purple lollypop? ""vote green!""   what'd the purple lollypop yell at the green lollypop? ""vote purple!""",Thu Oct 23 16:05:40 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+the new MacBook is surprisingly heavy... I was expecting it to be lighter.,Thu Oct 16 00:08:24 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"right wing, left wing, chicken wing.",Thu Oct 09 20:09:56 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"""From now on, ending a sentence with a preposition is something up with which I will not put.""  --Winston Churchill",Wed Oct 08 18:06:12 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@Marchdoe plug+unplug headphones forcefully and repetitively.,Wed Oct 08 00:41:20 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"""The financial masters of the universe owe more money than exists in the entire universe""  d'oh!",Sat Oct 04 15:51:10 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+dow jones over the last 100 years: http://tinyurl.com/4cswrz... i guess exponential growth really isn't maintainable?,Fri Oct 03 03:43:42 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"so i guess we skipped over ""economic recession"" and went straight to ""economic collapse"".",Thu Oct 02 18:34:33 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"yo yo yo, oh no you didn't! sucker tried to play me but you never paid me, never!",Fri Sep 26 13:53:24 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@josephgrossberg hah, where'd you hear that from?",Mon Sep 22 14:25:36 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@technoweenie hdmi + optical out works well... http://tinyurl.com/3bhdk9,Sun Sep 21 01:47:58 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+i can poach an egg with no vinegar... with no vinegar... with no vinegar.,Sat Sep 20 17:50:34 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@mringlein which one? :),Fri Sep 19 01:04:51 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"wow, eagles dallas game was awesome... too bad dallas pulled it off in the end.",Tue Sep 16 03:56:10 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+no service? really? come on now.  (iphone + at&t + washington dc = fail),Fri Sep 12 20:07:51 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+i need a vacation... any suggestions?,Fri Sep 12 15:18:55 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+today is a modest mouse day.,Wed Sep 10 19:27:41 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"at least when there's a bug in software, there's no risk of sucking the entire planet into a black hole.   (go CERN LHC, go!!)",Wed Sep 10 14:06:32 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@conraddecker well you can static pack css files at deployment time to achieve one http request, regardless of css style.",Mon Sep 08 18:29:41 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@conraddecker i used to be a multi-liner... but now i'm a one-liner all the way.  makes finding definitions in large files much easier.,Mon Sep 08 17:51:52 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"do turkeys say ""gobble gobble"" or ""glue glue""?",Sun Sep 07 20:18:03 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@ryanorr uptime, 9 days.   queries, 9 billion.",Fri Sep 05 18:10:32 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"wow... our analytics box is doing 12,200 sql requests a second. go mysql!",Fri Sep 05 17:56:53 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@lorig it was green before.... i guarantee that stephen colbert will do a ""green screen challenge""",Fri Sep 05 02:51:01 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+poor redskins.,Fri Sep 05 01:52:47 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@steeredc georgetown dmv is far superior to the C st one.,Tue Sep 02 22:07:36 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@tfish77 @josephgrossberg google image search for ""edit icon"" does offer ""pencil icon"" as a related search... interesting.",Fri Aug 22 16:02:14 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"why is there no universally acceptable 16x16 icon to denote the concept of ""edit""?",Fri Aug 22 15:43:42 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"i want to see olympic divers try for ""most splash""...",Fri Aug 22 01:56:17 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+not sure whether to be happy or sad that the tax assessed value of my car is much lower than i thought it'd be.,Fri Aug 22 00:13:18 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+olympic tramampoline... wow!,Tue Aug 19 01:50:21 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"with the price of flights these days, it appears that buying my own plane may soon be cheaper.",Sun Aug 17 15:56:05 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+got my VW a performance tune for it's 10k birthday. it's crazy how different software can make it 20% faster AND more fuel efficient.,Sat Aug 16 19:20:06 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@baconsalt where in the washington dc area can I get some of this magical bacon salt?,Wed Aug 13 18:51:23 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"if you really wanted to work at a company, how many interviews/projects/etc would you go through before giving up entirely on the company?",Tue Aug 12 22:56:40 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@lorig no idea, i'm still trying to wrap my head around the concept... i'm not even close to the purchasing stage yet.",Tue Aug 12 15:20:33 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"Bacon Salt is a fat free, zero calorie, low sodium, vegetarian, Kosher, seasoning salt that makes everything taste like bacon.",Tue Aug 12 15:01:24 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+feeling patriotic...,Mon Aug 11 03:46:03 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"is there anything more than ""kill -9""? this process just won't die.",Sun Aug 10 18:46:14 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+basketballs look so tiny in the hands of really big people.,Sun Aug 10 14:50:20 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+guess i should book for SXSW... but isn't that months and months away?,Fri Aug 08 17:26:56 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"wow, the weather fairy came by last night and left some amazing weather!",Fri Aug 08 14:40:50 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"once again, pandora went off on a tangent... started off at gorillaz and ended up at whitney houston.",Wed Aug 06 20:25:26 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"i am coining a new term... ""nano manage""... several steps beyond ""micro manage""",Tue Aug 05 17:04:46 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"""few relationships in life are more important than the relationship between you and your michelin tires.""",Tue Aug 05 04:12:04 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+how did pandora start at gorillaz and up at ashanti?,Mon Aug 04 19:29:25 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"why is it pronounced brett ""farve"" but spelled brett ""favre"" ?",Mon Aug 04 01:38:35 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+FOOTBALL!,Mon Aug 04 00:07:38 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+spacex anomaly... shocking.,Sun Aug 03 03:43:26 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"just bought a redskins jersey (#85, don warren, played for about 15 years back in the 80's).  it says ""warren"" on the back.",Sat Aug 02 23:56:49 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"iphone tether is sorta cool.... but hacky. i want an app that when i start it, a wifi access point called ""iPhone"" appears that just works.",Fri Aug 01 20:01:13 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@sstephenson no longer available in the US itunes store... tethering fail.,Fri Aug 01 02:36:36 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@dascentral php and soap... there's two technologies I don't miss working with in the slightest :-P,Thu Jul 31 17:28:38 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"damn... shoulda invested last night in http://finance.google.com/finance?q=MSS  14,000% increase overnight!",Mon Jul 28 15:36:35 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+sleeping in until 1:30pm was not part of today's agenda... oh well.,Sun Jul 27 17:35:42 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+d'oh! was having issues with my MBP waking/sleeping so I did a complete reinstall of osx but the problem is still happening... hardware?,Fri Jul 25 23:08:58 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"holy stream of twitters, @mringlein",Fri Jul 25 00:05:14 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+swimming pools are awesome.,Thu Jul 24 23:38:30 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@ntalbott would that create the ""twitter effect"" where websites get instantly slammed?",Thu Jul 24 13:43:31 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"feedback e-mail of the day: ""hello world womans and girls""  (word for word, that's the entire message)",Thu Jul 24 13:35:32 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+f8 keynote in 100 minutes. giddy up.,Wed Jul 23 18:53:37 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"why do i have to click ""Update"" on a custom trac report after closing a bug to make the bug go away?",Wed Jul 23 16:40:21 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@mringlein clarendon store had some 16gb black iphones this morning... not sure if they still do.,Tue Jul 22 16:26:54 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@nzkoz techcrunch must be running Rails... and clearly Rails doesn't scale!,Tue Jul 22 15:47:24 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@josephgrossberg @adambair Thanks!  Now the fun begins! :-D,Mon Jul 21 13:42:58 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+The Japanese invaded two Alaskan islands during WWII for almost a year? I had no idea... http://tinyurl.com/6q2pf8,Sun Jul 20 03:01:23 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@conraddecker you gave in and got an iphone?  what's next, ruby on rails and mac os x?   :-P",Wed Jul 16 14:23:11 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@mringlein i was up early and saw they had the 16gb's out in tysons... i don't want to drive far, wait in line and then not get one.",Wed Jul 16 11:22:42 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+are people still waiting in line every morning at apple stores for a 3g?,Wed Jul 16 10:51:26 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"if i buy an app for my old iphone and upgrade to a new iphone in the next week or two, can i transfer the app to the new one for free?",Sun Jul 13 23:11:55 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+apple store line in clarendon has moved 10 feet in the last several hours.  that's just slightly less than awesome.,Fri Jul 11 15:36:56 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@ryanorr got a 3g yet?,Fri Jul 11 02:36:37 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+d'oh! left the sunroof open and it rained last night... not nearly as bad as it could be though.,Wed Jul 09 15:37:03 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+picture from my balcony last night of lightning during a sunset:  http://www.flickr.com/photos/wkonkel/2603444877/sizes/l/,Mon Jun 23 13:27:46 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+my car is advertised as 32mpg highway and 25mpg city. i've never gotten better than 27mpg highway and 20mpg city. maybe i drive too fast?,Sun Jun 15 20:30:11 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@r38y you must eat baby kittens for breakfast.,Wed Jun 04 19:45:34 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+this storm looks pretty serious....,Wed Jun 04 19:23:33 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@r38y you're at railsconf? MARCO!,Fri May 30 18:20:47 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@rich_kilmer i get that when it's standing up in the charging dock...,Tue May 27 16:51:57 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+no joke...  this migration will take just under a year to complete.  that's not going to work at all.,Tue May 27 01:03:14 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"anybody have any luck with MaxMind GeoIP on leopard? libs install, but ruby doesn't seem to find them!  :(",Mon May 26 17:43:29 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@Marchdoe parallels gets the job done just fine.,Fri May 23 15:03:34 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@Marchdoe whentwitterisdown.com is down,Thu May 22 19:37:54 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@pragdave it'd be nice if you auto-created an account for new users via openid rather than requiring users to link to an existing account.,Tue May 20 13:15:40 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@lorig and that just about completes the full staff turn over of mindshare in the last three years!,Mon May 19 18:15:22 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"it took most of the weekend, but the kitchen is now spotless!",Mon May 19 02:03:58 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@laurenontwtr hope you got an HDMI cable for the xbox!,Sun May 18 22:29:04 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@alexknowshtml ya, virgin america is pretty awesome... ordering food/drinks/etc with a credit card on the touchscreen in front of you rocks.",Sat May 17 20:50:51 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"two hours of cleaning, and the kitchen is only 75% done.  this could take a few days.",Sat May 17 18:47:52 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"warren's law: whenever you find a to-do list from the past (regardless of how old), more than 50% still applies.",Sat May 17 16:49:22 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+vmware + kubuntu = win,Fri May 16 18:55:21 +0000 2008,pl,0,False,0,False,,Warren Konkel,wkonkel
+new blog post on warrenkonkel.com! too bad it's highlighting the fact that today is the one year anniversary of my last blog post.  fail.,Thu May 15 18:05:22 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+biscotti dipped in coffee is my new weakness.,Wed May 14 20:08:22 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"buffalo wings in buffalo, ny did not disappoint.",Mon May 12 00:01:42 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@SamanthaToy mmm... i could go for some cookies for breakfast right about now.,Thu May 08 13:55:42 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"this almost sounds like an article in ""the onion"": ""Hackers' posts on epilepsy forum cause migraines, seizures"" http://tinyurl.com/542pt7",Thu May 08 13:08:34 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+anybody have any success/failure stories with mod_rails yet?,Wed May 07 14:07:20 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+played around with my new camera all weekend.... one of the better shots: http://tinyurl.com/3zsprb,Tue May 06 04:33:08 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"bank of america credit card now considers payment of parking tickets to be ""cash advances"".... new credit card company, here i come!",Fri May 02 14:11:43 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+free scoop day at ben and jerrys.... dupont circle location has a line of probably an hour long. don't these people have jobs?,Tue Apr 29 18:02:49 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"found a tada list account with a todo list from about 3 years ago... shockingly, most of it is still accurate.",Sun Apr 27 14:25:44 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+how did people eat mangos before knives were invented? or maybe knives were invented before mangos!?,Fri Apr 25 16:08:05 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"my gmail ""trash"" folder has 222,513 messages.",Wed Apr 23 16:22:15 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@conraddecker welcome to the dark side...,Tue Apr 22 23:20:34 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"""i drink several quarts of coffee a day""  --rachel ray",Tue Apr 22 05:02:40 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+who even uses hi5?,Tue Apr 22 01:25:14 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+http://i29.tinypic.com/dxk741.jpg,Tue Apr 22 00:33:28 +0000 2008,und,0,False,0,False,,Warren Konkel,wkonkel
+deleting 40307 messages from gmail... all came in during the last 48 hours.,Thu Apr 17 13:43:25 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"woah!!  where did the last six hours go? oh right, i just watched six hours straight of deadliest catch.",Sat Apr 12 20:19:28 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"oh nice, old school prodigy.... good pandora!",Thu Apr 10 19:27:54 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@bryanl so you can be ""bleeding edge""",Thu Apr 10 18:10:34 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@mringlein what, no font-weight: bolderer ?",Thu Apr 10 17:09:22 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@mringlein it doesn't have cross-browser support for specifying a value (i.e. having multiple buttons in a single form and discerning them),Thu Apr 10 16:26:08 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@josephgrossberg wasn't that supposed to launch in Jan? :-P,Wed Apr 09 19:43:28 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@droppyale congrats! where at?,Wed Apr 09 15:31:24 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@svante how popular is twitter in sweeden?,Wed Apr 09 14:00:31 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+any ETA on google app engine + rails?,Tue Apr 08 13:46:36 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@washingtonian hooray beer!,Mon Apr 07 14:01:47 +0000 2008,nl,0,False,0,False,,Warren Konkel,wkonkel
+@josephgrossberg that rule sucks.,Thu Apr 03 19:01:51 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@bryanl does that mean your new AIM name will be ""imanagerails""?",Wed Apr 02 14:51:22 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+www.iminlikewithyou.com for the win,Tue Apr 01 21:23:04 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"""oh hai"" is the new ""hello world""",Tue Apr 01 17:28:40 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@alexknowshtml congrats!,Tue Apr 01 13:40:39 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@mringlein awesome:  http://www.thinkgeek.com/stuff/41/titaniumlabyrinth.html,Tue Apr 01 13:39:06 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"question: what can you do with beer?  (""sip it"", ""chug it"", ""bathe in it"", etc)",Mon Mar 31 22:30:10 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"""Speed is irrelevant if you are going in the wrong direction.""  -Gandhi",Mon Mar 31 19:11:50 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@pandora_radio do you work for Pandora?  if so,  here's a feature request:  ""sound track from _insert_movie_here_"" should work",Mon Mar 31 18:11:31 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+i'm addicted to stats and analytics.,Mon Mar 31 18:04:56 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@bryanl i think we both got our blog-design from the same place...  http://warrenkonkel.com/  (ya, i haven't blogged in about 10 months)",Mon Mar 31 13:14:39 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@codehooligans sometimes pandora goes off on tangents and before you realize it, you're 5 songs deep into a binge of crap music.",Fri Mar 28 17:33:10 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+i haven't been thumbs-downing stuff in pandora nearly as much as i should and now it thinks i like tons of crap music.,Fri Mar 28 17:18:56 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+missed refresh-dc last night... saw the U2-3D movie in imax instead... wow.,Fri Mar 28 13:31:03 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@bryanl you've gone sideways.,Fri Mar 28 13:19:13 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@tfish77 WAY worse! ""Rather than slow traffic by [application], Comcast will slow traffic for those users who consume the most bandwidth.""",Thu Mar 27 19:02:48 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@laurenontwtr everything's bigger in texas.,Thu Mar 27 18:41:21 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@josephgrossberg ahh... missed his tweet... ya, he's a friend of a friend... :)",Wed Mar 26 22:14:46 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@josephgrossberg i'm guessing... randy?,Wed Mar 26 22:11:20 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@obie @r38y @josephgrossberg overall, how's philly etech so far?",Wed Mar 26 16:26:12 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@adambair brute force, also known as ""alert()""... and before that it was known as printf...",Fri Mar 21 14:39:12 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@bryanl i use safari for everything but website debugging... and even then i never have more than 1 tab open in firefox+firebug.,Fri Mar 21 13:59:03 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+spline charts are funky,Fri Mar 21 13:15:16 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"too many ""communication"" mechanisms open right now:  adium (aim, msn, yahoo, gchat), irc, skype, twitter, safari (gmail)",Thu Mar 20 16:14:16 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@josephgrossberg hungry machine is the company.  livingsocial is essentially a brand we've created around several of our applications.,Thu Mar 20 13:49:30 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+spitzer's girl was also a girls-gone-wild girl?,Thu Mar 20 03:30:38 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+hmm.. what's faster... uploading 10gb  to a server at 80kb/s or letting the server reprocess/recreate the data...,Thu Mar 20 00:48:16 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"poll: cvs, svn, git or other.  what do you use? what do you prefer?",Wed Mar 19 19:45:38 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@josephgrossberg !important is short hand for ""just work damn it... i don't care about the right way""... i'll fix it later.",Wed Mar 19 18:34:24 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+bad ruby process... taking up 2.6gb of memory,Wed Mar 19 18:09:01 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+why doesn't mysql like dealing with gigs and gigs of data?,Wed Mar 19 18:03:38 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@Marchdoe http://www.flickr.com/photos/albill/2313174452/,Tue Mar 18 16:28:15 +0000 2008,und,0,False,0,False,,Warren Konkel,wkonkel
+"just deleted all the files off my Desktop... so I guess now i'm at ""Desktop 0"" (except for ""Macintosh HD"").... sorta like ""Inbox 0""?",Tue Mar 18 15:14:57 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@oshy senseo for the win!,Fri Mar 14 14:28:24 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+too much myspace-ing today... i feel dirty,Thu Mar 13 21:38:45 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+third time's a charm... go here to install:  http://profile.myspace.com/readingsocial,Thu Mar 13 19:31:26 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"oh, and make sure you're logged into myspace first!",Thu Mar 13 19:26:54 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"have a myspace account? do me a favor and install our app: http://tinyurl.com/2twkem
+ and then install the others too (music, movies, etc)",Thu Mar 13 19:25:28 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"nothing like some old school coolio ""gangsta's paradise"" to set the mood...",Thu Mar 13 16:11:33 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"if anybody knows what ""3000 FRBE Error 1045"" means, please let me know.",Wed Mar 12 01:02:03 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+that's icy! http://selfdestruct.net/misc/geneve.jpg,Tue Mar 11 19:58:37 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+d'oh! wrong window... twitter wins again.,Tue Mar 11 19:42:15 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+svn st,Tue Mar 11 19:42:01 +0000 2008,lt,0,False,0,False,,Warren Konkel,wkonkel
+should have gone to SXSW...,Tue Mar 11 14:43:08 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+why must bank of america decide to do maintenance on their online banking the one night I finally motivate to do 2007 taxes?,Mon Mar 10 02:42:13 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+so Zuckerberg@sxsw was a flop?,Sun Mar 09 19:45:45 +0000 2008,de,0,False,0,False,,Warren Konkel,wkonkel
+"why is it that whenever apple announces something good, their stock goes down?",Thu Mar 06 22:48:26 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+iphone update... 3rd party apps better not disappoint.,Thu Mar 06 18:37:31 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+letting the roomba run around the office for a bit...,Thu Mar 06 14:58:06 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"""Keeping the technical details of how this works private helps us keep it more secure""  --MySpace",Tue Mar 04 17:26:10 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+the low repetitive sound of hundreds of people quietly typing during a talk at graphing social patterns is oddly soothing.,Mon Mar 03 21:58:14 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@dascentral have extra floor space?  :),Thu Feb 28 15:05:38 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+SXSW sounds fun... flights aren't too expensive... but where to stay?,Thu Feb 28 15:02:02 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+why oh why does CS3 sometimes crash when i save-for-web?,Tue Feb 26 14:37:55 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@josephgrossberg give,Tue Feb 05 18:45:40 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@obie it's nice syntactic sugar, but  nothing revolutionary.",Sat Feb 02 21:15:55 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"rain, rain, go away.  come again some other day.",Fri Feb 01 14:08:45 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+"@josephgrossberg He could have meant ""we"" as in ""us in the know""...",Thu Jan 31 17:47:47 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+why doesn't wget come stock on OSX?,Thu Jan 31 16:43:47 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+@candrews both!,Thu Jan 10 17:54:34 +0000 2008,en,0,False,0,False,,Warren Konkel,wkonkel
+http://tinyurl.com/25vcqh,Thu Jan 03 16:51:46 +0000 2008,und,0,False,0,False,,Warren Konkel,wkonkel
+losing to 12 year olds in halo 3,Wed Dec 26 23:48:00 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+I was just at Best Buy... they brought out a palette of Wii's which sold out in 3 minutes.  I impulse bought one.  Now what?,Mon Dec 24 20:03:15 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+google chart api.... sexy.,Fri Dec 21 16:53:54 +0000 2007,fr,0,False,0,False,,Warren Konkel,wkonkel
+drinking beer out of a paper water cup... ahh life at a startup.,Tue Dec 18 22:36:47 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+28 days later + castaway == i am legend,Tue Dec 18 00:29:48 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+"@CoreyDotCom, click on the ""i"" button in the bottom right and uncheck ""Only play audion in dashboard""",Fri Dec 14 18:31:29 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+pandora + leopard dashboard web clippings == awesome,Fri Dec 14 15:20:24 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+i've never seen an OS upgrade go so smoothly... ya leopard.,Thu Dec 13 03:10:09 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+lots of bebo buzz.,Wed Dec 12 18:44:07 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+"If twitter is so great, how come I forgot about it for a few weeks and didn't even notice?",Mon Dec 10 17:18:50 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+@alexknowshtml please get in contact with me.,Tue Nov 27 14:44:11 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+2gb sd memory card with wifi... clever: http://tinyurl.com/3av5db,Fri Nov 02 15:45:26 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+"to google: thank you for imap.  i'm even awesomer now.  sincerely, warren's iphone.",Thu Nov 01 15:53:05 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+"dear google: please enable IMAP on my account. everybody else has it, why not me? yours truly, warren.",Wed Oct 31 17:50:59 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+"if you claim iphones can't be scratched, let me prove you wrong by showing you mine.  *GRRRR*",Tue Oct 30 20:39:31 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+"supposed to fly to Jacksonville, FL tonight.... rain, rain, go away, come again some other day!",Thu Oct 25 20:55:57 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+internet's crawling... who went a-dumpin' in the inter tubes?,Tue Oct 23 19:49:13 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+fuddrucker fries + honey mustard = awesomeness in bite size form,Tue Oct 23 17:29:36 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+"question: upgrade tiger to leopard OR backup key files, format and have a 100% fresh leopard install?",Mon Oct 22 17:49:49 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+Address Book to Adium integration is awesome.,Mon Oct 22 13:20:20 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+Terminal.app:   say -vCellos you should stop watching football no more stalling today you need to get your work done so you can go and play,Sat Oct 20 20:52:43 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+a picture i took at a recent Redskins game... i guess americans really do like big cars: http://tinyurl.com/2eq4bo,Fri Oct 19 13:41:29 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
+"this whole ""twitter"" thing isn't half bad.",Fri Oct 19 00:16:26 +0000 2007,en,0,False,0,False,,Warren Konkel,wkonkel
