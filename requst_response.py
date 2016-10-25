@@ -8,8 +8,8 @@ import config
 import os
 
 BASEURL= "https://app.receptiviti.com"
-apikey = "57dbc1888f974a05aa1af46c"
-apisecret = "K1aBm6H2vnllI7WREE2ct5HasuMyUHEY8hfhtc4huho"
+apikey = "5807461720a25d05ba70138a" #""57dbc1888f974a05aa1af46c"
+apisecret = "ldANecnXiQKeazhIIQIXqxG8F3i4FCI5Mu8m56sM0x8" #""K1aBm6H2vnllI7WREE2ct5HasuMyUHEY8hfhtc4huho"
 
 csv_header = ['Twitter Account','Word Count','Analytical Thinking','Clout','Authentic','Emotional tone','Words/sentence','Words > 6 letters', 'Dictionary words', 'Total function words',
               'Total pronouns' , 'Personal pronouns', '1st pers singular', '1st pers plural', '2nd person', '3rd pers singular', '3rd pers plural', 'Impersonal pronouns', 'Articles','Prepositions' ,'Auxiliary verbs',
@@ -299,7 +299,7 @@ def extract_data_from_excel():
     print("Please wait, this may take some time.")
     index = 0
     for row in range(config.MIX_ROW_SIZE,config.MAX_ROW_SIZE):
-        for column in "D":
+        for column in "G":
             cell_name = "{}{}".format(column, row)
             screen_name = worksheet[cell_name].value
 
@@ -343,12 +343,12 @@ def extract_data_from_csv():
 if __name__ == '__main__':
 
     #Create a file and include the header for Receptivity scores.
-    #writer = csv.writer(open("Analysis_json/Receptivity_scores_NEW.csv", 'w'))
-    #writer.writerow(csv_header_receptivity)
+    writer = csv.writer(open("Analysis_json/Receptivity_scores_ForbesList_new1.csv", 'w'))
+    writer.writerow(csv_header_receptivity)
 
     # Create a file and include the header for LIWC_scores
-    #writer = csv.writer(open("Analysis_json/LIWC_results1_NEW.csv", 'w'))
-    #writer.writerow(csv_header)
+    writer = csv.writer(open("Analysis_json/LIWC_results_ForbesList_new1.csv", 'w'))
+    writer.writerow(csv_header)
 
     all_LIWC_rows = []
     all_receptivity_rows = []
@@ -382,11 +382,11 @@ if __name__ == '__main__':
 
 
     # To clean the list of already extraceted user details
-    for user in user_list:
+    '''for user in user_list:
         for saved_user in extracted_user_list:
             if saved_user == user:
                 temp_list.remove(saved_user)
-                break
+                break'''
 
 
     print("user list : "+ str(len(user_list)))
@@ -400,7 +400,7 @@ if __name__ == '__main__':
     small_list = []
     index = 0
 
-    for user in temp_list:
+    '''for user in temp_list:
         small_list.append(user)
         index = index + 1
         if ( index > 25):
@@ -409,47 +409,48 @@ if __name__ == '__main__':
             index = 0
     # to aappend the last set of user data
     batch_user_list.append(small_list)
-    print("batch user list length " + str(len(batch_user_list)))
+    print("batch user list length " + str(len(batch_user_list)))'''
 
     count = 0
-    for batch in batch_user_list:
-        print(batch)
-        for user in batch:
-            print("Extracting data for the user : " + user)
+    for user in user_list: #batch_user_list:
+        print(user)
+        #for user in batch:
+        print("Extracting data for the user : " + user)
 
-            twitter_handle = user
+        twitter_handle = user
 
-            #manage the response of the user via the API
-            response = import_twitter_user(twitter_import_user_api_url(BASEURL), header, twitter_handle)
-            data = get_user_analysis_data(response)
+        #manage the response of the user via the API
+        response = import_twitter_user(twitter_import_user_api_url(BASEURL), header, twitter_handle)
 
-            if (data == None):
-                print("null")
-                error_list.append(user)
-                write_error_list(user)
-            else:
-                write_json_text(data)
-                all_LIWC_rows.append(get_liwc_scores(data))
-                all_receptivity_rows.append(get_receptiviti_scores(data))
+        data = get_user_analysis_data(response)
+
+        if (data == None):
+            print("null")
+            error_list.append(user)
+            write_error_list(user)
+        else:
+            write_json_text(data)
+            all_LIWC_rows.append(get_liwc_scores(data))
+            all_receptivity_rows.append(get_receptiviti_scores(data))
 
 
 
         #to write the data onto the files (written as a batch of 25 usernames once)
         for row in all_LIWC_rows:
-            writer = csv.writer(open("Analysis_json/LIWC_results1.csv", 'a'))
+            writer = csv.writer(open("Analysis_json/LIWC_results_ForbesList_new1.csv", 'a'))
             writer.writerow(row)
         all_LIWC_rows = []
         print ("LIWC scores are written onto a file ")
 
 
         for row in all_receptivity_rows:
-            writer = csv.writer(open("Analysis_json/Receptivity_scores1.csv", 'a'))
+            writer = csv.writer(open("Analysis_json/Receptivity_scores_ForbesList_new1.csv", 'a'))
             writer.writerow(row)
         all_receptivity_rows = []
         print("Receptiviti scores are written onto a file")
 
 
         count = count + 1
-        print("Batch number " + str(count) + " finished")
-        print("Sleeping now :)")
-        time.sleep(100)
+        #print("Batch number " + str(count) + " finished")
+        #print("Sleeping now :)")
+        #time.sleep(100)

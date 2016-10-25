@@ -10,7 +10,7 @@ consumer_secret = "AXTHSaqXbs4B2n1HhdE8ZhLao20GHR1YKZcVXgSIDFC8jWXz14"
 DATA_DIR = "data_223"
 
 #Provide the xlsx file to be read / Source files with the list of
-USERNAME_XLSX = "all_data.XLSX" #"businessangels.xlsx
+USERNAME_XLSX = "Twitter_reduziert.xlsx" #"all_data.XLSX" #"businessangels.xlsx
 
 #A list of succesful download enrty
 USERNAME_LIST_TXT = "data_223/users_list.txt"
@@ -19,10 +19,10 @@ USERNAME_LIST_TXT = "data_223/users_list.txt"
 WRITE_ERROR_LIST = "data_223/error_list.txt"
 
 #Provide the min_row limit from where the data starts
-MIX_ROW_SIZE = 7
+MIX_ROW_SIZE = 2
 
 #Provide the Maximum Row limit where the data ends
-MAX_ROW_SIZE = 1898
+MAX_ROW_SIZE = 72
 
 #Provide the details on person as to whom the data must be fetched
 PERSON = ""
