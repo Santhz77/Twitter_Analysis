@@ -299,7 +299,7 @@ def extract_data_from_excel():
     print("Please wait, this may take some time.")
     index = 0
     for row in range(config.MIX_ROW_SIZE,config.MAX_ROW_SIZE):
-        for column in "G":
+        for column in "H":
             cell_name = "{}{}".format(column, row)
             screen_name = worksheet[cell_name].value
 
@@ -343,11 +343,11 @@ def extract_data_from_csv():
 if __name__ == '__main__':
 
     #Create a file and include the header for Receptivity scores.
-    writer = csv.writer(open("Analysis_json/Receptivity_scores_ForbesList_new1.csv", 'w'))
+    writer = csv.writer(open("Analysis_json/Receptivity_scores_Forbes4002.csv", 'w'))
     writer.writerow(csv_header_receptivity)
 
     # Create a file and include the header for LIWC_scores
-    writer = csv.writer(open("Analysis_json/LIWC_results_ForbesList_new1.csv", 'w'))
+    writer = csv.writer(open("Analysis_json/LIWC_results_Forbes4002.csv", 'w'))
     writer.writerow(csv_header)
 
     all_LIWC_rows = []
@@ -358,7 +358,7 @@ if __name__ == '__main__':
     user_list = extract_data_from_excel()
 
     # to get the user list from already downloaded data
-    extracted_user_list = extract_data_from_csv()
+    #extracted_user_list = extract_data_from_csv()
 
     # data for Receptivity API
     if apikey:
@@ -372,13 +372,13 @@ if __name__ == '__main__':
     # Process to clear the redunt user names after process.
     temp_list = list(user_list)
 
-    seen = set()
-    seen_add = seen.add
+    #seen = set()
+    #seen_add = seen.add
     # adds all elements it doesn't know yet to seen and all other to seen_twice
-    seen_twice = set(x for x in extracted_user_list if x in seen or seen_add(x))
+    #seen_twice = set(x for x in extracted_user_list if x in seen or seen_add(x))
 
-    print("Seen_twice in the extracted data: " )
-    print(list( seen_twice ))
+    #print("Seen_twice in the extracted data: " )
+    #print(list(seen_twice ))
 
 
     # To clean the list of already extraceted user details
@@ -390,7 +390,7 @@ if __name__ == '__main__':
 
 
     print("user list : "+ str(len(user_list)))
-    print("Len_extracred_user_list : " + str(len(extracted_user_list)))
+    #print("Len_extracred_user_list : " + str(len(extracted_user_list)))
     print("temp list : " + str(len(temp_list)))
 
 
@@ -399,6 +399,9 @@ if __name__ == '__main__':
     batch_user_list = []
     small_list = []
     index = 0
+
+    print ("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&")
+    print (temp_list)
 
     '''for user in temp_list:
         small_list.append(user)
@@ -412,45 +415,48 @@ if __name__ == '__main__':
     print("batch user list length " + str(len(batch_user_list)))'''
 
     count = 0
-    for user in user_list: #batch_user_list:
-        print(user)
-        #for user in batch:
-        print("Extracting data for the user : " + user)
 
-        twitter_handle = user
+
+
+        #for user in user_list: #batch_user_list:
+        #print("User :" + user)
+        #for user in batch:
+        #print("Extracting data for the user : " + user)
+
+    twitter_handle = "jack"
 
         #manage the response of the user via the API
-        response = import_twitter_user(twitter_import_user_api_url(BASEURL), header, twitter_handle)
+    response = import_twitter_user(twitter_import_user_api_url(BASEURL), header, twitter_handle)
 
-        data = get_user_analysis_data(response)
+    data = get_user_analysis_data(response)
 
-        if (data == None):
-            print("null")
-            error_list.append(user)
-            write_error_list(user)
-        else:
-            write_json_text(data)
-            all_LIWC_rows.append(get_liwc_scores(data))
-            all_receptivity_rows.append(get_receptiviti_scores(data))
+    if (data == None):
+        print("null")
+        error_list.append(user)
+        write_error_list(user)
+    else:
+        write_json_text(data)
+        all_LIWC_rows.append(get_liwc_scores(data))
+        all_receptivity_rows.append(get_receptiviti_scores(data))
 
 
 
         #to write the data onto the files (written as a batch of 25 usernames once)
-        for row in all_LIWC_rows:
-            writer = csv.writer(open("Analysis_json/LIWC_results_ForbesList_new1.csv", 'a'))
-            writer.writerow(row)
-        all_LIWC_rows = []
-        print ("LIWC scores are written onto a file ")
+    for row in all_LIWC_rows:
+        writer = csv.writer(open("Analysis_json/LIWC_results_Forbes4002.csv", 'a'))
+        writer.writerow(row)
+    all_LIWC_rows = []
+    print ("LIWC scores are written onto a file ")
 
 
-        for row in all_receptivity_rows:
-            writer = csv.writer(open("Analysis_json/Receptivity_scores_ForbesList_new1.csv", 'a'))
-            writer.writerow(row)
-        all_receptivity_rows = []
-        print("Receptiviti scores are written onto a file")
+    for row in all_receptivity_rows:
+        writer = csv.writer(open("Analysis_json/Receptivity_scores_Forbes4002.csv", 'a'))
+        writer.writerow(row)
+    all_receptivity_rows = []
+    print("Receptiviti scores are written onto a file")
 
 
-        count = count + 1
+    #count = count + 1
         #print("Batch number " + str(count) + " finished")
         #print("Sleeping now :)")
-        #time.sleep(100)
+        #time.sleep(100)'''
